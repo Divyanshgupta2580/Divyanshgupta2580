@@ -1,17 +1,16 @@
 # About Me
 
-**Developer / Open-Source Enthusiast**
+**First-Year College Student & Frontend / Full-Stack Developer**
 
-I'm focused on building autonomous AI agents, designing backend systems, and continuously optimizing performance.
+I'm focused on building autonomous AI agents, designing scalable backend systems, and continuously optimizing performance. 
 
-- 🤖 Building autonomous AI agents and persona management systems
-- ⚙️ Sharpening my skills in Data Structures & Algorithms with C++
-- 🌐 Developing full-stack web applications and hackathon projects
+* 🤖 Building autonomous AI agents and persona management systems
+* ⚙️ Sharpening my skills in Data Structures & Algorithms with C++
+* 🌐 Developing full-stack web applications and hackathon projects
 
 ---
 
 ### Featured Projects
-
 > Highlighted projects from my repositories.
 
 <table bordercolor="#30363d">
@@ -42,7 +41,7 @@ I'm focused on building autonomous AI agents, designing backend systems, and con
 ### Tech Stack
 
 **Languages**<br/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 **Frameworks & Databases**<br/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
@@ -53,19 +52,16 @@ I'm focused on building autonomous AI agents, designing backend systems, and con
 ---
 
 ### Contribution Activity
-
-<img src="https://raw.githubusercontent.com/[YOUR-USERNAME]/[YOUR-USERNAME]/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+<img src="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 
 ---
 
 ### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Divyanshgupta2580&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshgupta2580&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ---
 
 ### Connect With Me
-
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:inbox.DivyanshGupta1@protonmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/divyanshgupta2007/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
