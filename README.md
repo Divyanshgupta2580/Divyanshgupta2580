@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Divyanshgupta2580">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Second-Year+Engineering+Student;Autonomous+AI+Agents;Full-Stack+Applications;Backend+%26+AI+Systems;RAG+Applications;Data+Structures+%26+Algorithms;Practical+Engineering+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Second-Year+Engineering+Student;Autonomous+AI+Agents;Full-Stack+Applications;Backend+%26+AI+Systems;RAG+Applications;Data+Structures+%26+Algorithms;Practical+Engineering+Projects;Open+Source+Enthusiast;Open+Source+Builder" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,10 +23,10 @@
 
 **Second-Year Engineering Student · Full-Stack Developer · AI/ML Enthusiast**
 
-I focus on building intelligent software systems and engineering practical solutions. My core interests encompass autonomous AI agents, full-stack web and mobile application development, backend architecture, graph databases, data structures & algorithms, and edge computing.
+I focus on building intelligent software systems and engineering practical solutions. My core interests encompass autonomous AI agents, full-stack web application development, backend architecture, graph databases, data structures & algorithms, and edge computing.
 
 * Building autonomous AI agents and intelligent automation systems
-* Developing full-stack applications with modern web and mobile frameworks
+* Developing full-stack applications with modern web frameworks
 * Solving Data Structures & Algorithms challenges with C++
 * Implementing RAG pipelines, LLMs, and AI-driven applications
 * Designing scalable backend APIs and database architectures
@@ -126,7 +126,7 @@ I focus on building intelligent software systems and engineering practical solut
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" /></a>
 </p>
 
-### Frontend & Mobile
+### Frontend
 
 <p align="left">
   <a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></a>
@@ -178,7 +178,6 @@ I focus on building intelligent software systems and engineering practical solut
   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
   <a href="https://render.com/"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" /></a>
   <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
-  <a href="https://expo.dev/eas"><img src="https://img.shields.io/badge/EAS-000020?style=for-the-badge&logo=expo&logoColor=white" alt="EAS" /></a>
   <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /></a>
   <a href="https://www.tinkercad.com/"><img src="https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge" alt="Tinkercad" /></a>
 </p>
