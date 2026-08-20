@@ -250,11 +250,6 @@ I focus on building intelligent software systems and engineering practical solut
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ---
@@ -263,10 +258,11 @@ No activity tracked
 
 <p align="center">
   <a href="https://leetcode.com/u/DIVYANSHGUPTA2580/">
-    <img src="https://img.shields.io/badge/LeetCode-DIVYANSHGUPTA2580-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/Divyansh_Gupta2007">
-    <img src="https://img.shields.io/badge/Codeforces-Divyansh__Gupta2007-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </p>
 
@@ -276,16 +272,19 @@ No activity tracked
 
 <p align="center">
   <a href="mailto:inbox.DivyanshGupta1@protonmail.com">
-    <img src="https://img.shields.io/badge/Email-inbox.DivyanshGupta1-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/divyanshgupta2007/">
-    <img src="https://img.shields.io/badge/LinkedIn-Divyansh_Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://x.com/DivyanshGu19605">
-    <img src="https://img.shields.io/badge/X-DivyanshGu19605-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Divyanshgupta2580">
-    <img src="https://img.shields.io/badge/GitHub-Divyanshgupta2580-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
