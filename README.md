@@ -21,7 +21,7 @@
 
 ## About Me
 
-**First-Year Engineering Student · Full-Stack Developer · AI/ML Enthusiast**
+**Second-Year Engineering Student · Full-Stack Developer · AI/ML Enthusiast**
 
 I focus on building intelligent software systems and engineering practical solutions. My core interests encompass autonomous AI agents, full-stack web and mobile application development, backend architecture, graph databases, data structures & algorithms, and edge computing.
 
@@ -286,10 +286,6 @@ No activity tracked
   &nbsp;&nbsp;
   <a href="https://x.com/DivyanshGu19605">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Divyanshgupta2580">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
