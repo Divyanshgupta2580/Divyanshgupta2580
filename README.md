@@ -1,181 +1,285 @@
-# Divyansh Gupta
+<h1 align="center">Divyansh Gupta</h1>
 
-### First-Year Engineering Student · Frontend / Full-Stack Developer · AI Enthusiast
+<p align="center">
+  <a href="https://github.com/Divyanshgupta2580">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=First-Year+Engineering+Student;Full-Stack+Developer;AI%2FML+Enthusiast;Autonomous+AI+Agent+Builder;DSA+%7C+Backend+%7C+AI+Systems" alt="Typing SVG" />
+  </a>
+</p>
 
-I'm focused on building intelligent software systems, scalable applications, and practical engineering solutions. I enjoy working across the stack — from low-level programming and algorithms to modern web applications, backend architecture, and AI-powered systems.
+<p align="center">
+  <a href="https://github.com/Divyanshgupta2580">
+    <img src="https://img.shields.io/github/stars/Divyanshgupta2580?affiliations=OWNER&style=for-the-badge&logo=github&label=TOTAL%20STARS&color=58A6FF" alt="GitHub Stars" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Divyanshgupta2580&style=for-the-badge&color=58A6FF&label=PROFILE%20VIEWS" alt="Profile Views" />
+</p>
 
-* Building autonomous AI agents and persona management systems
-* Sharpening Data Structures & Algorithms with C++
+<p align="center">
+  <b>Building intelligent systems, scalable applications, and practical engineering solutions.</b>
+</p>
+
+---
+
+## About Me
+
+**First-Year Engineering Student · Full-Stack Developer · AI/ML Enthusiast**
+
+I'm focused on building intelligent software systems and turning ideas into practical products. My interests span autonomous AI agents, full-stack development, backend architecture, graph databases, algorithms, and edge computing.
+
+* Building autonomous AI agents and intelligent automation systems
 * Developing full-stack web and mobile applications
-* Exploring AI/ML, RAG systems, OCR, and intelligent automation
-* Building hackathon projects and real-world engineering solutions
-* Working with backend systems, graph databases, APIs, and cloud deployment
+* Sharpening Data Structures & Algorithms with C++
+* Exploring RAG, LLMs, OCR, and AI-powered systems
+* Designing scalable backend architectures and APIs
+* Building solutions for hackathons and real-world problems
+* Exploring embedded systems and edge computing
+
+**Location:** Delhi, India
 
 ---
 
 ## Featured Projects
 
-<table bordercolor="#30363d">
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>EchoMind-2</h3>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-      <br><br>
-      Autonomous AI agent development and persona management system focused on intelligent behavior, agent workflows, and system architecture.
-    </td>
-    <td width="50%" valign="top">
-      <h3>BenefitOS</h3>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/Divyanshgupta2580/BenifitOS_FINAL">
+        <img src="https://img.shields.io/badge/BenefitOS-HackHazzards-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="BenefitOS" />
+      </a>
+      <br/><br/>
+      <sub><b>Citizen Welfare Discovery Platform</b></sub>
+      <br/><br/>
+      Platform designed to help citizens discover welfare schemes they are eligible for, understand the required documents, and move toward applying for available benefits.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/AI-412991?style=flat-square" />
       <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-      <br><br>
-      Citizen welfare discovery platform using graph-based architecture, recommendation systems, document verification, AI assistance, and scalable backend services.
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/Divyanshgupta2580/Tron">
+        <img src="https://img.shields.io/badge/TRON-Autonomous%20AI%20Agent-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="TRON" />
+      </a>
+      <br/><br/>
+      <sub><b>Autonomous News Intelligence Agent</b></sub>
+      <br/><br/>
+      Autonomous agent that searches the web for a configured topic, evaluates discovered news against defined standards, and publishes qualifying results on an automated 45-minute cycle.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/AI_Agent-8B5CF6?style=flat-square" />
+      <img src="https://img.shields.io/badge/Web_Search-24292F?style=flat-square&logo=googlechrome&logoColor=white" />
+      <img src="https://img.shields.io/badge/Automation-0F766E?style=flat-square" />
     </td>
   </tr>
+
   <tr>
-    <td width="50%" valign="top">
-      <h3>dot-automation</h3>
-      <img src="https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnubash&logoColor=white" />
-      <img src="https://img.shields.io/badge/Config-00599C?style=flat-square" />
-      <br><br>
-      Developer-focused automation and configuration system for managing system structures, services, and development tools.
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/Divyanshgupta2580/Incident_DNA_AI">
+        <img src="https://img.shields.io/badge/Incident%20DNA%20AI-Code%20Reliability-F97316?style=for-the-badge&logo=github&logoColor=white" alt="Incident DNA AI" />
+      </a>
+      <br/><br/>
+      <sub><b>Autonomous Code Failure Analysis</b></sub>
+      <br/><br/>
+      AI-driven system designed to identify where code fails, analyze recurring failure patterns, and help developers prevent repeated mistakes from appearing again.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/AI_Agent-F97316?style=flat-square" />
+      <img src="https://img.shields.io/badge/Code_Analysis-24292F?style=flat-square" />
+      <img src="https://img.shields.io/badge/Automation-0F766E?style=flat-square" />
     </td>
-    <td width="50%" valign="top">
-      <h3>Weather & Profile Applications</h3>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <br><br>
-      Web applications built with secure environment-variable based API configuration and modern frontend practices.
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/Divyanshgupta2580/Student_Management_System">
+        <img src="https://img.shields.io/badge/Student%20Management%20System-Management%20Platform-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Student Management System" />
+      </a>
+      <br/><br/>
+      <sub><b>Complete Student Management Platform</b></sub>
+      <br/><br/>
+      A complete management system designed to organize and manage student information through a structured application.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Management-22C55E?style=flat-square" />
+      <img src="https://img.shields.io/badge/Database-4479A1?style=flat-square" />
+      <img src="https://img.shields.io/badge/Full--Stack-2563EB?style=flat-square" />
     </td>
   </tr>
 </table>
 
 ---
 
-## Tech Stack
+## Technology Stack
 
 ### Languages
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<p align="left">
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" /></a>
+  <a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+  <a href="https://www.postgresql.org/docs/current/sql.html"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" /></a>
+</p>
 
 ### Frontend & Mobile
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<p align="left">
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+  <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></a>
+  <a href="https://expo.dev/"><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" /></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></a>
+</p>
 
-### Backend & Runtime
+### Backend & APIs
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<p align="left">
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/REST"><img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" alt="REST APIs" /></a>
+  <a href="https://jwt.io/"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" /></a>
+</p>
 
-### Databases
+### Databases & Data
 
-<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<p align="left">
+  <a href="https://neo4j.com/"><img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+  <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /></a>
+  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+  <a href="https://qdrant.tech/"><img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" /></a>
+</p>
 
 ### AI & Machine Learning
 
-<img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLM_Integration-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OCR-4A90E2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge" />
+<p align="left">
+  <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge" alt="RAG" />
+  <a href="https://www.sarvam.ai/"><img src="https://img.shields.io/badge/Sarvam_AI-FF6B35?style=for-the-badge" alt="Sarvam AI" /></a>
+  <a href="https://aihub.qualcomm.com/"><img src="https://img.shields.io/badge/Qualcomm_AI_Hub-3253DC?style=for-the-badge&logo=qualcomm&logoColor=white" alt="Qualcomm AI Hub" /></a>
+  <a href="https://ai.google.dev/gemma"><img src="https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemma" /></a>
+</p>
 
-### DevOps, Tools & Platforms
+### Tools & Platforms
 
-<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-<img src="https://img.shields.io/badge/EAS-000020?style=for-the-badge&logo=expo&logoColor=white" />
-
----
-
-## What I'm Working On
-
-* Autonomous AI agents and agent architectures
-* Full-stack application development
-* Data Structures & Algorithms
-* Backend architecture and API development
-* Graph-based systems using Neo4j
-* AI-powered recommendation and retrieval systems
-* Computer vision and document processing
-* Embedded and edge-computing projects
-* Hackathon projects focused on practical engineering problems
+<p align="left">
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+  <a href="https://render.com/"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" /></a>
+  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
+  <a href="https://expo.dev/eas"><img src="https://img.shields.io/badge/EAS-000020?style=for-the-badge&logo=expo&logoColor=white" alt="EAS" /></a>
+  <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /></a>
+  <a href="https://www.tinkercad.com/"><img src="https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge" alt="Tinkercad" /></a>
+</p>
 
 ---
 
-## Engineering Interests
+## Current Focus
 
-```text
-Artificial Intelligence
-        ↓
-Autonomous Agents
-        ↓
-Backend Systems
-        ↓
-Graph Databases
-        ↓
-Full-Stack Applications
-        ↓
-Performance & Scalability
-        ↓
-Real-World Engineering
-```
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <b>AI Systems</b>
+      <br/><br/>
+      Autonomous agents, RAG pipelines, LLM integration, intelligent automation
+    </td>
+    <td width="33%" align="center">
+      <b>Software Engineering</b>
+      <br/><br/>
+      DSA, backend architecture, APIs, databases, performance optimization
+    </td>
+    <td width="33%" align="center">
+      <b>Engineering Projects</b>
+      <br/><br/>
+      Hackathons, edge computing, embedded systems, and real-world applications
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Contribution Activity
 
-<img src="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-
----
-
-## GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=Divyanshgupta2580&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshgupta2580&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-
----
-
-## Connect With Me
-
-<a href="mailto:inbox.DivyanshGupta1@protonmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/Divyanshgupta2580">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
----
-
-## Profile Views
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Divyanshgupta2580&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
 <p align="center">
-  <b>Building. Learning. Optimizing.</b>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/main/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/main/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/main/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Divyanshgupta2580&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshgupta2580&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/main/generated/github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+---
+
+## Coding Activity
+
+<!--START_SECTION:waka-->
+
+### WakaTime Statistics
+
+<!--END_SECTION:waka-->
+
+---
+
+## Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/u/DIVYANSHGUPTA2580/">
+    <img src="https://img.shields.io/badge/LeetCode-DIVYANSHGUPTA2580-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/Divyansh_Gupta2007">
+    <img src="https://img.shields.io/badge/Codeforces-Divyansh__Gupta2007-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="mailto:inbox.DivyanshGupta1@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-inbox.DivyanshGupta1-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/divyanshgupta2007/">
+    <img src="https://img.shields.io/badge/LinkedIn-Divyansh_Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/DivyanshGu19605">
+    <img src="https://img.shields.io/badge/X-DivyanshGu19605-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://github.com/Divyanshgupta2580">
+    <img src="https://img.shields.io/badge/GitHub-Divyanshgupta2580-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<!-- Portfolio is currently under development and will be added here when ready. -->
+
+---
+
+<p align="center">
+  <a href="https://github.com/Divyanshgupta2580?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Building intelligent systems. Solving real problems. Learning continuously.</b>
 </p>
