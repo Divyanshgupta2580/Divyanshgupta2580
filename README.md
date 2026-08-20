@@ -23,15 +23,15 @@
 
 **First-Year Engineering Student · Full-Stack Developer · AI/ML Enthusiast**
 
-I'm focused on building intelligent software systems and turning ideas into practical products. My interests span autonomous AI agents, full-stack development, backend architecture, graph databases, algorithms, and edge computing.
+I focus on building intelligent software systems and engineering practical solutions. My core interests encompass autonomous AI agents, full-stack web and mobile application development, backend architecture, graph databases, data structures & algorithms, and edge computing.
 
 * Building autonomous AI agents and intelligent automation systems
-* Developing full-stack web and mobile applications
-* Sharpening Data Structures & Algorithms with C++
-* Exploring RAG, LLMs, OCR, and AI-powered systems
-* Designing scalable backend architectures and APIs
-* Building solutions for hackathons and real-world problems
-* Exploring embedded systems and edge computing
+* Developing full-stack applications with modern web and mobile frameworks
+* Solving Data Structures & Algorithms challenges with C++
+* Implementing RAG pipelines, LLMs, and AI-driven applications
+* Designing scalable backend APIs and database architectures
+* Engineering solutions for hackathons and real-world problems
+* Exploring edge computing and embedded systems
 
 **Location:** Delhi, India
 
@@ -48,21 +48,23 @@ I'm focused on building intelligent software systems and turning ideas into prac
       <br/><br/>
       <sub><b>Citizen Welfare Discovery Platform</b></sub>
       <br/><br/>
-      Platform designed to help citizens discover welfare schemes they are eligible for, understand the required documents, and move toward applying for available benefits.
+      A citizen welfare discovery platform that helps people discover government welfare schemes they are eligible for, understand the requirements and documents, and move toward applying for those benefits so citizens can maximize the benefits available to them.
       <br/><br/>
-      <img src="https://img.shields.io/badge/AI-412991?style=flat-square" />
       <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI-412991?style=flat-square" />
     </td>
     <td align="center" width="50%" valign="top">
       <a href="https://github.com/Divyanshgupta2580/Tron">
-        <img src="https://img.shields.io/badge/TRON-Autonomous%20AI%20Agent-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="TRON" />
+        <img src="https://img.shields.io/badge/TRON-AB%20Talks-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="TRON" />
       </a>
       <br/><br/>
       <sub><b>Autonomous News Intelligence Agent</b></sub>
       <br/><br/>
-      Autonomous agent that searches the web for a configured topic, evaluates discovered news against defined standards, and publishes qualifying results on an automated 45-minute cycle.
+      An autonomous AI agent that searches the web for a configured topic, evaluates discovered news against defined standards, and automatically publishes qualifying news every 45 minutes.
       <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/AI_Agent-8B5CF6?style=flat-square" />
       <img src="https://img.shields.io/badge/Web_Search-24292F?style=flat-square&logo=googlechrome&logoColor=white" />
       <img src="https://img.shields.io/badge/Automation-0F766E?style=flat-square" />
@@ -77,7 +79,7 @@ I'm focused on building intelligent software systems and turning ideas into prac
       <br/><br/>
       <sub><b>Autonomous Code Failure Analysis</b></sub>
       <br/><br/>
-      AI-driven system designed to identify where code fails, analyze recurring failure patterns, and help developers prevent repeated mistakes from appearing again.
+      An autonomous AI system that identifies where code is failing, analyzes failure patterns, helps developers understand why the failure occurred, and helps prevent repeated mistakes. If the same mistake is repeated, the system should help identify and prevent that recurring failure pattern.
       <br/><br/>
       <img src="https://img.shields.io/badge/AI_Agent-F97316?style=flat-square" />
       <img src="https://img.shields.io/badge/Code_Analysis-24292F?style=flat-square" />
@@ -85,15 +87,15 @@ I'm focused on building intelligent software systems and turning ideas into prac
     </td>
     <td align="center" width="50%" valign="top">
       <a href="https://github.com/Divyanshgupta2580/Student_Management_System">
-        <img src="https://img.shields.io/badge/Student%20Management%20System-Management%20Platform-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Student Management System" />
+        <img src="https://img.shields.io/badge/Student%20Management%20System-Platform-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Student Management System" />
       </a>
       <br/><br/>
-      <sub><b>Complete Student Management Platform</b></sub>
+      <sub><b>Complete Student Management System</b></sub>
       <br/><br/>
-      A complete management system designed to organize and manage student information through a structured application.
+      A complete student management system designed to organize and manage student information through a structured application.
       <br/><br/>
-      <img src="https://img.shields.io/badge/Management-22C55E?style=flat-square" />
-      <img src="https://img.shields.io/badge/Database-4479A1?style=flat-square" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/Full--Stack-2563EB?style=flat-square" />
     </td>
   </tr>
@@ -120,8 +122,10 @@ I'm focused on building intelligent software systems and turning ideas into prac
 ### Frontend & Mobile
 
 <p align="left">
+  <a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></a>
+  <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
-  <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></a>
   <a href="https://expo.dev/"><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" /></a>
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></a>
@@ -134,6 +138,7 @@ I'm focused on building intelligent software systems and turning ideas into prac
   <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/REST"><img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" alt="REST APIs" /></a>
   <a href="https://jwt.io/"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" /></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
 </p>
 
 ### Databases & Data
@@ -201,14 +206,26 @@ I'm focused on building intelligent software systems and turning ideas into prac
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img
+    src="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/main/profile-3d-contrib/profile-night-rainbow.svg"
+    alt="3D Contribution Graph"
+  />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/main/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/main/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/main/output/github-contribution-grid-snake.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
   </picture>
 </p>
 
@@ -225,7 +242,7 @@ I'm focused on building intelligent software systems and turning ideas into prac
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/main/generated/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
@@ -233,8 +250,6 @@ I'm focused on building intelligent software systems and turning ideas into prac
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-
-### WakaTime Statistics
 
 <!--END_SECTION:waka-->
 
@@ -270,7 +285,7 @@ I'm focused on building intelligent software systems and turning ideas into prac
   </a>
 </p>
 
-<!-- Portfolio is currently under development and will be added here when ready. -->
+<!-- Portfolio: under development -->
 
 ---
 
@@ -283,3 +298,4 @@ I'm focused on building intelligent software systems and turning ideas into prac
 <p align="center">
   <b>Building intelligent systems. Solving real problems. Learning continuously.</b>
 </p>
+
