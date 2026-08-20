@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Divyanshgupta2580">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Second-Year+Engineering+Student;Full-Stack+Development;Autonomous+AI+Agents;AI%2FML+Systems;Backend+Engineering;Data+Structures+%26+Algorithms" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Second-Year+Engineering+Student;Autonomous+AI+Agents;Full-Stack+Applications;Backend+%26+AI+Systems;RAG+Applications;Data+Structures+%26+Algorithms;Practical+Engineering+Projects" alt="Typing SVG" />
   </a>
 </p>
 
@@ -37,6 +37,13 @@ I focus on building intelligent software systems and engineering practical solut
 
 ---
 
+## Education
+
+**Mirai School of Technology, Ghaziabad**<br/>
+*Bachelor of Technology in Computer Science Engineering (AI/ML) · Expected 2029*
+
+---
+
 ## Featured Projects
 
 <table>
@@ -48,7 +55,7 @@ I focus on building intelligent software systems and engineering practical solut
       <br/><br/>
       <sub><b>Citizen Welfare Discovery Platform</b></sub>
       <br/><br/>
-      A citizen welfare discovery platform that helps people discover government welfare schemes they are eligible for, understand the requirements and documents, and move toward applying for those benefits so citizens can maximize the benefits available to them.
+      BenefitOS is a welfare discovery platform that helps citizens identify government schemes they may be eligible for and guides them toward applying for those benefits.
       <br/><br/>
       <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
@@ -62,7 +69,7 @@ I focus on building intelligent software systems and engineering practical solut
       <br/><br/>
       <sub><b>Autonomous News Intelligence Agent</b></sub>
       <br/><br/>
-      An autonomous AI agent that searches the web for a configured topic, evaluates discovered news against defined standards, and automatically publishes qualifying news every 45 minutes.
+      TRON is an autonomous AI agent that searches the web for a configured topic, evaluates discovered news against defined criteria, and publishes qualifying updates on a recurring schedule.
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/AI_Agent-8B5CF6?style=flat-square" />
@@ -79,7 +86,7 @@ I focus on building intelligent software systems and engineering practical solut
       <br/><br/>
       <sub><b>Autonomous Code Failure Analysis</b></sub>
       <br/><br/>
-      An autonomous AI system that identifies where code is failing, analyzes failure patterns, helps developers understand why the failure occurred, and helps prevent repeated mistakes. If the same mistake is repeated, the system should help identify and prevent that recurring failure pattern.
+      Incident DNA AI is an autonomous AI system that analyzes code failures, identifies recurring failure patterns, and helps developers avoid repeating the same mistakes.
       <br/><br/>
       <img src="https://img.shields.io/badge/AI_Agent-F97316?style=flat-square" />
       <img src="https://img.shields.io/badge/Code_Analysis-24292F?style=flat-square" />
@@ -92,7 +99,7 @@ I focus on building intelligent software systems and engineering practical solut
       <br/><br/>
       <sub><b>Complete Student Management System</b></sub>
       <br/><br/>
-      A complete student management system designed to organize and manage student information through a structured application.
+      Student Management System is a complete application for managing student records and related academic and administrative information.
       <br/><br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
