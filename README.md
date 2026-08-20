@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Divyanshgupta2580">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Second-Year+Engineering+Student;Full-Stack+Developer;AI%2FML+Enthusiast;Autonomous+AI+Agent+Builder;DSA+%7C+Backend+%7C+AI+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Second-Year+Engineering+Student;Full-Stack+Development;Autonomous+AI+Agents;AI%2FML+Systems;Backend+Engineering;Data+Structures+%26+Algorithms" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <b>Building intelligent systems, scalable applications, and practical engineering solutions.</b>
+  <b>Building intelligent systems, scalable software, and practical engineering solutions.</b>
 </p>
 
 ---
