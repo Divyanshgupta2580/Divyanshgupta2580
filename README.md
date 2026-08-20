@@ -281,8 +281,8 @@ No activity tracked
 ## Connect
 
 <p align="center">
-  <a href="mailto:divyanshvinu12@icloud.com">
-    <img src="https://img.shields.io/badge/Email-3693F3?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" />
+  <a href="mailto:inbox.DivyanshGupta1@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/divyanshgupta2007/">
