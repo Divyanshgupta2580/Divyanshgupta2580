@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Divyanshgupta2580">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=First-Year+Engineering+Student;Full-Stack+Developer;AI%2FML+Enthusiast;Autonomous+AI+Agent+Builder;DSA+%7C+Backend+%7C+AI+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Second-Year+Engineering+Student;Full-Stack+Developer;AI%2FML+Enthusiast;Autonomous+AI+Agent+Builder;DSA+%7C+Backend+%7C+AI+Systems" alt="Typing SVG" />
   </a>
 </p>
 
