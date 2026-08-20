@@ -25,13 +25,13 @@
 
 I focus on building intelligent software systems and engineering practical solutions. My core interests encompass autonomous AI agents, full-stack web application development, backend architecture, graph databases, data structures & algorithms, and edge computing.
 
-* Building autonomous AI agents and intelligent automation systems
-* Developing full-stack applications with modern web frameworks
-* Solving Data Structures & Algorithms challenges with C++
-* Implementing RAG pipelines, LLMs, and AI-driven applications
-* Designing scalable backend APIs and database architectures
-* Engineering solutions for hackathons and real-world problems
-* Exploring edge computing and embedded systems
+- Building autonomous AI agents and intelligent automation systems
+- Developing full-stack applications with modern web frameworks
+- Solving Data Structures & Algorithms challenges with C++
+- Implementing RAG pipelines, LLMs, and AI-driven applications
+- Designing scalable backend APIs and database architectures
+- Engineering solutions for hackathons and real-world problems
+- Exploring edge computing and embedded systems
 
 **Location:** Delhi, India
 
@@ -40,7 +40,7 @@ I focus on building intelligent software systems and engineering practical solut
 ## Education
 
 **Mirai School of Technology, Ghaziabad**<br/>
-*Bachelor of Technology in Computer Science Engineering (AI/ML) · Expected 2029*
+_Bachelor of Technology in Computer Science Engineering (AI/ML) · Expected 2029_
 
 ---
 
@@ -281,7 +281,7 @@ No activity tracked
 ## Connect
 
 <p align="center">
-  <a href="mailto:inbox.DivyanshGupta1@protonmail.com">
+  <a href="mailto:divyanshvinu12@icloud.com">
     <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
@@ -307,4 +307,3 @@ No activity tracked
 <p align="center">
   <b>Building intelligent systems. Solving real problems. Learning continuously.</b>
 </p>
-
