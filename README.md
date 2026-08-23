@@ -257,11 +257,11 @@ _Bachelor of Technology in Computer Science Engineering (AI/ML) · Expected 2029
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 49 mins          ████████████████▓░░░░░░░░   67.27 %
-TypeScript   31 mins               █████░░░░░░░░░░░░░░░░░░░░   19.51 %
-YAML         16 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-Other        5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+TypeScript   2 hrs 17 mins         ██████████▓░░░░░░░░░░░░░░   42.04 %
+Markdown     2 hrs 8 mins          █████████▓░░░░░░░░░░░░░░░   39.28 %
+Bash         37 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+YAML         16 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+Other        5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
