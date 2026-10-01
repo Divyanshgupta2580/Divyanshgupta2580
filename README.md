@@ -232,11 +232,10 @@ _Bachelor of Technology in Computer Science Engineering (AI/ML) · Expected 2029
 <!--START_SECTION:waka-->
 
 ```txt
-C++          3 hrs 5 mins          ████████████████▒░░░░░░░░   65.45 %
-JavaScript   23 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-Text         19 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-Git Config   18 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-JSON         13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+C++      1 hr 37 mins          ████████████████████▒░░░░   81.49 %
+Text     18 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
+Python   3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Yacc     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
