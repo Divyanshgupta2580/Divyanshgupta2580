@@ -2,44 +2,32 @@
 
 <p align="center">
   <a href="https://github.com/Divyanshgupta2580">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Second-Year+Engineering+Student;Autonomous+AI+Agents;Full-Stack+Applications;Backend+%26+AI+Systems;RAG+Applications;Data+Structures+%26+Algorithms;Practical+Engineering+Projects;Open+Source+Enthusiast;Open+Source+Builder" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=580&height=40&lines=Second-Year+Computer+Science+Engineering+Student;Full-Stack+Developer;AI+Agent+Builder;Building+Practical+Software;Open-Source+Contributor"
+      alt="Animated typing text: Second-Year Computer Science Engineering Student, Full-Stack Developer, AI Agent Builder, Building Practical Software, Open-Source Contributor"
+    />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Divyanshgupta2580">
-    <img src="https://img.shields.io/github/stars/Divyanshgupta2580?affiliations=OWNER&style=for-the-badge&logo=github&label=TOTAL%20STARS&color=58A6FF" alt="GitHub Stars" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Divyanshgupta2580&style=for-the-badge&color=58A6FF&label=PROFILE%20VIEWS" alt="Profile Views" />
+  <b>Engineering student building practical full-stack software and AI agent systems.</b>
 </p>
 
 <p align="center">
-  <b>Building intelligent systems, scalable software, and practical engineering solutions.</b>
+  <a href="https://divyansh-gupta-portfolio-lac.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 
-## About Me
+### About
 
-**Second-Year Engineering Student · Full-Stack Developer · AI/ML Enthusiast**
+Second-year **B.Tech CSE (AI/ML)** student at **Mirai School of Technology, Ghaziabad** (expected graduation **2029**).
 
-I focus on building intelligent software systems and engineering practical solutions. My core interests encompass autonomous AI agents, full-stack web application development, backend architecture, graph databases, and data structures & algorithms.
+I build full-stack applications and practical AI systems — from citizen-facing web platforms to autonomous agents that research, evaluate, and publish on a schedule. I care about clear architecture, honest engineering tradeoffs, and software that solves a real problem.
 
-- Building autonomous AI agents and intelligent automation systems
-- Developing full-stack applications with modern web frameworks
-- Solving Data Structures & Algorithms challenges with C++
-- Implementing RAG pipelines, LLMs, and AI-driven applications
-- Designing scalable backend APIs and database architectures
-- Engineering solutions for hackathons and real-world problems
-
-**Location:** Delhi, India
-
----
-
-## Education
-
-**Mirai School of Technology, Ghaziabad**<br/>
-_Bachelor of Technology in Computer Science Engineering (AI/ML) · Expected 2029_
+Open to internships, collaborations, and focused freelance work.
 
 ---
 
@@ -47,62 +35,91 @@ _Bachelor of Technology in Computer Science Engineering (AI/ML) · Expected 2029
 
 <table>
   <tr>
-    <td align="center" width="50%" valign="top">
-      <a href="https://github.com/Divyanshgupta2580/BenifitOS_FINAL">
-        <img src="https://img.shields.io/badge/BenefitOS-HackHazzards-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="BenefitOS" />
-      </a>
-      <br/><br/>
-      <sub><b>Citizen Welfare Discovery Platform</b></sub>
-      <br/><br/>
-      BenefitOS is a welfare discovery platform that helps citizens identify government schemes they may be eligible for and guides them toward applying for those benefits.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/AI-412991?style=flat-square" />
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/Divyanshgupta2580/BenifitOS_FINAL">BenefitOS</a>
+        &nbsp;<sup><code>Full-Stack · AI</code></sup>
+      </h3>
+      <p>
+        Citizen welfare discovery platform that helps people find government schemes they may qualify for, understand eligibility, prepare documents, and move through application workflows.
+      </p>
+      <p>
+        Built as a TypeScript monorepo with a React client and NestJS API — deterministic eligibility scoring, document/OCR flows, and an AI citizen copilot for guided scheme help.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/AI_Copilot-58A6FF?style=flat-square" alt="AI Copilot" />
+      </p>
+      <p>
+        <a href="https://github.com/Divyanshgupta2580/BenifitOS_FINAL"><b>Source</b></a>
+        ·
+        <a href="https://benifitos-final.onrender.com/"><b>Live demo</b></a>
+      </p>
     </td>
-    <td align="center" width="50%" valign="top">
-      <a href="https://github.com/Divyanshgupta2580/Tron">
-        <img src="https://img.shields.io/badge/TRON-AB%20Talks-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="TRON" />
-      </a>
-      <br/><br/>
-      <sub><b>Autonomous News Intelligence Agent</b></sub>
-      <br/><br/>
-      TRON is an autonomous AI agent that searches the web for a configured topic, evaluates discovered news against defined criteria, and publishes qualifying updates on a recurring schedule.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/AI_Agent-8B5CF6?style=flat-square" />
-      <img src="https://img.shields.io/badge/Web_Search-24292F?style=flat-square&logo=googlechrome&logoColor=white" />
-      <img src="https://img.shields.io/badge/Automation-0F766E?style=flat-square" />
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/Divyanshgupta2580/Tron">TRON</a>
+        &nbsp;<sup><code>AI Agent</code></sup>
+      </h3>
+      <p>
+        Autonomous news intelligence agent that discovers topics on a schedule, scores candidates against editorial criteria, deduplicates semantically, and publishes qualifying updates.
+      </p>
+      <p>
+        FastAPI serves precomputed feed reads from SQLite while a background scheduler handles discovery, scoring, synthesis, and publishing — keeping request paths free of LLM calls.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/LLM_APIs-8B5CF6?style=flat-square" alt="LLM APIs" />
+        <img src="https://img.shields.io/badge/AI_Agent-412991?style=flat-square" alt="AI Agent" />
+      </p>
+      <p>
+        <a href="https://github.com/Divyanshgupta2580/Tron"><b>Source</b></a>
+      </p>
     </td>
   </tr>
-
   <tr>
-    <td align="center" width="50%" valign="top">
-      <a href="https://github.com/Divyanshgupta2580/Incident_DNA_AI">
-        <img src="https://img.shields.io/badge/Incident%20DNA%20AI-Code%20Reliability-F97316?style=for-the-badge&logo=github&logoColor=white" alt="Incident DNA AI" />
-      </a>
-      <br/><br/>
-      <sub><b>Autonomous Code Failure Analysis</b></sub>
-      <br/><br/>
-      Incident DNA AI is an autonomous AI system that analyzes code failures, identifies recurring failure patterns, and helps developers avoid repeating the same mistakes.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/AI_Agent-F97316?style=flat-square" />
-      <img src="https://img.shields.io/badge/Code_Analysis-24292F?style=flat-square" />
-      <img src="https://img.shields.io/badge/Automation-0F766E?style=flat-square" />
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/Divyanshgupta2580/Incident_DNA_AI">Incident DNA AI</a>
+        &nbsp;<sup><code>AI Agent</code></sup>
+      </h3>
+      <p>
+        AI agent for code failure analysis — identifying where software crashes or fails, detecting recurring mistakes, and encouraging safer coding practices.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/AI_Agent-F97316?style=flat-square" alt="AI Agent" />
+        <img src="https://img.shields.io/badge/Code_Analysis-24292F?style=flat-square" alt="Code Analysis" />
+      </p>
+      <p>
+        <a href="https://github.com/Divyanshgupta2580/Incident_DNA_AI"><b>Source</b></a>
+      </p>
     </td>
-    <td align="center" width="50%" valign="top">
-      <a href="https://github.com/Divyanshgupta2580/Student_Management_System">
-        <img src="https://img.shields.io/badge/Student%20Management%20System-Platform-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Student Management System" />
-      </a>
-      <br/><br/>
-      <sub><b>Complete Student Management System</b></sub>
-      <br/><br/>
-      Student Management System is a complete application for managing student records and related academic and administrative information.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Full--Stack-2563EB?style=flat-square" />
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/Divyanshgupta2580/Student_Management_System">Student Management System</a>
+        &nbsp;<sup><code>Full-Stack</code></sup>
+      </h3>
+      <p>
+        Full-stack student record system with create, read, update, delete, and name search — built as a Node.js / Express application with MongoDB persistence and EJS server-rendered views.
+      </p>
+      <p>
+        Demonstrates MVC structure, routing, form handling, and CRUD workflows for academic administration.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/EJS-A91E50?style=flat-square" alt="EJS" />
+      </p>
+      <p>
+        <a href="https://github.com/Divyanshgupta2580/Student_Management_System"><b>Source</b></a>
+      </p>
     </td>
   </tr>
 </table>
@@ -111,119 +128,62 @@ _Bachelor of Technology in Computer Science Engineering (AI/ML) · Expected 2029
 
 ## Technology Stack
 
-### Languages
+<p align="center"><sub>Core tools I use across coursework and projects</sub></p>
 
-<p align="left">
-  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-### Frontend
+**Frontend**
 
-<p align="left">
-  <a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></a>
-  <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></a>
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
-### Backend
+**Backend**
 
-<p align="left">
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
-  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
 </p>
 
-### Databases
+**Databases**
 
-<p align="left">
-  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-  <a href="https://neo4j.com/"><img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" /></a>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
 </p>
 
-### AI & Machine Learning
+**AI**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge" alt="AI Agents" />
+<p>
+  <img src="https://img.shields.io/badge/RAG-6C47FF?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/AI_Agents-412991?style=flat-square" alt="AI Agents" />
 </p>
 
-### Tools & Platforms
+**Tools & Platforms**
 
-<p align="left">
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ---
 
 ## Current Focus
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <b>AI Systems</b>
-      <br/><br/>
-      Autonomous agents, RAG pipelines, LLM integration, intelligent automation
-    </td>
-    <td width="33%" align="center">
-      <b>Software Engineering</b>
-      <br/><br/>
-      DSA, backend architecture, APIs, databases, performance optimization
-    </td>
-    <td width="33%" align="center">
-      <b>Engineering Projects</b>
-      <br/><br/>
-      Hackathons and real-world applications
-    </td>
-  </tr>
-</table>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/main/profile-3d-contrib/profile-night-rainbow.svg"
-    alt="3D Contribution Graph"
-  />
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
-</p>
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyanshgupta2580&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshgupta2580&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
+- Strengthening full-stack engineering with TypeScript, React, Node.js, and Express
+- Building practical AI agents and RAG-style workflows for real tasks
+- Practicing DSA in C++ on LeetCode and Codeforces
+- Shipping clearer project documentation and more reliable deployments
 
 ---
 
@@ -243,17 +203,45 @@ C++            1 hr 21 mins          ██▒░░░░░░░░░░░�
 
 ---
 
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake.svg"
+      alt="Animated GitHub contribution snake"
+    />
+  </picture>
+</p>
+
+---
+
 ## Competitive Programming
 
 <p align="center">
   <a href="https://leetcode.com/u/DIVYANSHGUPTA2580/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/Divyansh_Gupta2007">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </p>
+
+---
+
+## Education
+
+**Mirai School of Technology, Ghaziabad**<br/>
+B.Tech in Computer Science Engineering (AI/ML) · Expected graduation 2029
 
 ---
 
@@ -261,28 +249,18 @@ C++            1 hr 21 mins          ██▒░░░░░░░░░░░�
 
 <p align="center">
   <a href="mailto:inbox.DivyanshGupta1@protonmail.com">
-    <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/divyanshgupta2007/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/DivyanshGu19605">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
-
-<!-- Portfolio: under development -->
-
----
-
-<p align="center">
-  <a href="https://github.com/Divyanshgupta2580?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
 <p align="center">
-  <b>Building intelligent systems. Solving real problems. Learning continuously.</b>
+  <sub>Building practical software · Learning in public · Open to opportunities</sub>
 </p>
