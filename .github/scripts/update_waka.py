@@ -4,7 +4,14 @@ Updates the WakaTime stats in README.md between:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-Includes total active time, languages breakdown, and editors/IDEs breakdown.
+Includes:
+- Today's coding time
+- Monthly coding time
+- Yearly & All-Time coding time
+- Languages breakdown with progress bars
+Excludes:
+- Editors & Tools breakdown (strictly removed per user specification)
+
 Handles API errors gracefully without exposing secrets or failing builds.
 """
 
@@ -36,23 +43,83 @@ def get_api_key():
 
     return None
 
+def fetch_json(url, auth_header, timeout=12):
+    req = urllib.request.Request(url, headers={"Authorization": auth_header})
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            return json.loads(resp.read().decode("utf-8"))
+    except Exception as e:
+        print(f"WARN: Failed fetching {url}: {e}")
+        return None
+
 def make_bar(percent, bar_len=25):
     filled = int(round((percent / 100.0) * bar_len))
     filled = max(0, min(bar_len, filled))
     empty = bar_len - filled
     return "█" * filled + "░" * empty
 
-def format_stats(data):
-    total_time = data.get("human_readable_total", "")
-    languages = data.get("languages", [])
-    editors = data.get("editors", [])
+def main():
+    api_key = get_api_key()
+    if not api_key:
+        print("INFO: WAKATIME_API_KEY is not set. Preserving existing README content.")
+        sys.exit(0)
+
+    auth_header = "Basic " + base64.b64encode(api_key.encode("utf-8")).decode("utf-8")
+
+    # 1. Fetch Today's time
+    today_data = fetch_json("https://api.wakatime.com/api/v1/users/current/summaries?range=today", auth_header)
+    today_text = None
+    if today_data:
+        today_text = today_data.get("cumulative_total", {}).get("text")
+
+    # 2. Fetch Monthly time (this_month)
+    month_data = fetch_json("https://api.wakatime.com/api/v1/users/current/summaries?range=this_month", auth_header)
+    month_text = None
+    if month_data:
+        month_text = month_data.get("cumulative_total", {}).get("text")
+
+    # 3. Fetch Yearly time (last_year)
+    year_data = fetch_json("https://api.wakatime.com/api/v1/users/current/stats/last_year", auth_header)
+    year_text = None
+    if year_data:
+        year_text = year_data.get("data", {}).get("human_readable_total")
+
+    # 4. Fetch All-Time cumulative time
+    all_time_data = fetch_json("https://api.wakatime.com/api/v1/users/current/all_time_since_today", auth_header)
+    all_time_text = None
+    if all_time_data:
+        all_time_text = all_time_data.get("data", {}).get("text")
+    if not all_time_text and year_data:
+        all_time_text = year_data.get("data", {}).get("text")
+
+    # 5. Fetch Languages breakdown
+    stats_data = fetch_json("https://api.wakatime.com/api/v1/users/current/stats/last_7_days", auth_header)
+    languages = []
+    if stats_data:
+        languages = stats_data.get("data", {}).get("languages", [])
 
     lines = []
-    if total_time:
-        lines.append(f"Total Active Time (Last 7 Days): {total_time}")
-        lines.append("")
 
-    # Filter out empty or negligible items
+    # Time Summary Section (Today, Monthly, Yearly / All-Time)
+    lines.append("Coding Activity:")
+    if today_text:
+        lines.append(f"Today:          {today_text}")
+    else:
+        lines.append("Today:          0 mins")
+
+    if month_text:
+        lines.append(f"This Month:     {month_text}")
+
+    if year_text and all_time_text:
+        lines.append(f"This Year:      {year_text} (All Time: {all_time_text})")
+    elif year_text:
+        lines.append(f"This Year:      {year_text}")
+    elif all_time_text:
+        lines.append(f"All Time:       {all_time_text}")
+
+    lines.append("")
+
+    # Languages Section
     filtered_langs = [l for l in languages if l.get("percent", 0) >= 1.0][:6]
     if filtered_langs:
         lines.append("Languages:")
@@ -64,45 +131,8 @@ def format_stats(data):
             pct = l.get("percent", 0.0)
             bar = make_bar(pct, 25)
             lines.append(f"{name} {time_text} {bar}   {pct:05.2f} %")
-        lines.append("")
 
-    filtered_editors = [e for e in editors if e.get("percent", 0) >= 0.5][:5]
-    if filtered_editors:
-        lines.append("Editors & Tools:")
-        max_ed_len = max(len(e.get("name", "")) for e in filtered_editors)
-        max_ed_time_len = max(len(e.get("text", "")) for e in filtered_editors)
-        for e in filtered_editors:
-            name = e.get("name", "").ljust(max(max_ed_len, 15))
-            time_text = e.get("text", "").ljust(max(max_ed_time_len, 12))
-            pct = e.get("percent", 0.0)
-            bar = make_bar(pct, 25)
-            lines.append(f"{name} {time_text} {bar}   {pct:05.2f} %")
-
-    return "\n".join(lines).strip()
-
-def main():
-    api_key = get_api_key()
-    if not api_key:
-        print("INFO: WAKATIME_API_KEY is not set. Preserving existing README content.")
-        sys.exit(0)
-
-    # Encode API key for Basic Auth
-    auth_header = "Basic " + base64.b64encode(api_key.encode("utf-8")).decode("utf-8")
-    url = "https://api.wakatime.com/api/v1/users/current/stats/last_7_days"
-    req = urllib.request.Request(url, headers={"Authorization": auth_header})
-
-    try:
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            payload = json.loads(resp.read().decode("utf-8"))
-            data = payload.get("data", {})
-    except urllib.error.HTTPError as e:
-        print(f"WARN: WakaTime API returned HTTP status {e.code}. Preserving existing content.")
-        sys.exit(0)
-    except Exception as e:
-        print(f"WARN: Failed to connect to WakaTime API: {e}. Preserving existing content.")
-        sys.exit(0)
-
-    formatted_text = format_stats(data)
+    formatted_text = "\n".join(lines).strip()
     if not formatted_text:
         print("INFO: No active WakaTime stats available for current period.")
         sys.exit(0)

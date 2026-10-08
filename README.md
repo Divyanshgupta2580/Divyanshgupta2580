@@ -29,8 +29,7 @@
   <a href="#competitive-programming">Competitive Programming</a> &nbsp;·&nbsp;
   <a href="#github-analytics">Analytics</a> &nbsp;·&nbsp;
   <a href="#activity-and-contributions">Contributions</a> &nbsp;·&nbsp;
-  <a href="#education">Education</a> &nbsp;·&nbsp;
-  <a href="#connect-and-collaboration">Connect</a>
+  <a href="#education">Education</a>
 </p>
 
 ---
@@ -249,7 +248,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Active Time (Last 7 Days): 14 hrs 59 mins
+Coding Activity:
+Today:          1 hr 50 mins
+This Month:     22 hrs 59 mins
+This Year:      61 hrs 16 mins (All Time: 65 hrs)
 
 Languages:
 TypeScript     6 hrs 13 mins ██████████░░░░░░░░░░░░░░░   40.25 %
@@ -258,12 +260,6 @@ Image (jpeg)   1 hr 35 mins  ███░░░░░░░░░░░░░░
 Markdown       1 hr 33 mins  ███░░░░░░░░░░░░░░░░░░░░░░   10.12 %
 C++            1 hr 21 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 %
 Other          29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-
-Editors & Tools:
-Antigravity IDE 11 hrs 42 mins ███████████████████░░░░░░   75.67 %
-VS Code         2 hrs 14 mins  ████░░░░░░░░░░░░░░░░░░░░░   14.46 %
-Sublime Text    1 hr 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 %
-Copilot CLI     9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
