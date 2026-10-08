@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 200" width="100%" height="200" fill="none" role="img" aria-label="Divyansh Gupta - Software Engineering and Practical AI Systems">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="960" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0B0F19" />
+      <stop offset="60%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+
+    <!-- Cyan / Blue Ambient Glow -->
+    <radialGradient id="glowRight" cx="820" cy="80" r="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0284C7" stop-opacity="0.22" />
+      <stop offset="50%" stop-color="#0369A1" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Dot Pattern -->
+    <pattern id="dotGrid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="0.8" fill="#334155" opacity="0.45" />
+    </pattern>
+
+    <linearGradient id="textGrad" x1="0" y1="0" x2="380" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#E2E8F0" />
+    </linearGradient>
+
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#60A5FA" />
+    </linearGradient>
+
+    <linearGradient id="cardGrad" x1="610" y1="28" x2="920" y2="172" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1E293B" stop-opacity="0.75" />
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0.9" />
+    </linearGradient>
+  </defs>
+
+  <!-- Container Base with Rounded Corners & Subtle Border -->
+  <rect width="960" height="200" rx="14" fill="url(#bgGrad)" />
+  <rect width="960" height="200" rx="14" fill="url(#dotGrid)" />
+  <circle cx="820" cy="80" r="280" fill="url(#glowRight)" />
+  <rect width="958" height="198" x="1" y="1" rx="13" stroke="#1E293B" stroke-width="1.5" fill="none" />
+
+  <!-- Left Side: Identity & Focus -->
+  <g transform="translate(44, 0)">
+    <!-- Status / Role Badge -->
+    <g transform="translate(0, 30)">
+      <rect width="216" height="24" rx="12" fill="#1E293B" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+      <circle cx="14" cy="12" r="3.5" fill="#10B981" />
+      <text x="26" y="15.5" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif" font-size="10.5" font-weight="600" letter-spacing="1">SOFTWARE &amp; AI SYSTEMS</text>
+    </g>
+
+    <!-- Name Heading -->
+    <text x="0" y="94" fill="url(#textGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif" font-size="32" font-weight="700" letter-spacing="0.5">DIVYANSH GUPTA</text>
+
+    <!-- Subtitle: Core Focus -->
+    <text x="0" y="124" fill="url(#accentGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif" font-size="15" font-weight="600" letter-spacing="0.2">Full-Stack Application Engineering · Practical AI Systems</text>
+
+    <!-- Academic Metadata Line -->
+    <text x="0" y="152" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif" font-size="12.5" font-weight="400">B.Tech Computer Science Engineering (AI/ML) · Mirai School of Technology · 2029</text>
+  </g>
+
+  <!-- Right Side: Mini Terminal Card -->
+  <g transform="translate(615, 26)">
+    <!-- Terminal Window Frame -->
+    <rect width="300" height="148" rx="10" fill="url(#cardGrad)" stroke="#334155" stroke-width="1" />
+
+    <!-- Terminal Header Bar -->
+    <path d="M 0 10 C 0 4.477 4.477 0 10 0 L 290 0 C 295.523 0 300 4.477 300 10 L 300 28 L 0 28 Z" fill="#0F172A" fill-opacity="0.85" />
+    <line x1="0" y1="28" x2="300" y2="28" stroke="#334155" stroke-width="1" />
+
+    <!-- Window Dots -->
+    <circle cx="16" cy="14" r="3.5" fill="#EF4444" opacity="0.85" />
+    <circle cx="28" cy="14" r="3.5" fill="#F59E0B" opacity="0.85" />
+    <circle cx="40" cy="14" r="3.5" fill="#10B981" opacity="0.85" />
+    <text x="56" y="17.5" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5">divyansh@engineer:~</text>
+
+    <!-- Terminal Code Lines -->
+    <g transform="translate(16, 46)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5">
+      <text y="0" fill="#94A3B8"><tspan fill="#38BDF8">const</tspan> engineer = {</text>
+      <text y="19" fill="#94A3B8">  role: <tspan fill="#6EE7B7">"Full-Stack &amp; AI"</tspan>,</text>
+      <text y="38" fill="#94A3B8">  stack: [<tspan fill="#93C5FD">"TS"</tspan>, <tspan fill="#93C5FD">"Python"</tspan>, <tspan fill="#93C5FD">"C++"</tspan>],</text>
+      <text y="57" fill="#94A3B8">  focus: <tspan fill="#6EE7B7">"AI Agents &amp; RAG"</tspan>,</text>
+      <text y="76" fill="#94A3B8">  openTo: <tspan fill="#FCD34D">"Internships"</tspan></text>
+      <text y="93" fill="#94A3B8">};</text>
+    </g>
+  </g>
+</svg>
