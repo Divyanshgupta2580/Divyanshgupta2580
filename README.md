@@ -36,21 +36,20 @@
 
 ## Featured Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Divyanshgupta2580/BenifitOS_FINAL">BenefitOS</a> &nbsp;<sup><code>Full-Stack · AI / RAG</code></sup></h3>
+      <h3><a href="https://github.com/Divyanshgupta2580/BenifitOS_FINAL">BenefitOS</a> &nbsp;<sup><code>Civic Tech · Full-Stack</code></sup></h3>
       <p>
-        Citizen welfare discovery platform designed to help individuals evaluate eligibility for public government schemes, prepare required documentation, and navigate application workflows.
+        Citizen welfare discovery platform that identifies public government schemes for eligible individuals and assists with application document readiness.
       </p>
       <p>
-        Engineered with a decoupled client-server architecture using React and Express.js / Node.js, modeled scheme criteria and relational dependencies in Neo4j, and integrated RAG pipelines for conversational citizen guidance.
+        Models scheme prerequisites and citizen profiles as graph dependencies in Neo4j, served via a decoupled React client and Node.js REST API.
       </p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express.js" />
         <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&amp;logo=neo4j&amp;logoColor=white" alt="Neo4j" />
         <img src="https://img.shields.io/badge/RAG-6C47FF?style=flat-square" alt="RAG" />
       </p>
@@ -59,19 +58,18 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Divyanshgupta2580/Tron">TRON</a> &nbsp;<sup><code>AI Agent · Automation</code></sup></h3>
+      <h3><a href="https://github.com/Divyanshgupta2580/Tron">TRON</a> &nbsp;<sup><code>AI Automation</code></sup></h3>
       <p>
-        Autonomous intelligence agent that performs scheduled topic discovery, evaluates candidate news articles against editorial scoring thresholds, deduplicates items semantically, and publishes qualifying updates.
+        Autonomous intelligence agent that continuously discovers trending topics, scores news candidates against editorial thresholds, and publishes verified updates.
       </p>
       <p>
-        Built with Python and a background scheduling pipeline to decouple intensive web search and multi-model LLM generation from query endpoints, maintaining structured local persistence and deterministic rejection logic.
+        Decouples web search and LLM synthesis into an asynchronous background scheduler with semantic deduplication and persistent SQLite storage.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
         <img src="https://img.shields.io/badge/LLM_APIs-8B5CF6?style=flat-square" alt="LLM APIs" />
-        <img src="https://img.shields.io/badge/AI_Agent-412991?style=flat-square" alt="AI Agent" />
       </p>
       <p>
         <a href="https://github.com/Divyanshgupta2580/Tron"><b>Source Repository</b></a>
@@ -80,17 +78,16 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Divyanshgupta2580/RevenueOS">RevenueOS</a> &nbsp;<sup><code>Full-Stack · AI / Fintech</code></sup></h3>
+      <h3><a href="https://github.com/Divyanshgupta2580/RevenueOS">RevenueOS</a> &nbsp;<sup><code>Fintech · AI Decision Engine</code></sup></h3>
       <p>
-        AI-powered payment recovery decision infrastructure for digital commerce that detects failed checkout transactions, evaluates recoverability, and automates bounded recovery interventions.
+        Payment recovery decision infrastructure for digital commerce that intercepts failed checkout transactions and evaluates recoverability in real time.
       </p>
       <p>
-        Built with Next.js, Django, and MongoDB Atlas. Features an 8-rule deterministic policy gate (Guarded Autopilot), Gemini API reasoning, Razorpay test mode integration, and an immutable Decision Ledger audit layer.
+        Enforces an 8-rule deterministic policy gate over Gemini API reasoning, integrating Razorpay test dispatch and an immutable audit Decision Ledger.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white" alt="Django" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white" alt="Django" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
         <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white" alt="Gemini AI" />
@@ -100,12 +97,12 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Divyanshgupta2580/Student_Management_System">Student Management System</a> &nbsp;<sup><code>Full-Stack · CRUD</code></sup></h3>
+      <h3><a href="https://github.com/Divyanshgupta2580/Student_Management_System">Student Management System</a> &nbsp;<sup><code>Full-Stack · Web App</code></sup></h3>
       <p>
-        Academic record management platform supporting administrative operations including student onboarding, record updates, profile queries, and name search.
+        Academic administration platform providing centralized student enrollment, profile query capabilities, and comprehensive academic record tracking.
       </p>
       <p>
-        Structured around an MVC pattern with Node.js and Express.js, featuring modular REST API endpoints, form validation, MongoDB document storage, and server-rendered views.
+        Organized around an MVC architecture with modular Express.js routing, robust form input validation, and MongoDB document persistence.
       </p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
