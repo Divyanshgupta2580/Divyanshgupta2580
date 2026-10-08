@@ -19,7 +19,7 @@
   <a href="https://divyansh-gupta-portfolio-lac.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&amp;logo=vercel&amp;logoColor=38BDF8" alt="Portfolio" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/divyanshgupta2007/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://github.com/Divyanshgupta2580"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>&nbsp;
-  <a href="mailto:inbox.DivyanshGupta1@protonmail.com"><img src="https://img.shields.io/badge/Email-6D4AFF?style=flat-square&amp;logo=protonmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="mailto:inbox.DivyanshGupta1@protonmail.com" title="Contact by email"><img src="https://img.shields.io/badge/Email-6D4AFF?style=flat-square&amp;logo=protonmail&amp;logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -81,21 +81,23 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Divyanshgupta2580/Incident_DNA_AI">Incident DNA AI</a> &nbsp;<sup><code>AI Agent · Code Analysis</code></sup></h3>
+      <h3><a href="https://github.com/Divyanshgupta2580/RevenueOS">RevenueOS</a> &nbsp;<sup><code>Full-Stack · AI / Fintech</code></sup></h3>
       <p>
-        Autonomous engineering tool designed for runtime error inspection, bug fingerprinting, and root-cause assistance across application crash logs and debugging workflows.
+        AI-powered payment recovery decision infrastructure for digital commerce that detects failed checkout transactions, evaluates recoverability, and automates bounded recovery interventions.
       </p>
       <p>
-        Utilizes automated log parsing, error pattern detection, and agent-driven analysis pipelines to isolate recurring failure points, diagnose defects, and suggest concrete fixes.
+        Built with Next.js, Django, and MongoDB Atlas. Features an 8-rule deterministic policy gate (Guarded Autopilot), Gemini API reasoning, Razorpay test mode integration, and an immutable Decision Ledger audit layer.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/AI_Agent-F97316?style=flat-square" alt="AI Agent" />
-        <img src="https://img.shields.io/badge/Code_Analysis-24292F?style=flat-square" alt="Code Analysis" />
-        <img src="https://img.shields.io/badge/Automation-0284C7?style=flat-square" alt="Automation" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white" alt="Gemini AI" />
       </p>
       <p>
-        <a href="https://github.com/Divyanshgupta2580/Incident_DNA_AI"><b>Source Repository</b></a>
+        <a href="https://github.com/Divyanshgupta2580/RevenueOS"><b>Source Repository</b></a> · <a href="https://revenue-os-woad.vercel.app/"><b>Live Deployment</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -123,48 +125,40 @@
 
 ## Technology Stack
 
-<table>
+<table width="100%">
   <tr>
-    <td width="22%"><b>Languages</b></td>
-    <td>
+    <td width="33.3%" valign="top">
+      <b>Languages</b><br/><br/>
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
     </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
+    <td width="33.3%" valign="top">
+      <b>Frontend</b><br/><br/>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML" />
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
     </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
+    <td width="33.3%" valign="top">
+      <b>Backend</b><br/><br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express.js" />
     </td>
   </tr>
   <tr>
-    <td><b>Databases</b></td>
-    <td>
+    <td width="33.3%" valign="top">
+      <b>Databases</b><br/><br/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
       <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&amp;logo=neo4j&amp;logoColor=white" alt="Neo4j" />
     </td>
-  </tr>
-  <tr>
-    <td><b>AI Systems</b></td>
-    <td>
+    <td width="33.3%" valign="top">
+      <b>AI Systems</b><br/><br/>
       <img src="https://img.shields.io/badge/AI_Agents-412991?style=flat-square" alt="AI Agents" />
       <img src="https://img.shields.io/badge/RAG-6C47FF?style=flat-square" alt="RAG" />
     </td>
-  </tr>
-  <tr>
-    <td><b>Tools &amp; Platforms</b></td>
-    <td>
+    <td width="33.3%" valign="top">
+      <b>Tools &amp; Platforms</b><br/><br/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" />
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
@@ -190,20 +184,27 @@
   Actively solving algorithmic challenges and sharpening data structures and computational complexity fundamentals.
 </p>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
+    <td width="33.3%" valign="top">
       <b>LeetCode</b><br/>
       Algorithmic problem solving, data structures, and optimization patterns.<br/><br/>
       <a href="https://leetcode.com/u/DIVYANSHGUPTA2580/">
-        <img src="https://img.shields.io/badge/LeetCode_Profile-DIVYANSHGUPTA2580-FFA116?style=flat-square&amp;logo=leetcode&amp;logoColor=white" alt="LeetCode Profile" />
+        <img src="https://img.shields.io/badge/LeetCode-DIVYANSHGUPTA2580-FFA116?style=flat-square&amp;logo=leetcode&amp;logoColor=white" alt="LeetCode Profile" />
       </a>
     </td>
-    <td width="50%">
+    <td width="33.3%" valign="top">
       <b>Codeforces</b><br/>
       Competitive programming contests and mathematical reasoning.<br/><br/>
       <a href="https://codeforces.com/profile/Divyansh_Gupta2007">
-        <img src="https://img.shields.io/badge/Codeforces_Profile-Divyansh__Gupta2007-1F8ACB?style=flat-square&amp;logo=codeforces&amp;logoColor=white" alt="Codeforces Profile" />
+        <img src="https://img.shields.io/badge/Codeforces-Divyansh__Gupta2007-1F8ACB?style=flat-square&amp;logo=codeforces&amp;logoColor=white" alt="Codeforces Profile" />
+      </a>
+    </td>
+    <td width="33.3%" valign="top">
+      <b>CodeChef</b><br/>
+      Contest problem solving and algorithmic complexity practice.<br/><br/>
+      <a href="https://www.codechef.com/users/divyansh2007">
+        <img src="https://img.shields.io/badge/CodeChef-divyansh2007-5B4638?style=flat-square&amp;logo=codechef&amp;logoColor=white" alt="CodeChef Profile" />
       </a>
     </td>
   </tr>
@@ -248,11 +249,21 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     6 hrs 13 mins         ██████████░░░░░░░░░░░░░░░   40.25 %
-JavaScript     2 hrs 44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.71 %
-Image (jpeg)   1 hr 35 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-Markdown       1 hr 33 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-C++            1 hr 21 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+Total Active Time (Last 7 Days): 14 hrs 59 mins
+
+Languages:
+TypeScript     6 hrs 13 mins ██████████░░░░░░░░░░░░░░░   40.25 %
+JavaScript     2 hrs 44 mins ████░░░░░░░░░░░░░░░░░░░░░   17.71 %
+Image (jpeg)   1 hr 35 mins  ███░░░░░░░░░░░░░░░░░░░░░░   10.32 %
+Markdown       1 hr 33 mins  ███░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+C++            1 hr 21 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+Other          29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+
+Editors & Tools:
+Antigravity IDE 11 hrs 42 mins ███████████████████░░░░░░   75.67 %
+VS Code         2 hrs 14 mins  ████░░░░░░░░░░░░░░░░░░░░░   14.46 %
+Sublime Text    1 hr 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+Copilot CLI     9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
@@ -274,8 +285,8 @@ Focusing on core software engineering paradigms, Data Structures &amp; Algorithm
 > Open to engineering internships, technical collaborations, and active open-source contributions. Feel free to reach out via email or connect on LinkedIn and X.
 
 <p align="center">
-  <a href="mailto:inbox.DivyanshGupta1@protonmail.com">
-    <img src="https://img.shields.io/badge/Email-inbox.DivyanshGupta1%40protonmail.com-6D4AFF?style=flat-square&amp;logo=protonmail&amp;logoColor=white" alt="Email" />
+  <a href="mailto:inbox.DivyanshGupta1@protonmail.com" title="Contact by email">
+    <img src="https://img.shields.io/badge/Email-6D4AFF?style=flat-square&amp;logo=protonmail&amp;logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/divyanshgupta2007/">
