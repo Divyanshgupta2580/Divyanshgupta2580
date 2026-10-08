@@ -180,31 +180,40 @@
 ## Competitive Programming
 
 <p>
-  Actively solving algorithmic challenges and sharpening data structures and computational complexity fundamentals.
+  Algorithmic problem solving and data structures practice across competitive platforms.
 </p>
 
 <table width="100%">
   <tr>
     <td width="33.3%" valign="top">
-      <b>LeetCode</b><br/>
-      Algorithmic problem solving, data structures, and optimization patterns.<br/><br/>
-      <a href="https://leetcode.com/u/DIVYANSHGUPTA2580/">
-        <img src="https://img.shields.io/badge/LeetCode-DIVYANSHGUPTA2580-FFA116?style=flat-square&amp;logo=leetcode&amp;logoColor=white" alt="LeetCode Profile" />
-      </a>
+      <h3><a href="https://leetcode.com/u/DIVYANSHGUPTA2580/">LeetCode</a></h3>
+      <p>Data structures, core algorithms, and runtime complexity optimization in C++.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&amp;logo=leetcode&amp;logoColor=white" alt="LeetCode" />
+      </p>
+      <p>
+        <a href="https://leetcode.com/u/DIVYANSHGUPTA2580/"><b>View Profile</b></a>
+      </p>
     </td>
     <td width="33.3%" valign="top">
-      <b>Codeforces</b><br/>
-      Competitive programming contests and mathematical reasoning.<br/><br/>
-      <a href="https://codeforces.com/profile/Divyansh_Gupta2007">
-        <img src="https://img.shields.io/badge/Codeforces-Divyansh__Gupta2007-1F8ACB?style=flat-square&amp;logo=codeforces&amp;logoColor=white" alt="Codeforces Profile" />
-      </a>
+      <h3><a href="https://codeforces.com/profile/Divyansh_Gupta2007">Codeforces</a></h3>
+      <p>Timed contest problem solving, mathematical logic, and algorithmic challenges.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&amp;logo=codeforces&amp;logoColor=white" alt="Codeforces" />
+      </p>
+      <p>
+        <a href="https://codeforces.com/profile/Divyansh_Gupta2007"><b>View Profile</b></a>
+      </p>
     </td>
     <td width="33.3%" valign="top">
-      <b>CodeChef</b><br/>
-      Contest problem solving and algorithmic complexity practice.<br/><br/>
-      <a href="https://www.codechef.com/users/divyansh2007">
-        <img src="https://img.shields.io/badge/CodeChef-divyansh2007-5B4638?style=flat-square&amp;logo=codechef&amp;logoColor=white" alt="CodeChef Profile" />
-      </a>
+      <h3><a href="https://www.codechef.com/users/divyansh2007">CodeChef</a></h3>
+      <p>Competitive division rounds, problem solving practice, and complexity analysis.</p>
+      <p>
+        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&amp;logo=codechef&amp;logoColor=white" alt="CodeChef" />
+      </p>
+      <p>
+        <a href="https://www.codechef.com/users/divyansh2007"><b>View Profile</b></a>
+      </p>
     </td>
   </tr>
 </table>
@@ -213,17 +222,28 @@
 
 ## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyanshgupta2580&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=94A3B8&amp;icon_color=38BDF8" alt="Divyansh Gupta's GitHub Stats" height="155" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshgupta2580&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=94A3B8" alt="Most Used Languages" height="155" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Divyanshgupta2580&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=94A3B8&amp;icon_color=38BDF8" alt="GitHub Overview Statistics" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshgupta2580&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=94A3B8&amp;card_width=467" alt="Top Languages Breakdown" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Activity and Contributions
+<h2 id="activity-and-contributions">Activity &amp; Contributions</h2>
 
-### 3D Contribution View
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  </picture>
+</p>
 
 <p align="center">
   <picture>
@@ -233,17 +253,13 @@
   </picture>
 </p>
 
-### Contribution Snake
+---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
-  </picture>
+## Coding Activity
+
+<p>
+  Development time and language metrics tracked across active code editors.
 </p>
-
-### Coding Time Distribution
 
 <!--START_SECTION:waka-->
 
