@@ -262,17 +262,17 @@
 
 ```txt
 Coding Activity:
-Today:          1 hr 50 mins
+Today:          0 secs
 This Month:     22 hrs 59 mins
-This Year:      61 hrs 16 mins (All Time: 65 hrs)
+This Year:      63 hrs 7 mins (All Time: 63 hrs 9 mins)
 
 Languages:
-TypeScript     6 hrs 13 mins ██████████░░░░░░░░░░░░░░░   40.25 %
-JavaScript     2 hrs 44 mins ████░░░░░░░░░░░░░░░░░░░░░   17.71 %
-Image (jpeg)   1 hr 35 mins  ███░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-Markdown       1 hr 33 mins  ███░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-C++            1 hr 21 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 %
-Other          29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+TypeScript     7 hrs 3 mins ██████████░░░░░░░░░░░░░░░   41.62 %
+JavaScript     3 hrs 4 mins █████░░░░░░░░░░░░░░░░░░░░   18.14 %
+Image (jpeg)   1 hr 35 mins ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 %
+Markdown       1 hr 35 mins ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 %
+C++            1 hr 21 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+JSON           43 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
 ```
 
 <!--END_SECTION:waka-->
