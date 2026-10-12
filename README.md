@@ -270,7 +270,7 @@
 Coding Activity:
 Today:          0 secs
 This Month:     38 hrs 24 mins
-This Year:      67 hrs 21 mins (All Time: 72 hrs 5 mins)
+This Year:      67 hrs 21 mins (All Time: 75 hrs 26 mins)
 
 Languages:
 TypeScript     7 hrs 21 mins █████████░░░░░░░░░░░░░░░░   34.60 %
