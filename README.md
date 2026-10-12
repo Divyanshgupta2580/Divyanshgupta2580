@@ -1,268 +1,73 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="Divyansh Gupta - Software Engineering and Practical AI Systems" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Divyansh Gupta — Computer Science Engineering (AI/ML), full-stack and applied AI" width="100%" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/Divyanshgupta2580">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=19&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=42&amp;lines=Full-Stack+Developer+in+Progress;Building+Practical+AI+Systems;Exploring+AI+Agents+and+RAG;CSE+Student+%C2%B7+AI%2FML"
-      alt="Animated typing text: Full-Stack Developer in Progress, Building Practical AI Systems, Exploring AI Agents and RAG, CSE Student (AI/ML)"
-    />
-  </a>
-</p>
+I'm a second-year Computer Science Engineering student specializing in **AI/ML**. I build full-stack applications and practical AI systems — autonomous agents, retrieval-augmented generation, and the backend and data layers that keep them dependable. My current focus is AI engineering, clean software design, and strengthening my data structures and algorithms fundamentals. I build in public and contribute to collaborative repositories.
 
 <p align="center">
-  Second-year Computer Science Engineering student focused on building dependable full-stack applications, structured backend architectures, and practical autonomous AI agents.
-</p>
-
-<p align="center">
-  <a href="https://divyansh-gupta-portfolio-lac.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&amp;logo=vercel&amp;logoColor=38BDF8" alt="Portfolio" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/divyanshgupta2007/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://github.com/Divyanshgupta2580"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>&nbsp;
-  <a href="mailto:inbox.DivyanshGupta1@protonmail.com" title="Contact by email"><img src="https://img.shields.io/badge/Email-6D4AFF?style=flat-square&amp;logo=protonmail&amp;logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
-  <a href="#technology-stack">Technology Stack</a> &nbsp;·&nbsp;
-  <a href="#areas-of-exploration">Exploration</a> &nbsp;·&nbsp;
-  <a href="#competitive-programming">Competitive Programming</a> &nbsp;·&nbsp;
-  <a href="#github-analytics">Analytics</a> &nbsp;·&nbsp;
-  <a href="#activity-and-contributions">Contributions</a> &nbsp;·&nbsp;
-  <a href="#education">Education</a>
+  <a href="#projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#skills">Skills</a> &nbsp;·&nbsp;
+  <a href="#activity">Activity</a> &nbsp;·&nbsp;
+  <a href="#contact">Contact</a>
 </p>
 
 ---
 
-## Featured Projects
+## Projects
 
-<p>
-  A collection of full-stack applications and autonomous AI systems built to solve real-world problems.
-</p>
+### [BenefitOS](https://github.com/Divyanshgupta2580/BenifitOS_FINAL) · [Live demo](https://benifitos-final.onrender.com/)
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Divyanshgupta2580/BenifitOS_FINAL">BenefitOS</a> &nbsp;<sup><code>Civic Tech · Full-Stack · AI / RAG</code></sup></h3>
-      <p>
-        Citizen welfare discovery platform that helps individuals evaluate eligibility for public government schemes and prepare required documentation.
-      </p>
-      <p>
-        Models scheme prerequisites and citizen profiles as graph dependencies in Neo4j, served via a decoupled React client and Node.js REST API.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express.js" />
-        <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&amp;logo=neo4j&amp;logoColor=white" alt="Neo4j" />
-      </p>
-      <p>
-        <a href="https://github.com/Divyanshgupta2580/BenifitOS_FINAL"><b>Source Repository</b></a> · <a href="https://benifitos-final.onrender.com/"><b>Live Deployment</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Divyanshgupta2580/Tron">TRON</a> &nbsp;<sup><code>AI Agent · Automation · News Intelligence</code></sup></h3>
-      <p>
-        Autonomous intelligence agent that continuously discovers trending topics, scores news candidates against editorial criteria, and filters duplicates.
-      </p>
-      <p>
-        Decouples web search and LLM synthesis into an asynchronous background scheduler with semantic deduplication and persistent SQLite storage.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
-        <img src="https://img.shields.io/badge/LLM_APIs-8B5CF6?style=flat-square" alt="LLM APIs" />
-        <img src="https://img.shields.io/badge/AI_Agent-412991?style=flat-square" alt="AI Agent" />
-      </p>
-      <p>
-        <a href="https://github.com/Divyanshgupta2580/Tron"><b>Source Repository</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Divyanshgupta2580/RevenueOS">RevenueOS</a> &nbsp;<sup><code>Fintech · AI Decision Engine · Full-Stack</code></sup></h3>
-      <p>
-        Payment recovery decision infrastructure for digital commerce that intercepts failed checkout transactions and evaluates recoverability in real time.
-      </p>
-      <p>
-        Enforces an 8-rule deterministic policy gate over Gemini API reasoning, integrating Razorpay test dispatch and an immutable audit Decision Ledger.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white" alt="Django" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white" alt="Gemini AI" />
-      </p>
-      <p>
-        <a href="https://github.com/Divyanshgupta2580/RevenueOS"><b>Source Repository</b></a> · <a href="https://revenue-os-woad.vercel.app/"><b>Live Deployment</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Divyanshgupta2580/JanSetu-Multiverse">JanSetu Multiverse</a> &nbsp;<sup><code>Smart Infrastructure · IoT · Edge AI</code></sup></h3>
-      <p>
-        Autonomous streetlight monitoring system that detects hardware failures, analyzes fault conditions, and enables predictive municipal maintenance.
-      </p>
-      <p>
-        Integrates computer vision models with real-time telemetry and edge inference pipelines to deliver automated defect detection and field insights.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
-        <img src="https://img.shields.io/badge/YOLO-4F46E5?style=flat-square" alt="YOLO" />
-        <img src="https://img.shields.io/badge/Edge_AI-008080?style=flat-square" alt="Edge AI" />
-        <img src="https://img.shields.io/badge/IoT-10B981?style=flat-square" alt="IoT" />
-      </p>
-      <p>
-        <a href="https://github.com/Divyanshgupta2580/JanSetu-Multiverse"><b>Source Repository</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+Public welfare schemes are scattered across departments, so eligible citizens miss support. BenefitOS evaluates eligibility deterministically, tracks document readiness, and adds a bilingual AI copilot for welfare guidance.
+
+`TypeScript` `React` `NestJS` `PostgreSQL` `Prisma` `Gemini API`
+
+### [RevenueOS](https://github.com/Divyanshgupta2580/RevenueOS) · [Live demo](https://revenue-os-woad.vercel.app/)
+
+Failed payments are usually retried blindly, burning gateway fees on declines that cannot recover. RevenueOS scores recoverability, lets Gemini propose a bounded recovery action, and gates every action through a deterministic policy engine with an immutable decision ledger.
+
+`Next.js` `Django` `MongoDB` `Gemini API` `Razorpay`
+
+### [TRON](https://github.com/Divyanshgupta2580/Tron)
+
+Autonomous agents tend to call an LLM on every request and republish the same story. TRON separates reads from writes: a scheduled worker discovers and scores news, deduplicates it semantically, and stores the result so the feed API stays a fast database read.
+
+`Python` `FastAPI` `SQLite` `LLM APIs`
+
+### [JanSetu Multiverse](https://github.com/PRIYANKA-NEGI-28/JANSETU-MULTIVERSE) · *team project*
+
+Civic complaints get lost or duplicated across departments. JanSetu Multiverse links a web dashboard, an Expo mobile app, and IoT edge sensors to detect civic issues, group duplicate reports, and route them to the right department.
+
+`React` `Express` `Firebase` `Expo` `Arduino / Python`
 
 ---
 
-## Technology Stack
+## Skills
 
-<table width="100%">
-  <tr>
-    <td width="33.3%" valign="top">
-      <b>Languages</b><br/><br/>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-    </td>
-    <td width="33.3%" valign="top">
-      <b>Frontend</b><br/><br/>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML" />
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-    </td>
-    <td width="33.3%" valign="top">
-      <b>Backend</b><br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express.js" />
-    </td>
-  </tr>
-  <tr>
-    <td width="33.3%" valign="top">
-      <b>Databases</b><br/><br/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&amp;logo=neo4j&amp;logoColor=white" alt="Neo4j" />
-    </td>
-    <td width="33.3%" valign="top">
-      <b>AI Systems</b><br/><br/>
-      <img src="https://img.shields.io/badge/AI_Agents-412991?style=flat-square" alt="AI Agents" />
-      <img src="https://img.shields.io/badge/RAG-6C47FF?style=flat-square" alt="RAG" />
-    </td>
-    <td width="33.3%" valign="top">
-      <b>Tools &amp; Platforms</b><br/><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
-    </td>
-  </tr>
-</table>
+- **Languages** — C++, Python, JavaScript, TypeScript
+- **Frontend** — HTML, CSS, React
+- **Backend** — Node.js, Express
+- **Databases** — MongoDB, Neo4j
+- **AI / ML** — Retrieval-Augmented Generation (RAG), AI agents
+- **Tools** — Git, GitHub, Vercel
 
 ---
 
-## Areas of Exploration
+## Problem Solving
 
-- **Full-Stack Application Engineering:** Constructing modular, type-safe web applications with TypeScript, React, and Node.js.
-- **Backend Architecture & Database Design:** Implementing REST APIs, relational/document persistence, and graph schema modeling using Neo4j and MongoDB.
-- **Autonomous AI Agents & RAG:** Designing multi-step reasoning pipelines, document retrieval systems, and scheduled worker workflows.
-- **Data Structures & Algorithms:** Practicing problem-solving patterns and algorithmic efficiency using C++.
-- **Open-Source Collaboration:** Contributing clean documentation, reproducible bug reports, and software utilities to developer communities.
+Data structures and algorithms in C++, practiced on [LeetCode](https://leetcode.com/u/DIVYANSHGUPTA2580/) and [Codeforces](https://codeforces.com/profile/Divyansh_Gupta2007).
 
 ---
 
-## Competitive Programming
+## Activity
 
-<p>
-  Algorithmic problem solving and data structures practice across competitive platforms.
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg" />
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="Divyansh Gupta contribution activity" width="100%" />
+</picture>
 
-<table width="100%">
-  <tr>
-    <td width="33.3%" valign="top">
-      <h3><a href="https://leetcode.com/u/DIVYANSHGUPTA2580/">LeetCode</a></h3>
-      <p>Data structures, core algorithms, and runtime complexity optimization in C++.</p>
-      <p>
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&amp;logo=leetcode&amp;logoColor=white" alt="LeetCode" />
-      </p>
-      <p>
-        <a href="https://leetcode.com/u/DIVYANSHGUPTA2580/"><b>View Profile</b></a>
-      </p>
-    </td>
-    <td width="33.3%" valign="top">
-      <h3><a href="https://codeforces.com/profile/Divyansh_Gupta2007">Codeforces</a></h3>
-      <p>Timed contest problem solving, mathematical logic, and algorithmic challenges.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&amp;logo=codeforces&amp;logoColor=white" alt="Codeforces" />
-      </p>
-      <p>
-        <a href="https://codeforces.com/profile/Divyansh_Gupta2007"><b>View Profile</b></a>
-      </p>
-    </td>
-    <td width="33.3%" valign="top">
-      <h3><a href="https://www.codechef.com/users/divyansh2007">CodeChef</a></h3>
-      <p>Competitive division rounds, problem solving practice, and complexity analysis.</p>
-      <p>
-        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&amp;logo=codechef&amp;logoColor=white" alt="CodeChef" />
-      </p>
-      <p>
-        <a href="https://www.codechef.com/users/divyansh2007"><b>View Profile</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## GitHub Analytics
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Divyanshgupta2580&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=94A3B8&amp;icon_color=38BDF8" alt="GitHub Overview Statistics" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshgupta2580&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=94A3B8&amp;card_width=467" alt="Top Languages Breakdown" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 id="activity-and-contributions">Activity &amp; Contributions</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg" />
-    <img src="profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" width="100%" />
-  </picture>
-</p>
-
----
-
-## Coding Activity
-
-<p>
-  Development time and language metrics tracked across active code editors.
-</p>
+<details>
+<summary>Coding activity — WakaTime</summary>
 
 <!--START_SECTION:waka-->
 
@@ -283,36 +88,14 @@ JSON           48 mins       █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
----
-
-## Education
-
-**Mirai School of Technology**, Ghaziabad, India<br/>
-*Bachelor of Technology in Computer Science Engineering (AI/ML)*<br/>
-Expected Graduation: 2029
-
-Focusing on core software engineering paradigms, Data Structures &amp; Algorithms, discrete mathematics, and applied machine learning systems.
+</details>
 
 ---
 
-## Connect and Collaboration
+## Contact
 
-> Open to engineering internships, technical collaborations, and active open-source contributions. Feel free to reach out via email or connect on LinkedIn and X.
-
-<p align="center">
-  <a href="mailto:inbox.DivyanshGupta1@protonmail.com" title="Contact by email">
-    <img src="https://img.shields.io/badge/Email-6D4AFF?style=flat-square&amp;logo=protonmail&amp;logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/divyanshgupta2007/">
-    <img src="https://img.shields.io/badge/LinkedIn-divyanshgupta2007-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/DivyanshGu19605">
-    <img src="https://img.shields.io/badge/X-@DivyanshGu19605-000000?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://divyansh-gupta-portfolio-lac.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-divyansh--gupta-0F172A?style=flat-square&amp;logo=vercel&amp;logoColor=38BDF8" alt="Portfolio" />
-  </a>
-</p>
+- **Portfolio** — [divyansh-gupta-portfolio-lac.vercel.app](https://divyansh-gupta-portfolio-lac.vercel.app/)
+- **Email** — [inbox.DivyanshGupta1@protonmail.com](mailto:inbox.DivyanshGupta1@protonmail.com)
+- **LinkedIn** — [divyanshgupta2007](https://www.linkedin.com/in/divyanshgupta2007/)
+- **GitHub** — [Divyanshgupta2580](https://github.com/Divyanshgupta2580)
+- **X** — [@DivyanshGu19605](https://x.com/DivyanshGu19605)
