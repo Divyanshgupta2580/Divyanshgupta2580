@@ -40,88 +40,43 @@
   A collection of full-stack applications and autonomous AI systems built to solve real-world problems.
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Divyanshgupta2580/BenifitOS_FINAL">BenefitOS</a> &nbsp;<sup><code>Civic Tech · Full-Stack · AI / RAG</code></sup></h3>
-      <p>
-        Citizen welfare discovery platform that helps individuals evaluate eligibility for public government schemes and prepare required documentation.
-      </p>
-      <p>
-        Models scheme prerequisites and citizen profiles as graph dependencies in Neo4j, served via a decoupled React client and Node.js REST API.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express.js" />
-        <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&amp;logo=neo4j&amp;logoColor=white" alt="Neo4j" />
-      </p>
-      <p>
-        <a href="https://github.com/Divyanshgupta2580/BenifitOS_FINAL"><b>Source Repository</b></a> · <a href="https://benifitos-final.onrender.com/"><b>Live Deployment</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Divyanshgupta2580/Tron">TRON</a> &nbsp;<sup><code>AI Agent · Automation · News Intelligence</code></sup></h3>
-      <p>
-        Autonomous intelligence agent that continuously discovers trending topics, scores news candidates against editorial criteria, and filters duplicates.
-      </p>
-      <p>
-        Decouples web search and LLM synthesis into an asynchronous background scheduler with semantic deduplication and persistent SQLite storage.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
-        <img src="https://img.shields.io/badge/LLM_APIs-8B5CF6?style=flat-square" alt="LLM APIs" />
-        <img src="https://img.shields.io/badge/AI_Agent-412991?style=flat-square" alt="AI Agent" />
-      </p>
-      <p>
-        <a href="https://github.com/Divyanshgupta2580/Tron"><b>Source Repository</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Divyanshgupta2580/RevenueOS">RevenueOS</a> &nbsp;<sup><code>Fintech · AI Decision Engine · Full-Stack</code></sup></h3>
-      <p>
-        Payment recovery decision infrastructure for digital commerce that intercepts failed checkout transactions and evaluates recoverability in real time.
-      </p>
-      <p>
-        Enforces an 8-rule deterministic policy gate over Gemini API reasoning, integrating Razorpay test dispatch and an immutable audit Decision Ledger.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white" alt="Django" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white" alt="Gemini AI" />
-      </p>
-      <p>
-        <a href="https://github.com/Divyanshgupta2580/RevenueOS"><b>Source Repository</b></a> · <a href="https://revenue-os-woad.vercel.app/"><b>Live Deployment</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Divyanshgupta2580/JanSetu-Multiverse">JanSetu Multiverse</a> &nbsp;<sup><code>Smart Infrastructure · IoT · Edge AI</code></sup></h3>
-      <p>
-        Autonomous streetlight monitoring system that detects hardware failures, analyzes fault conditions, and enables predictive municipal maintenance.
-      </p>
-      <p>
-        Integrates computer vision models with real-time telemetry and edge inference pipelines to deliver automated defect detection and field insights.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
-        <img src="https://img.shields.io/badge/YOLO-4F46E5?style=flat-square" alt="YOLO" />
-        <img src="https://img.shields.io/badge/Edge_AI-008080?style=flat-square" alt="Edge AI" />
-        <img src="https://img.shields.io/badge/IoT-10B981?style=flat-square" alt="IoT" />
-      </p>
-      <p>
-        <a href="https://github.com/Divyanshgupta2580/JanSetu-Multiverse"><b>Source Repository</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+### [BenefitOS](https://github.com/Divyanshgupta2580/BenifitOS_FINAL) &nbsp;·&nbsp; Civic Tech
+
+Citizen welfare discovery platform that helps individuals evaluate eligibility for public government schemes and prepare required documentation.
+
+TypeScript · React · NestJS · PostgreSQL
+
+[Source Repository](https://github.com/Divyanshgupta2580/BenifitOS_FINAL) &nbsp;·&nbsp; [Live Demo](https://benifitos-final.onrender.com/)
+
+---
+
+### [TRON](https://github.com/Divyanshgupta2580/Tron) &nbsp;·&nbsp; AI Automation
+
+Autonomous news intelligence agent that monitors trending topics, evaluates editorial relevance, and publishes scheduled updates.
+
+Python · FastAPI · SQLite · LLM APIs
+
+[Source Repository](https://github.com/Divyanshgupta2580/Tron)
+
+---
+
+### [RevenueOS](https://github.com/Divyanshgupta2580/RevenueOS) &nbsp;·&nbsp; Fintech
+
+Payment recovery decision engine that evaluates failed checkout transactions in real time through policy-bounded AI reasoning.
+
+Next.js · Django · TypeScript · MongoDB
+
+[Source Repository](https://github.com/Divyanshgupta2580/RevenueOS) &nbsp;·&nbsp; [Live Demo](https://revenue-os-woad.vercel.app/)
+
+---
+
+### [JanSetu Multiverse](https://github.com/Divyanshgupta2580/JanSetu-Multiverse) &nbsp;·&nbsp; Smart Infrastructure
+
+Autonomous streetlight monitoring system that detects hardware failures and analyzes fault conditions through computer vision.
+
+Python · OpenCV · YOLO · Edge AI
+
+[Source Repository](https://github.com/Divyanshgupta2580/JanSetu-Multiverse)
 
 ---
 
