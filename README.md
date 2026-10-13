@@ -73,17 +73,17 @@ Data structures and algorithms in C++, practiced on [LeetCode](https://leetcode.
 
 ```txt
 Coding Activity:
-Today:          1 hr
-This Month:     39 hrs 24 mins
-This Year:      67 hrs 21 mins (All Time: 75 hrs 26 mins)
+Today:          32 mins
+This Month:     41 hrs 25 mins
+This Year:      69 hrs 46 mins (All Time: 75 hrs 26 mins)
 
 Languages:
-TypeScript     7 hrs 21 mins █████████░░░░░░░░░░░░░░░░   34.60 %
-JavaScript     5 hrs 46 mins ███████░░░░░░░░░░░░░░░░░░   27.20 %
-Markdown       1 hr 47 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-Image (jpeg)   1 hr 44 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-C++            1 hr 21 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-JSON           48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+TypeScript     13 hrs 14 mins █████████░░░░░░░░░░░░░░░░   37.51 %
+JavaScript     7 hrs 31 mins  █████░░░░░░░░░░░░░░░░░░░░   21.33 %
+Markdown       4 hrs 33 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.91 %
+JSON           2 hrs 12 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Image (jpeg)   2 hrs 9 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+C++            1 hr 21 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
 ```
 
 <!--END_SECTION:waka-->
