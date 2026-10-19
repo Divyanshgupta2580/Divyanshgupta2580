@@ -78,12 +78,12 @@ This Month:     45 hrs 50 mins
 This Year:      74 hrs 41 mins (All Time: 82 hrs 53 mins)
 
 Languages:
-TypeScript     3 hrs 37 mins ████████░░░░░░░░░░░░░░░░░   33.50 %
-JavaScript     3 hrs 3 mins  ███████░░░░░░░░░░░░░░░░░░   28.37 %
-Markdown       58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 %
-JSON           37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-CSS            30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-Git Config     25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+TypeScript     3 hrs 32 mins ████████████░░░░░░░░░░░░░   47.60 %
+Markdown       49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+JavaScript     44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+JSON           32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+SQL            24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+CSS            20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
 ```
 
 <!--END_SECTION:waka-->
