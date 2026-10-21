@@ -73,17 +73,17 @@ Data structures and algorithms in C++, practiced on [LeetCode](https://leetcode.
 
 ```txt
 Coding Activity:
-Today:          0 secs
-This Month:     48 hrs 52 mins
-This Year:      75 hrs 14 mins (All Time: 82 hrs 53 mins)
+Today:          3 secs
+This Month:     50 hrs 46 mins
+This Year:      76 hrs 53 mins (All Time: 83 hrs 26 mins)
 
 Languages:
-TypeScript     3 hrs 14 mins ███████████████░░░░░░░░░░   58.83 %
-JavaScript     40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
-Markdown       25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-SQL            20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
-Python         10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-CSS            10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+JavaScript     1 hr 18 mins ████████░░░░░░░░░░░░░░░░░   33.99 %
+TypeScript     50 mins      █████░░░░░░░░░░░░░░░░░░░░   21.97 %
+Markdown       34 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.90 %
+Other          14 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Bash           11 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+CSS            11 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
 ```
 
 <!--END_SECTION:waka-->
