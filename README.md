@@ -73,13 +73,7 @@ Data structures and algorithms in C++, practiced on [LeetCode](https://leetcode.
 
 ```txt
 Coding Activity:
-Today:          0 secs
-This Month:     0 secs
-This Year:      82 hrs 33 mins (All Time: 91 hrs 11 mins)
-
-Languages:
-C++            8 mins       ████████████████████████░   97.15 %
-Text           0 secs       █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Today:          0 mins
 ```
 
 <!--END_SECTION:waka-->
