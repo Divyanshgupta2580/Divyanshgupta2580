@@ -1,73 +1,88 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="Divyansh Gupta — Computer Science Engineering (AI/ML), full-stack and applied AI" width="100%" />
+  <img src="assets/profile-hero.png" alt="Divyansh Gupta — Software Engineering, Full-Stack Development and Applied AI" width="100%" />
 </div>
 
-I'm a second-year Computer Science Engineering student specializing in **AI/ML**. I build full-stack applications and practical AI systems — autonomous agents, retrieval-augmented generation, and the backend and data layers that keep them dependable. My current focus is AI engineering, clean software design, and strengthening my data structures and algorithms fundamentals. I build in public and contribute to collaborative repositories.
+I'm a software developer focused on building reliable full-stack applications and practical AI systems. My work spans backend architecture, database design, autonomous AI agents, and retrieval-augmented generation. I enjoy turning complex problems into maintainable, useful software.
 
-<p align="center">
-  <a href="#projects">Projects</a> &nbsp;·&nbsp;
-  <a href="#skills">Skills</a> &nbsp;·&nbsp;
-  <a href="#activity">Activity</a> &nbsp;·&nbsp;
-  <a href="#contact">Contact</a>
-</p>
+<div align="center">
+
+[Selected Projects](#selected-projects) &nbsp;·&nbsp; [Technical Skills](#technical-skills) &nbsp;·&nbsp; [Activity](#activity) &nbsp;·&nbsp; [Education](#education) &nbsp;·&nbsp; [Contact](#contact)
+
+</div>
 
 ---
 
-## Projects
+## Selected Projects
 
-### [BenefitOS](https://github.com/Divyanshgupta2580/BenifitOS_FINAL) · [Live demo](https://benifitos-final.onrender.com/)
+### [BenefitOS](https://github.com/Divyanshgupta2580/BenifitOS_FINAL)
+Citizen welfare discovery platform that evaluates public scheme eligibility deterministically, maps document requirements, and provides bilingual AI guidance to streamline citizen access.
 
-Public welfare schemes are scattered across departments, so eligible citizens miss support. BenefitOS evaluates eligibility deterministically, tracks document readiness, and adds a bilingual AI copilot for welfare guidance.
+`TypeScript` · `React` · `NestJS` · `Neo4j` · `Prisma` · `Gemini API`
 
-`TypeScript` `React` `NestJS` `PostgreSQL` `Prisma` `Gemini API`
+[Source Repository](https://github.com/Divyanshgupta2580/BenifitOS_FINAL) · [Live Demo](https://benifitos-final.onrender.com/)
 
-### [RevenueOS](https://github.com/Divyanshgupta2580/RevenueOS) · [Live demo](https://revenue-os-woad.vercel.app/)
+---
 
-Failed payments are usually retried blindly, burning gateway fees on declines that cannot recover. RevenueOS scores recoverability, lets Gemini propose a bounded recovery action, and gates every action through a deterministic policy engine with an immutable decision ledger.
+### [RevenueOS](https://github.com/Divyanshgupta2580/RevenueOS)
+Payment recovery decision engine that assesses failed transaction recoverability, uses Gemini to recommend bounded recovery actions, and enforces deterministic policy rules with an audit ledger.
 
-`Next.js` `Django` `MongoDB` `Gemini API` `Razorpay`
+`Next.js` · `TypeScript` · `Django` · `MongoDB` · `Gemini API` · `Razorpay`
+
+[Source Repository](https://github.com/Divyanshgupta2580/RevenueOS) · [Live Demo](https://revenue-os-woad.vercel.app/)
+
+---
 
 ### [TRON](https://github.com/Divyanshgupta2580/Tron)
+Automated news intelligence pipeline that discovers topics on schedule, eliminates semantic redundancy across sources, and caches scored feeds for low-latency API reads without redundant LLM calls.
 
-Autonomous agents tend to call an LLM on every request and republish the same story. TRON separates reads from writes: a scheduled worker discovers and scores news, deduplicates it semantically, and stores the result so the feed API stays a fast database read.
+`Python` · `FastAPI` · `SQLite` · `LLM APIs`
 
-`Python` `FastAPI` `SQLite` `LLM APIs`
-
-### [JanSetu Multiverse](https://github.com/PRIYANKA-NEGI-28/JANSETU-MULTIVERSE) · *team project*
-
-Civic complaints get lost or duplicated across departments. JanSetu Multiverse links a web dashboard, an Expo mobile app, and IoT edge sensors to detect civic issues, group duplicate reports, and route them to the right department.
-
-`React` `Express` `Firebase` `Expo` `Arduino / Python`
+[Source Repository](https://github.com/Divyanshgupta2580/Tron)
 
 ---
 
-## Skills
+### [JanSetu Multiverse](https://github.com/PRIYANKA-NEGI-28/JANSETU-MULTIVERSE) · *Collaborative Team Project*
+Civic intelligence system integrating web operations, a citizen mobile app, and IoT edge sensors to detect municipal hazards, cluster duplicate grievances, and route incidents across departments.
 
-- **Languages** — C++, Python, JavaScript, TypeScript
-- **Frontend** — HTML, CSS, React
-- **Backend** — Node.js, Express
-- **Databases** — MongoDB, Neo4j
-- **AI / ML** — Retrieval-Augmented Generation (RAG), AI agents
-- **Tools** — Git, GitHub, Vercel
+`React` · `Express` · `Firebase Firestore` · `Expo` · `Arduino / Python`
+
+[Source Repository](https://github.com/PRIYANKA-NEGI-28/JANSETU-MULTIVERSE)
 
 ---
 
-## Problem Solving
+## Technical Skills
 
-Data structures and algorithms in C++, practiced on [LeetCode](https://leetcode.com/u/DIVYANSHGUPTA2580/) and [Codeforces](https://codeforces.com/profile/Divyansh_Gupta2007).
+- **Languages:** C++, Python, JavaScript, TypeScript
+- **Frontend:** HTML, CSS, React
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, Neo4j
+- **AI Systems:** Retrieval-Augmented Generation (RAG), AI Agents
+- **Tools & Platforms:** Git, GitHub, Vercel
+
+---
+
+## Areas of Focus
+
+- **Full-Stack Application Engineering:** Building modular, type-safe web applications with structured client-side state and clean component architecture.
+- **Backend Architecture & API Design:** Designing RESTful services, input validation, and service layers for predictable performance and reliability.
+- **Practical AI Agents & RAG:** Constructing retrieval-augmented generation pipelines, structured tool execution, and decoupled worker ingestion workflows.
+- **Database Design & Algorithms:** Modeling relational, document, and graph data schemas alongside algorithmic problem-solving in C++.
 
 ---
 
 ## Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg" />
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="Divyansh Gupta contribution activity" width="100%" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake-dark.svg" alt="Divyansh Gupta GitHub Contribution Snake" width="100%" />
+  </picture>
+</p>
 
-<details>
-<summary>Coding activity — WakaTime</summary>
+---
+
+## Coding Activity
 
 <!--START_SECTION:waka-->
 
@@ -78,14 +93,16 @@ Today:          0 mins
 
 <!--END_SECTION:waka-->
 
-</details>
+<a id="education"></a>
 
 ---
 
 ## Contact
 
-- **Portfolio** — [divyansh-gupta-portfolio-lac.vercel.app](https://divyansh-gupta-portfolio-lac.vercel.app/)
-- **Email** — [inbox.DivyanshGupta1@protonmail.com](mailto:inbox.DivyanshGupta1@protonmail.com)
-- **LinkedIn** — [divyanshgupta2007](https://www.linkedin.com/in/divyanshgupta2007/)
-- **GitHub** — [Divyanshgupta2580](https://github.com/Divyanshgupta2580)
-- **X** — [@DivyanshGu19605](https://x.com/DivyanshGu19605)
+- **Portfolio:** [divyansh-gupta-portfolio-lac.vercel.app](https://divyansh-gupta-portfolio-lac.vercel.app/)
+- **Email:** [inbox.DivyanshGupta1@protonmail.com](mailto:inbox.DivyanshGupta1@protonmail.com)
+- **LinkedIn:** [linkedin.com/in/divyanshgupta2007](https://www.linkedin.com/in/divyanshgupta2007/)
+- **GitHub:** [github.com/Divyanshgupta2580](https://github.com/Divyanshgupta2580)
+- **LeetCode:** [leetcode.com/u/DIVYANSHGUPTA2580](https://leetcode.com/u/DIVYANSHGUPTA2580/)
+- **Codeforces:** [codeforces.com/profile/Divyansh_Gupta2007](https://codeforces.com/profile/Divyansh_Gupta2007)
+- **X:** [x.com/DivyanshGu19605](https://x.com/DivyanshGu19605)
