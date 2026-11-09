@@ -14,52 +14,53 @@ I'm a software developer focused on building reliable full-stack applications an
 
 ## Selected Projects
 
-A collection of software applications and intelligent systems built to solve practical problems.
+A selection of software systems and applications built to solve practical problems.
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Divyanshgupta2580/BenifitOS_FINAL">BenefitOS</a></h3>
-      <p><sub>Civic Technology · Full-Stack · AI</sub></p>
-      <p>A citizen-welfare discovery platform that helps individuals discover relevant government schemes, evaluate eligibility, and prepare the documentation required for applications.</p>
-      <p><code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>Neo4j</code></p>
-      <p>
-        <a href="https://github.com/Divyanshgupta2580/BenifitOS_FINAL"><b>Source Code</b></a> &nbsp;·&nbsp;
-        <a href="https://benifit-os.onrender.com/"><b>Live Demo ↗</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Divyanshgupta2580/Tron">TRON</a></h3>
-      <p><sub>Autonomous AI · Automation</sub></p>
-      <p>An autonomous intelligence agent that discovers topics, evaluates news against defined criteria, identifies duplicate stories, and publishes relevant updates through scheduled workflows.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>SQLite</code> <code>LLM APIs</code></p>
-      <p>
-        <a href="https://github.com/Divyanshgupta2580/Tron"><b>Source Code</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Divyanshgupta2580/RevenueOS">RevenueOS</a></h3>
-      <p><sub>Fintech · AI Decision Systems</sub></p>
-      <p>A payment-recovery decision system that evaluates failed transactions, assesses recoverability, and supports controlled recovery decisions through a deterministic policy engine.</p>
-      <p><code>Next.js</code> <code>Django</code> <code>MongoDB</code> <code>Gemini API</code></p>
-      <p>
-        <a href="https://github.com/Divyanshgupta2580/RevenueOS"><b>Source Code</b></a> &nbsp;·&nbsp;
-        <a href="https://revenue-os-woad.vercel.app/"><b>Live Demo ↗</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/PRIYANKA-NEGI-28/JANSETU-MULTIVERSE">JanSetu Multiverse</a></h3>
-      <p><sub>Smart Infrastructure · Civic Technology</sub></p>
-      <p>A collaborative civic infrastructure project focused on identifying streetlight failures, analyzing reported issues, and supporting more efficient maintenance.</p>
-      <p><code>Python</code> <code>OpenCV</code> <code>YOLO</code> <code>Edge AI</code></p>
-      <p>
-        <a href="https://github.com/PRIYANKA-NEGI-28/JANSETU-MULTIVERSE"><b>Source Code</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+### 01 — [BenefitOS](https://github.com/Divyanshgupta2580/BenifitOS_FINAL)
+
+<sub>Civic Technology</sub>
+
+A platform that helps citizens discover government schemes, evaluate eligibility, and prepare application documentation.
+
+`TypeScript` · `React` · `Node.js` · `Neo4j`
+
+[Source Code](https://github.com/Divyanshgupta2580/BenifitOS_FINAL) · [Live Demo](https://benifit-os.onrender.com/)
+
+---
+
+### 02 — [TRON](https://github.com/Divyanshgupta2580/Tron)
+
+<sub>Autonomous AI</sub>
+
+An autonomous agent that discovers topics, evaluates news against defined criteria, removes duplicates, and publishes relevant updates through scheduled workflows.
+
+`Python` · `FastAPI` · `SQLite` · `LLM APIs`
+
+[Source Code](https://github.com/Divyanshgupta2580/Tron)
+
+---
+
+### 03 — [RevenueOS](https://github.com/Divyanshgupta2580/RevenueOS)
+
+<sub>Fintech / AI Decision Systems</sub>
+
+A payment recovery decision system that evaluates failed transactions, assesses recoverability, and controls recovery decisions through a deterministic policy engine.
+
+`Next.js` · `Django` · `MongoDB` · `Gemini API`
+
+[Source Code](https://github.com/Divyanshgupta2580/RevenueOS) · [Live Demo](https://revenue-os-woad.vercel.app/)
+
+---
+
+### 04 — [JanSetu Multiverse](https://github.com/PRIYANKA-NEGI-28/JANSETU-MULTIVERSE)
+
+<sub>Smart Infrastructure</sub>
+
+A collaborative civic infrastructure project focused on identifying streetlight failures, analyzing reported issues, and supporting efficient maintenance.
+
+`Python` · `OpenCV` · `YOLO` · `Edge AI`
+
+[Source Code](https://github.com/PRIYANKA-NEGI-28/JANSETU-MULTIVERSE)
 
 ---
 
