@@ -14,39 +14,52 @@ I'm a software developer focused on building reliable full-stack applications an
 
 ## Selected Projects
 
-### [BenefitOS](https://github.com/Divyanshgupta2580/BenifitOS_FINAL)
-Citizen welfare discovery platform that evaluates public scheme eligibility deterministically, maps document requirements, and provides bilingual AI guidance to streamline citizen access.
+A collection of software applications and intelligent systems built to solve practical problems.
 
-`TypeScript` · `React` · `NestJS` · `Neo4j` · `Prisma` · `Gemini API`
-
-[Source Repository](https://github.com/Divyanshgupta2580/BenifitOS_FINAL) · [Live Demo](https://benifitos-final.onrender.com/)
-
----
-
-### [RevenueOS](https://github.com/Divyanshgupta2580/RevenueOS)
-Payment recovery decision engine that assesses failed transaction recoverability, uses Gemini to recommend bounded recovery actions, and enforces deterministic policy rules with an audit ledger.
-
-`Next.js` · `TypeScript` · `Django` · `MongoDB` · `Gemini API` · `Razorpay`
-
-[Source Repository](https://github.com/Divyanshgupta2580/RevenueOS) · [Live Demo](https://revenue-os-woad.vercel.app/)
-
----
-
-### [TRON](https://github.com/Divyanshgupta2580/Tron)
-Automated news intelligence pipeline that discovers topics on schedule, eliminates semantic redundancy across sources, and caches scored feeds for low-latency API reads without redundant LLM calls.
-
-`Python` · `FastAPI` · `SQLite` · `LLM APIs`
-
-[Source Repository](https://github.com/Divyanshgupta2580/Tron)
-
----
-
-### [JanSetu Multiverse](https://github.com/PRIYANKA-NEGI-28/JANSETU-MULTIVERSE) · *Collaborative Team Project*
-Civic intelligence system integrating web operations, a citizen mobile app, and IoT edge sensors to detect municipal hazards, cluster duplicate grievances, and route incidents across departments.
-
-`React` · `Express` · `Firebase Firestore` · `Expo` · `Arduino / Python`
-
-[Source Repository](https://github.com/PRIYANKA-NEGI-28/JANSETU-MULTIVERSE)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Divyanshgupta2580/BenifitOS_FINAL">BenefitOS</a></h3>
+      <p><sub>Civic Technology · Full-Stack · AI</sub></p>
+      <p>A citizen-welfare discovery platform that helps individuals discover relevant government schemes, evaluate eligibility, and prepare the documentation required for applications.</p>
+      <p><code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>Neo4j</code></p>
+      <p>
+        <a href="https://github.com/Divyanshgupta2580/BenifitOS_FINAL"><b>Source Code</b></a> &nbsp;·&nbsp;
+        <a href="https://benifit-os.onrender.com/"><b>Live Demo ↗</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Divyanshgupta2580/Tron">TRON</a></h3>
+      <p><sub>Autonomous AI · Automation</sub></p>
+      <p>An autonomous intelligence agent that discovers topics, evaluates news against defined criteria, identifies duplicate stories, and publishes relevant updates through scheduled workflows.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>SQLite</code> <code>LLM APIs</code></p>
+      <p>
+        <a href="https://github.com/Divyanshgupta2580/Tron"><b>Source Code</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Divyanshgupta2580/RevenueOS">RevenueOS</a></h3>
+      <p><sub>Fintech · AI Decision Systems</sub></p>
+      <p>A payment-recovery decision system that evaluates failed transactions, assesses recoverability, and supports controlled recovery decisions through a deterministic policy engine.</p>
+      <p><code>Next.js</code> <code>Django</code> <code>MongoDB</code> <code>Gemini API</code></p>
+      <p>
+        <a href="https://github.com/Divyanshgupta2580/RevenueOS"><b>Source Code</b></a> &nbsp;·&nbsp;
+        <a href="https://revenue-os-woad.vercel.app/"><b>Live Demo ↗</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/PRIYANKA-NEGI-28/JANSETU-MULTIVERSE">JanSetu Multiverse</a></h3>
+      <p><sub>Smart Infrastructure · Civic Technology</sub></p>
+      <p>A collaborative civic infrastructure project focused on identifying streetlight failures, analyzing reported issues, and supporting more efficient maintenance.</p>
+      <p><code>Python</code> <code>OpenCV</code> <code>YOLO</code> <code>Edge AI</code></p>
+      <p>
+        <a href="https://github.com/PRIYANKA-NEGI-28/JANSETU-MULTIVERSE"><b>Source Code</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
