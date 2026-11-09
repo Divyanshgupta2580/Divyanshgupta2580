@@ -12,55 +12,93 @@ I'm a software developer focused on building reliable full-stack applications an
 
 ---
 
-## Selected Projects
+<a id="selected-projects"></a>
+
+<p><img src="https://api.iconify.design/octicon/dash-16.svg?color=%23388bfd&width=28&height=28" align="absmiddle" /> &nbsp; <b>SELECTED PROJECTS</b></p>
+
+# Projects [I've Built](#selected-projects)
 
 A selection of software systems and applications built to solve practical problems.
 
-### 01 — [BenefitOS](https://github.com/Divyanshgupta2580/BenifitOS_FINAL)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Divyanshgupta2580/BenifitOS_FINAL"><img src="https://api.iconify.design/lucide/external-link.svg?color=%238b949e" width="15" height="15" align="right" alt="View Repository" /></a>
+      <p>
+        <a href="https://github.com/Divyanshgupta2580/BenifitOS_FINAL"><kbd><img src="https://api.iconify.design/lucide/landmark.svg?color=%23e6edf3" width="24" height="24" align="absmiddle" /></kbd></a> &nbsp;
+        <b>BenefitOS</b> &nbsp;
+        <code>Civic&nbsp;Technology</code>
+      </p>
+      <p>A platform that helps citizens discover government schemes, evaluate eligibility, and prepare application documentation.</p>
+      <hr>
+      <p><code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>Neo4j</code></p>
+      <p>
+        <a href="https://github.com/Divyanshgupta2580/BenifitOS_FINAL">
+          <img src="https://api.iconify.design/octicon/mark-github-16.svg?color=%23e6edf3" width="14" height="14" align="absmiddle" /> <b>Source Code ↗</b>
+        </a> &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="https://benifit-os.onrender.com/">
+          <img src="https://api.iconify.design/lucide/external-link.svg?color=%23e6edf3" width="14" height="14" align="absmiddle" /> <b>Live Demo ↗</b>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Divyanshgupta2580/Tron"><img src="https://api.iconify.design/lucide/external-link.svg?color=%238b949e" width="15" height="15" align="right" alt="View Repository" /></a>
+      <p>
+        <a href="https://github.com/Divyanshgupta2580/Tron"><kbd><img src="https://api.iconify.design/lucide/bot.svg?color=%23e6edf3" width="24" height="24" align="absmiddle" /></kbd></a> &nbsp;
+        <b>TRON</b> &nbsp;
+        <code>Autonomous&nbsp;AI</code>
+      </p>
+      <p>An autonomous agent that discovers topics, evaluates news against defined criteria, removes duplicates, and publishes relevant updates through scheduled workflows.</p>
+      <hr>
+      <p><code>Python</code> <code>FastAPI</code> <code>SQLite</code> <code>LLM APIs</code></p>
+      <p>
+        <a href="https://github.com/Divyanshgupta2580/Tron">
+          <img src="https://api.iconify.design/octicon/mark-github-16.svg?color=%23e6edf3" width="14" height="14" align="absmiddle" /> <b>Source Code ↗</b>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<sub>Civic Technology</sub>
-
-A platform that helps citizens discover government schemes, evaluate eligibility, and prepare application documentation.
-
-`TypeScript` · `React` · `Node.js` · `Neo4j`
-
-[Source Code](https://github.com/Divyanshgupta2580/BenifitOS_FINAL) · [Live Demo](https://benifit-os.onrender.com/)
-
----
-
-### 02 — [TRON](https://github.com/Divyanshgupta2580/Tron)
-
-<sub>Autonomous AI</sub>
-
-An autonomous agent that discovers topics, evaluates news against defined criteria, removes duplicates, and publishes relevant updates through scheduled workflows.
-
-`Python` · `FastAPI` · `SQLite` · `LLM APIs`
-
-[Source Code](https://github.com/Divyanshgupta2580/Tron)
-
----
-
-### 03 — [RevenueOS](https://github.com/Divyanshgupta2580/RevenueOS)
-
-<sub>Fintech / AI Decision Systems</sub>
-
-A payment recovery decision system that evaluates failed transactions, assesses recoverability, and controls recovery decisions through a deterministic policy engine.
-
-`Next.js` · `Django` · `MongoDB` · `Gemini API`
-
-[Source Code](https://github.com/Divyanshgupta2580/RevenueOS) · [Live Demo](https://revenue-os-woad.vercel.app/)
-
----
-
-### 04 — [JanSetu Multiverse](https://github.com/PRIYANKA-NEGI-28/JANSETU-MULTIVERSE)
-
-<sub>Smart Infrastructure</sub>
-
-A collaborative civic infrastructure project focused on identifying streetlight failures, analyzing reported issues, and supporting efficient maintenance.
-
-`Python` · `OpenCV` · `YOLO` · `Edge AI`
-
-[Source Code](https://github.com/PRIYANKA-NEGI-28/JANSETU-MULTIVERSE)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Divyanshgupta2580/RevenueOS"><img src="https://api.iconify.design/lucide/external-link.svg?color=%238b949e" width="15" height="15" align="right" alt="View Repository" /></a>
+      <p>
+        <a href="https://github.com/Divyanshgupta2580/RevenueOS"><kbd><img src="https://api.iconify.design/lucide/database.svg?color=%23e6edf3" width="24" height="24" align="absmiddle" /></kbd></a> &nbsp;
+        <b>RevenueOS</b> &nbsp;
+        <code>Fintech&nbsp;/&nbsp;AI&nbsp;Decision&nbsp;Systems</code>
+      </p>
+      <p>A payment recovery decision system that evaluates failed transactions, assesses recoverability, and controls recovery decisions through a deterministic policy engine.</p>
+      <hr>
+      <p><code>Next.js</code> <code>Django</code> <code>MongoDB</code> <code>Gemini API</code></p>
+      <p>
+        <a href="https://github.com/Divyanshgupta2580/RevenueOS">
+          <img src="https://api.iconify.design/octicon/mark-github-16.svg?color=%23e6edf3" width="14" height="14" align="absmiddle" /> <b>Source Code ↗</b>
+        </a> &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="https://revenue-os-woad.vercel.app/">
+          <img src="https://api.iconify.design/lucide/external-link.svg?color=%23e6edf3" width="14" height="14" align="absmiddle" /> <b>Live Demo ↗</b>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/PRIYANKA-NEGI-28/JANSETU-MULTIVERSE"><img src="https://api.iconify.design/lucide/external-link.svg?color=%238b949e" width="15" height="15" align="right" alt="View Repository" /></a>
+      <p>
+        <a href="https://github.com/PRIYANKA-NEGI-28/JANSETU-MULTIVERSE"><kbd><img src="https://api.iconify.design/energy-icons/street-light-20-bold.svg?color=%23e6edf3" width="24" height="24" align="absmiddle" /></kbd></a> &nbsp;
+        <b>JanSetu Multiverse</b> &nbsp;
+        <code>Smart&nbsp;Infrastructure</code>
+      </p>
+      <p>A collaborative civic infrastructure project focused on identifying streetlight failures, analyzing reported issues, and supporting efficient maintenance.</p>
+      <hr>
+      <p><code>Python</code> <code>OpenCV</code> <code>YOLO</code> <code>Edge AI</code></p>
+      <p>
+        <a href="https://github.com/PRIYANKA-NEGI-28/JANSETU-MULTIVERSE">
+          <img src="https://api.iconify.design/octicon/mark-github-16.svg?color=%23e6edf3" width="14" height="14" align="absmiddle" /> <b>Source Code ↗</b>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
