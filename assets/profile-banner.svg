@@ -1,33 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 200" width="100%" height="200" fill="none" role="img" aria-label="Divyansh Gupta — Software Engineering · Full-Stack Development · Applied AI">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="960" y2="200" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#0B0F19" />
-      <stop offset="100%" stop-color="#0F172A" />
-    </linearGradient>
-    <radialGradient id="glow" cx="800" cy="30" r="340" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#0EA5E9" stop-opacity="0.15" />
-      <stop offset="100%" stop-color="#0B0F19" stop-opacity="0" />
-    </radialGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="200" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#38BDF8" />
-      <stop offset="100%" stop-color="#2563EB" />
-    </linearGradient>
-    <linearGradient id="name" x1="0" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#FFFFFF" />
-      <stop offset="100%" stop-color="#CBD5E1" />
-    </linearGradient>
-  </defs>
-
-  <rect width="960" height="200" rx="16" fill="url(#bg)" />
-  <rect width="960" height="200" rx="16" fill="url(#glow)" />
-  <rect x="1" y="1" width="958" height="198" rx="15" stroke="#1E293B" stroke-width="1.5" fill="none" />
-
-  <rect x="52" y="55" width="4" height="90" rx="2" fill="url(#accent)" />
-
-  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif">
-    <text x="84" y="92" fill="url(#name)" font-size="34" font-weight="700" letter-spacing="0.5">DIVYANSH GUPTA</text>
-    <text x="86" y="122" fill="#93C5FD" font-size="15" font-weight="500" letter-spacing="0.1">Software Engineering · Full-Stack Development · Applied AI</text>
-    <circle cx="90" cy="150" r="3.5" fill="#10B981" />
-    <text x="102" y="154" fill="#64748B" font-size="12.5" font-weight="400">Available for engineering roles &amp; technical collaborations</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+  <title id="title">Divyansh Gupta</title>
+  <desc id="desc">Software engineering, full-stack development, and applied AI.</desc>
+  <rect width="1200" height="210" rx="14" fill="#0d1117"/>
+  <rect x="1" y="1" width="1198" height="208" rx="13" fill="none" stroke="#30363d"/>
+  <rect x="54" y="52" width="4" height="106" rx="2" fill="#58a6ff"/>
+  <g font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="86" y="91" fill="#f0f6fc" font-size="43" font-weight="700" letter-spacing="-1">Divyansh Gupta</text>
+    <text x="88" y="126" fill="#c9d1d9" font-size="19" font-weight="500">Software Engineering · Full-Stack Development · Applied AI</text>
+    <text x="88" y="158" fill="#8b949e" font-size="15">Building reliable applications and practical AI systems.</text>
+    <text x="1128" y="184" fill="#484f58" font-size="13" text-anchor="end">github.com/Divyanshgupta2580</text>
   </g>
 </svg>
