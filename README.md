@@ -121,11 +121,12 @@ A selection of software systems built to solve practical problems.
 
   <!--START_SECTION:waka-->
 
-  ```txt
-  Coding activity will appear here after the WakaTime workflow runs.
-  ```
+```txt
+Coding Activity:
+Today:          0 mins
+```
 
-  <!--END_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </details>
 
