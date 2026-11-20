@@ -1,13 +1,15 @@
 # Divyansh Gupta
 
-![Full-stack developer · Applied AI systems · Backend and API engineering · RAG and AI agents](./assets/engineering-roles.svg)
+<p align="center">
+  <img alt="Full-stack developer, applied AI systems, backend and API engineering, and RAG and AI agents" src="./assets/engineering-roles.svg">
+</p>
 
-<p>
-  <a href="mailto:inbox.DivyanshGupta1@protonmail.com"><img height="36" alt="Email me" src="https://img.shields.io/badge/Email-25212C?style=for-the-badge&amp;logo=protonmail&amp;logoColor=F3C5B9"></a>
-  <a href="https://www.linkedin.com/in/divyanshgupta2007/"><img height="36" alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&amp;theme=dark"></a>
-  <a href="https://divyansh-gupta-portfolio-lac.vercel.app/"><img height="36" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-25212C?style=for-the-badge&amp;logo=vercel&amp;logoColor=F3C5B9"></a>
-  <a href="https://drive.google.com/file/d/1XbqOPOtspT1fE-rc5Om4RG5dNWelJBru/view?usp=sharing"><img height="36" alt="Résumé" src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-25212C?style=for-the-badge&amp;logo=googledrive&amp;logoColor=F3C5B9"></a>
-  <a href="https://x.com/DivyanshGu19605"><img height="36" alt="X profile" src="https://img.shields.io/badge/X-25212C?style=for-the-badge&amp;logo=x&amp;logoColor=F3C5B9"></a>
+<p align="center">
+  <a href="mailto:inbox.DivyanshGupta1@protonmail.com">&nbsp;&nbsp;<img height="30" alt="Email me" src="https://img.shields.io/badge/Email-25212C?style=for-the-badge&amp;logo=protonmail&amp;logoColor=F3C5B9">&nbsp;&nbsp;</a>
+  <a href="https://www.linkedin.com/in/divyanshgupta2007/">&nbsp;&nbsp;<img height="30" alt="LinkedIn" src="./assets/linkedin-badge.svg">&nbsp;&nbsp;</a>
+  <a href="https://divyansh-gupta-portfolio-lac.vercel.app/">&nbsp;&nbsp;<img height="30" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-25212C?style=for-the-badge&amp;logo=vercel&amp;logoColor=F3C5B9">&nbsp;&nbsp;</a>
+  <a href="https://drive.google.com/file/d/1XbqOPOtspT1fE-rc5Om4RG5dNWelJBru/view?usp=sharing">&nbsp;&nbsp;<img height="30" alt="Résumé" src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-25212C?style=for-the-badge&amp;logo=googledrive&amp;logoColor=F3C5B9">&nbsp;&nbsp;</a>
+  <a href="https://x.com/DivyanshGu19605">&nbsp;&nbsp;<img height="30" alt="X profile" src="https://img.shields.io/badge/X-25212C?style=for-the-badge&amp;logo=x&amp;logoColor=F3C5B9">&nbsp;&nbsp;</a>
 </p>
 
 ![Translucent software modules connected by copper and violet traces](./assets/systems-in-motion.jpg)
@@ -17,11 +19,12 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Divyanshgupta2580/BenifitOS_FINAL" title="Private web repository">BenefitOS</a></h3>
+      <h3>BenefitOS</h3>
       <p>Citizens enter profile and income details to find government welfare schemes whose eligibility rules match their situation. A document vault uses OCR to extract information from uploaded paperwork and helps users organize the documents they need to apply.</p>
       <p><strong>Technology used</strong><br><code>React</code> <code>NestJS</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Expo</code></p>
       <p><strong>Live demo</strong> · <a href="https://benifit-os.onrender.com/">Open BenefitOS</a><br>
-      <strong>Mobile repo</strong> · <a href="https://github.com/Divyanshgupta2580/project">Expo app</a></p>
+      <strong>Source code</strong> · Private<br>
+      <strong>Mobile repo</strong> · —</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Divyanshgupta2580/RevenueOS">RevenueOS</a></h3>
@@ -33,10 +36,10 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/rishav-raj-genx/Placement-Readiness-Copilot">Placement Readiness Copilot</a></h3>
-      <p>Hireable reviews a student’s résumé for applicant tracking system (ATS) compatibility and evaluates their developer profile. Students can practice mock interviews by voice or text, find job openings, and use a Kanban board to track applications and follow-up dates.</p>
+      <h3><a href="https://github.com/rishav-raj-genx/Placement-Readiness-Copilot">Hirable</a></h3>
+      <p>Hirable reviews a student’s résumé for applicant tracking system (ATS) compatibility and evaluates their developer profile. Students can practice mock interviews by voice or text, find job openings, and use a Kanban board to track applications and follow-up dates.</p>
       <p><strong>Technology used</strong><br><code>Next.js</code> <code>FastAPI</code> <code>Supabase</code> <code>LiveKit</code></p>
-      <p><strong>Live demo</strong> · <a href="https://placement-readiness-copilot.vercel.app/">Open Hireable</a><br>
+      <p><strong>Live demo</strong> · <a href="https://placement-readiness-copilot.vercel.app/">Open Hirable</a><br>
       <strong>Mobile repo</strong> · No separate repo verified</p>
     </td>
     <td width="50%" valign="top">

@@ -24,10 +24,10 @@
   </style>
   <rect x="0.5" y="0.5" width="439" height="53" rx="8" fill="#191821" stroke="#5b485c"/>
   <path d="m18 27 5-5 5 5-5 5z" fill="#f2ad9b"/>
-  <g fill="#f4e8ed" font-family="system-ui, sans-serif" font-size="23" font-weight="600">
-    <text class="role first" x="42" y="35">Full-stack developer</text>
-    <text class="role second" x="42" y="35">Applied AI systems</text>
-    <text class="role third" x="42" y="35">Backend &amp; API engineering</text>
-    <text class="role fourth" x="42" y="35">RAG &amp; AI agents</text>
+  <g fill="#f4e8ed" font-family="system-ui, sans-serif" font-size="23" font-weight="600" text-anchor="middle">
+    <text class="role first" x="220" y="35">Full-stack developer</text>
+    <text class="role second" x="220" y="35">Applied AI systems</text>
+    <text class="role third" x="220" y="35">Backend &amp; API engineering</text>
+    <text class="role fourth" x="220" y="35">RAG &amp; AI agents</text>
   </g>
 </svg>
