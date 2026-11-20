@@ -102,6 +102,13 @@
 
 <p>
   <a href="https://ai.google.dev/gemini-api/docs"><img width="48" height="48" alt="Gemini" src="./assets/skills/gemini.svg"></a>&emsp;&ensp;
+  <a href="https://chatgpt.com/"><img width="48" height="48" alt="ChatGPT" src="./assets/skills/chatgpt.svg"></a>&emsp;&ensp;
+  <a href="https://docs.x.ai/overview"><img width="48" height="48" alt="Grok" src="./assets/skills/grok.svg"></a>&emsp;&ensp;
+  <a href="https://platform.kimi.ai/docs/get-your-api-key"><img width="48" height="48" alt="Kimi" src="./assets/skills/kimi.svg"></a>&emsp;&ensp;
+  <a href="https://api-docs.deepseek.com/"><img width="48" height="48" alt="DeepSeek" src="./assets/skills/deepseek.svg"></a>
+</p>
+
+<p>
   <a href="https://docs.langchain.com/oss/python/langchain/overview"><img width="48" height="48" alt="LangChain" src="./assets/skills/langchain.svg"></a>&emsp;&ensp;
   <a href="https://docs.langchain.com/oss/python/langgraph/overview"><img width="48" height="48" alt="LangGraph" src="./assets/skills/langgraph.svg"></a>&emsp;&ensp;
   <a href="https://docs.ollama.com/"><img width="48" height="48" alt="Ollama" src="./assets/skills/ollama.svg"></a>&emsp;&ensp;

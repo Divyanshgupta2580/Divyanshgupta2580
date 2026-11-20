@@ -1,33 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="54" viewBox="0 0 440 54" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="42" viewBox="0 0 440 42" role="img" aria-labelledby="title description">
   <title id="title">Engineering roles</title>
   <desc id="description">Full-stack developer, applied AI systems, backend and API engineering, and RAG and AI agents.</desc>
   <style>
-    .role {
-      opacity: 0;
-      animation: cycle 12s ease-in-out infinite;
-    }
-    .first { opacity: 1; }
-    .second { animation-delay: 3s; }
-    .third { animation-delay: 6s; }
-    .fourth { animation-delay: 9s; }
+    .full { --letters: 20; --travel: 240px; --delay: 0s; }
+    .applied { --letters: 18; --travel: 216px; --delay: 4s; }
+    .backend { --letters: 25; --travel: 300px; --delay: 8s; }
+    .rag { --letters: 15; --travel: 180px; --delay: 12s; }
 
-    @keyframes cycle {
-      0%, 19% { opacity: 1; transform: translateY(0); }
-      24% { opacity: 0; transform: translateY(-6px); }
-      25%, 96% { opacity: 0; transform: translateY(6px); }
-      100% { opacity: 1; transform: translateY(0); }
+    @media (prefers-reduced-motion: no-preference) {
+      .fallback { animation: hide-fallback 0s both; }
+      .role { animation: show-role 16s step-end var(--delay) infinite; }
+      .reveal { animation: type 16s steps(var(--letters), end) var(--delay) infinite; }
+      .caret { animation: move-caret 16s steps(var(--letters), end) var(--delay) infinite, blink 1s step-end infinite; }
     }
 
-    @media (prefers-reduced-motion: reduce) {
-      .role { animation: none; }
+    @keyframes hide-fallback { to { opacity: 0; } }
+    @keyframes show-role {
+      0% { opacity: 1; }
+      25%, 100% { opacity: 0; }
     }
+    @keyframes type {
+      0%, 25%, 100% { transform: scaleX(0); }
+      10%, 21% { transform: scaleX(1); }
+    }
+    @keyframes move-caret {
+      0%, 25%, 100% { transform: translateX(0); }
+      10%, 21% { transform: translateX(var(--travel)); }
+    }
+    @keyframes blink { 50% { opacity: 0; } }
   </style>
-  <rect x="0.5" y="0.5" width="439" height="53" rx="8" fill="#191821" stroke="#5b485c"/>
-  <path d="m18 27 5-5 5 5-5 5z" fill="#f2ad9b"/>
-  <g fill="#f4e8ed" font-family="system-ui, sans-serif" font-size="23" font-weight="600" text-anchor="middle">
-    <text class="role first" x="220" y="35">Full-stack developer</text>
-    <text class="role second" x="220" y="35">Applied AI systems</text>
-    <text class="role third" x="220" y="35">Backend &amp; API engineering</text>
-    <text class="role fourth" x="220" y="35">RAG &amp; AI agents</text>
+
+  <defs>
+    <clipPath id="full-reveal"><rect class="reveal full" width="240" height="42"/></clipPath>
+    <clipPath id="applied-reveal"><rect class="reveal applied" width="216" height="42"/></clipPath>
+    <clipPath id="backend-reveal"><rect class="reveal backend" width="300" height="42"/></clipPath>
+    <clipPath id="rag-reveal"><rect class="reveal rag" width="180" height="42"/></clipPath>
+  </defs>
+
+  <rect x="48" y="3" width="344" height="36" rx="8" fill="#191821"/>
+  <g font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="20" font-weight="600">
+    <text class="fallback" x="220" y="28" text-anchor="middle" fill="#f3c5b9">Full-stack developer</text>
+    <g class="role full" transform="translate(100)" opacity="0" fill="#f3c5b9">
+      <text y="28" textLength="240" lengthAdjust="spacingAndGlyphs" clip-path="url(#full-reveal)">Full-stack developer</text>
+      <rect class="caret" x="2" y="12" width="2" height="17" rx="1"/>
+    </g>
+    <g class="role applied" transform="translate(112)" opacity="0" fill="#cdb9f2">
+      <text y="28" textLength="216" lengthAdjust="spacingAndGlyphs" clip-path="url(#applied-reveal)">Applied AI systems</text>
+      <rect class="caret" x="2" y="12" width="2" height="17" rx="1"/>
+    </g>
+    <g class="role backend" transform="translate(70)" opacity="0" fill="#f6b497">
+      <text y="28" textLength="300" lengthAdjust="spacingAndGlyphs" clip-path="url(#backend-reveal)">Backend &amp; API engineering</text>
+      <rect class="caret" x="2" y="12" width="2" height="17" rx="1"/>
+    </g>
+    <g class="role rag" transform="translate(130)" opacity="0" fill="#e3c2f4">
+      <text y="28" textLength="180" lengthAdjust="spacingAndGlyphs" clip-path="url(#rag-reveal)">RAG &amp; AI agents</text>
+      <rect class="caret" x="2" y="12" width="2" height="17" rx="1"/>
+    </g>
   </g>
 </svg>
