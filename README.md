@@ -1,279 +1,118 @@
-<div align="center">
+# Divyansh Gupta
 
-<a href="https://github.com/Divyanshgupta2580">
-  <img src="assets/hero-laptop.png" alt="Minimal dark developer workspace with laptop illustration" width="100%">
-</a>
+![Full-stack developer · Applied AI systems · Backend and API engineering · RAG and AI agents](./assets/engineering-roles.svg)
 
-</div>
+[inbox.DivyanshGupta1@protonmail.com](mailto:inbox.DivyanshGupta1@protonmail.com)
 
-<table>
-<tr>
-<td width="62%" valign="middle">
+[LinkedIn](https://www.linkedin.com/in/divyanshgupta2007/) · [Portfolio](https://divyansh-gupta-portfolio-lac.vercel.app/) · [Résumé](https://drive.google.com/file/d/1XbqOPOtspT1fE-rc5Om4RG5dNWelJBru/view?usp=sharing) · [X](https://x.com/DivyanshGu19605)
 
-<p>
-  <samp>&gt; divyansh@github:~$</samp>
-</p>
-
-# Hi, I'm Divyansh Gupta
-
-### Software Developer &amp; AI Engineer
-
-Building reliable software systems, full-stack applications, and practical AI tools. Exploring backend architecture, AI agents, and retrieval-augmented generation.
-
-<p>
-  <a href="#selected-projects">
-    <img src="https://img.shields.io/badge/View_Projects-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="View projects">
-  </a>
-  <a href="https://divyansh-gupta-portfolio-lac.vercel.app/">
-    <img src="https://img.shields.io/badge/Resume-24292F?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume — currently links to portfolio">
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/Divyanshgupta2580"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/divyanshgupta2007/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/DivyanshGu19605"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
-  <a href="mailto:inbox.DivyanshGupta1@protonmail.com"><img src="https://img.shields.io/badge/Email-555555?style=flat&logo=protonmail&logoColor=white" alt="Email"></a>
-</p>
-
-</td>
-<td width="38%" valign="middle" align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=330&lines=Full-Stack+Development;Applied+AI+Systems;Backend+%26+API+Engineering;RAG+%26+AI+Agents" alt="Animated role descriptions">
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/4-Featured_Projects-161B22?style=for-the-badge&labelColor=0D1117" alt="Four featured projects">
-  <img src="https://img.shields.io/badge/4-Core_Focus_Areas-161B22?style=for-the-badge&labelColor=0D1117" alt="Four focus areas">
-  <a href="https://github.com/Divyanshgupta2580?tab=overview&from=2025-01-01&to=2026-12-31">
-    <img src="https://img.shields.io/github/commit-activity/y/Divyanshgupta2580/Divyanshgupta2580?style=for-the-badge&label=Profile%20Repo%20Activity&color=161B22" alt="Profile repository activity">
-  </a>
-</p>
-
----
-
-<a id="selected-projects"></a>
+![Translucent software modules connected by copper and violet traces](./assets/systems-in-motion.jpg)
 
 ## Selected Projects
 
-*A selection of software systems and applications built to solve practical problems.*
-
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### BenefitOS
-
-`Civic Technology`
-
-A platform that helps citizens discover government schemes, evaluate eligibility, and prepare application documentation.
-
-`TypeScript` `React` `Node.js` `Neo4j`
-
-[Source Code ↗](https://github.com/Divyanshgupta2580/BenifitOS_FINAL)
-
-</td>
-<td width="50%" valign="top">
-
-### TRON
-
-`Autonomous AI`
-
-An autonomous agent that discovers topics, evaluates news against defined criteria, removes duplicates, and publishes relevant updates.
-
-`Python` `FastAPI` `SQLite` `LLM APIs`
-
-[Source Code ↗](https://github.com/Divyanshgupta2580/Tron)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### RevenueOS
-
-`Fintech / AI Decision Systems`
-
-A payment-recovery decision system that evaluates failed transactions, assesses recoverability, and supports controlled recovery decisions through a deterministic policy engine.
-
-`Next.js` `Django` `MongoDB` `Gemini API`
-
-[Find repository ↗](https://github.com/Divyanshgupta2580?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### JanSetu Multiverse
-
-`Smart Infrastructure`
-
-A collaborative civic infrastructure project focused on identifying streetlight failures, analyzing reported issues, and supporting efficient maintenance.
-
-`Python` `OpenCV` `YOLO` `Edge AI`
-
-[Find repository ↗](https://github.com/PRYANKA-NEGI-28/JANSETU-MULTIVERSE)
-
-</td>
-</tr>
-</table>
-
----
-
-## Technical Skills
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**Languages**
-
-C++ · Python · JavaScript · TypeScript
-
-</td>
-<td width="33%" valign="top">
-
-**Frontend**
-
-HTML · CSS · React
-
-</td>
-<td width="33%" valign="top">
-
-**Backend**
-
-Node.js · Express.js
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-**Databases**
-
-MongoDB · Neo4j
-
-</td>
-<td width="33%" valign="top">
-
-**AI Systems**
-
-RAG · AI Agents
-
-</td>
-<td width="33%" valign="top">
-
-**Tools &amp; Platforms**
-
-Git · GitHub · Vercel
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Divyanshgupta2580/BenifitOS_FINAL" title="Private web repository">BenefitOS</a></h3>
+      <p>Citizens enter profile and income details to find government welfare schemes whose eligibility rules match their situation. A document vault uses OCR to extract information from uploaded paperwork and helps users organize the documents they need to apply.</p>
+      <p><strong>Technology used</strong><br><code>React</code> <code>NestJS</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Expo</code></p>
+      <p><strong>Live demo</strong> · <a href="https://benifit-os.onrender.com/">Open BenefitOS</a><br>
+      <strong>Mobile repo</strong> · <a href="https://github.com/Divyanshgupta2580/project">Expo app</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Divyanshgupta2580/RevenueOS">RevenueOS</a></h3>
+      <p>RevenueOS scores failed payments and estimates their recovery value. Gemini suggests whether to retry, send a payment link or reminder, or stop. A policy engine checks the recommendation against retry limits and risk rules, then records the decision in an audit ledger.</p>
+      <p><strong>Technology used</strong><br><code>Next.js</code> <code>Django</code> <code>MongoDB</code> <code>Gemini API</code></p>
+      <p><strong>Live demo</strong> · <a href="https://revenue-os-woad.vercel.app/">Open RevenueOS</a><br>
+      <strong>Mobile repo</strong> · No separate repo verified</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rishav-raj-genx/Placement-Readiness-Copilot">Placement Readiness Copilot</a></h3>
+      <p>Hireable reviews a student’s résumé for applicant tracking system (ATS) compatibility and evaluates their developer profile. Students can practice mock interviews by voice or text, find job openings, and use a Kanban board to track applications and follow-up dates.</p>
+      <p><strong>Technology used</strong><br><code>Next.js</code> <code>FastAPI</code> <code>Supabase</code> <code>LiveKit</code></p>
+      <p><strong>Live demo</strong> · <a href="https://placement-readiness-copilot.vercel.app/">Open Hireable</a><br>
+      <strong>Mobile repo</strong> · No separate repo verified</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Divyanshgupta2580/JEEVIKA" title="Private repository">JeeVika</a></h3>
+      <p>This healthcare workflow prototype connects multilingual patient check-in on kiosks and mobile devices with clinician workspaces. Intake information follows the patient through care handoffs, with dedicated views for staff to manage queues and coordinate follow-up.</p>
+      <p><strong>Technology used</strong><br><code>React</code> <code>TypeScript</code> <code>Hono</code> <code>Flutter</code> <code>Dart</code></p>
+      <p><strong>Live demo</strong> · No public demo verified<br>
+      <strong>Mobile repo</strong> · <a href="https://github.com/Divyanshgupta2580/JEEVIKA/tree/main/frontend/app">Flutter app (private)</a></p>
+    </td>
+  </tr>
 </table>
 
 ## Areas of Focus
 
-| Focus area | What I work on |
-|---|---|
-| **Full-Stack Application Engineering** | Building modular, type-safe web applications with clean architecture. |
-| **Backend Architecture & API Design** | Designing RESTful services, input validation, and reliable service layers. |
-| **Practical AI Agents & RAG** | Constructing retrieval pipelines, structured tool execution, and decoupled workflows. |
-| **Database Design & Algorithms** | Modeling relational, document, and graph data alongside algorithmic problem-solving. |
+- **Full-stack development** — Build complete web and mobile workflows, from the interface to persistence.
+- **Backend and API engineering** — Design APIs with clear service boundaries, validation, and data models.
+- **Applied AI systems** — Put model outputs to work inside applications with explicit checks before actions.
+- **RAG and AI agents** — Retrieve evidence from documents, ground answers in that evidence, and give agents tools for defined tasks.
 
----
+## Technical Skills
 
-## Activity & Coding
+### Languages
 
-*Development activity on GitHub and coding insights from WakaTime.*
+![TypeScript](https://img.shields.io/badge/TypeScript-25212C?style=flat-square&logo=typescript&logoColor=F3C5B9) ![Python](https://img.shields.io/badge/Python-25212C?style=flat-square&logo=python&logoColor=F3C5B9) ![JavaScript](https://img.shields.io/badge/JavaScript-25212C?style=flat-square&logo=javascript&logoColor=F3C5B9) ![C++](https://img.shields.io/badge/C%2B%2B-25212C?style=flat-square&logo=cplusplus&logoColor=F3C5B9) ![Dart](https://img.shields.io/badge/Dart-25212C?style=flat-square&logo=dart&logoColor=F3C5B9)
 
-### GitHub Activity
+### Web and Mobile
 
-<table>
-<tr>
-<td width="54%" valign="middle">
+![React](https://img.shields.io/badge/React-25212C?style=flat-square&logo=react&logoColor=F3C5B9) ![Next.js](https://img.shields.io/badge/Next.js-25212C?style=flat-square&logo=nextdotjs&logoColor=F3C5B9) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-25212C?style=flat-square&logo=tailwindcss&logoColor=F3C5B9) ![HTML](https://img.shields.io/badge/HTML-25212C?style=flat-square&logo=html5&logoColor=F3C5B9) ![CSS](https://img.shields.io/badge/CSS-25212C?style=flat-square&logo=css&logoColor=F3C5B9) ![Flutter](https://img.shields.io/badge/Flutter-25212C?style=flat-square&logo=flutter&logoColor=F3C5B9)
 
-<p align="center">
-  <a href="https://github.com/Divyanshgupta2580">
-    <img src="https://ghchart.rshah.org/409ba5/Divyanshgupta2580" alt="GitHub contribution activity graph" width="100%">
-  </a>
-</p>
+### APIs and Data
 
-</td>
-<td width="46%" valign="middle">
+![Node.js](https://img.shields.io/badge/Node.js-25212C?style=flat-square&logo=nodedotjs&logoColor=F3C5B9) ![NestJS](https://img.shields.io/badge/NestJS-25212C?style=flat-square&logo=nestjs&logoColor=F3C5B9) ![FastAPI](https://img.shields.io/badge/FastAPI-25212C?style=flat-square&logo=fastapi&logoColor=F3C5B9) ![Django](https://img.shields.io/badge/Django-25212C?style=flat-square&logo=django&logoColor=F3C5B9) ![Hono](https://img.shields.io/badge/Hono-25212C?style=flat-square&logo=hono&logoColor=F3C5B9) ![Prisma](https://img.shields.io/badge/Prisma-25212C?style=flat-square&logo=prisma&logoColor=F3C5B9) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-25212C?style=flat-square&logo=postgresql&logoColor=F3C5B9) ![MongoDB](https://img.shields.io/badge/MongoDB-25212C?style=flat-square&logo=mongodb&logoColor=F3C5B9) ![Redis](https://img.shields.io/badge/Redis-25212C?style=flat-square&logo=redis&logoColor=F3C5B9) ![Supabase](https://img.shields.io/badge/Supabase-25212C?style=flat-square&logo=supabase&logoColor=F3C5B9) ![Neo4j](https://img.shields.io/badge/Neo4j-25212C?style=flat-square&logo=neo4j&logoColor=F3C5B9)
 
-<p align="center">
-  <a href="https://github.com/Divyanshgupta2580">
-    <img src="https://github-readme-stats.vercel.app/api?username=Divyanshgupta2580&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true" alt="GitHub statistics" width="100%">
-  </a>
-</p>
+### AI and Delivery
 
-</td>
-</tr>
-</table>
+![Gemini](https://img.shields.io/badge/Gemini-25212C?style=flat-square&logo=googlegemini&logoColor=F3C5B9) ![LangGraph](https://img.shields.io/badge/LangGraph-25212C?style=flat-square&logo=langgraph&logoColor=F3C5B9) ![Docker](https://img.shields.io/badge/Docker-25212C?style=flat-square&logo=docker&logoColor=F3C5B9) ![Git](https://img.shields.io/badge/Git-25212C?style=flat-square&logo=git&logoColor=F3C5B9) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-25212C?style=flat-square&logo=githubactions&logoColor=F3C5B9) ![Cloudflare](https://img.shields.io/badge/Cloudflare-25212C?style=flat-square&logo=cloudflare&logoColor=F3C5B9) ![Vercel](https://img.shields.io/badge/Vercel-25212C?style=flat-square&logo=vercel&logoColor=F3C5B9)
 
-### Coding Time by Language
+## Activity and Coding
 
-_Top languages across my editors, tracked with [WakaTime](https://wakatime.com/)._
+### GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake.svg">
+  <img alt="Animated snake moving through my GitHub contribution calendar" src="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+[![Daily GitHub contributions](https://github-readme-activity-graph.vercel.app/graph?username=Divyanshgupta2580&theme=tokyo-night&hide_border=true&hide_title=true&bg_color=191821&color=EBDCE7&line=E8A58F&point=B9A0EF&area=true&area_color=BD79A5&radius=8)](https://github.com/Divyanshgupta2580?tab=overview)
+
+### WakaTime by Language
+
+Measured time takes priority. If a longer range is unavailable, the labeled estimate uses the latest tracked week’s daily average.
 
 <!--START_SECTION:waka-->
 
-<details open>
-<summary><strong>Weekly</strong> · Last 7 days</summary>
+#### Weekly · 7 days
 
 <!--START_SECTION:waka-last_7_days-->
 
-_Example preview · Live totals appear after the first successful refresh._
-
-| Language | Time | Share |
-| :--- | ---: | :--- |
-| Python | `4h 00m` | `█████░░░░░ 50.0%` |
-| TypeScript | `2h 24m` | `███░░░░░░░ 30.0%` |
-| C++ | `1h 36m` | `██░░░░░░░░ 20.0%` |
+_Waiting for tracked language totals._
 
 <!--END_SECTION:waka-last_7_days-->
 
-</details>
-
-<details>
-<summary><strong>Monthly</strong> · Last 30 days</summary>
+#### Monthly · 30 days
 
 <!--START_SECTION:waka-last_30_days-->
 
-_Waiting for the first monthly refresh._
+_Waiting for monthly totals or a tracked week to estimate from._
 
 <!--END_SECTION:waka-last_30_days-->
 
-</details>
-
-<details>
-<summary><strong>Yearly</strong> · Last year</summary>
+#### Yearly · 12 months
 
 <!--START_SECTION:waka-last_year-->
 
-_Waiting for the first yearly refresh._
+_Waiting for yearly totals or a tracked week to estimate from._
 
 <!--END_SECTION:waka-last_year-->
 
-</details>
-
 <!--END_SECTION:waka-->
 
----
+### Problem Solving
 
-## Let's Connect
-
-<p align="center">
-  <a href="https://divyansh-gupta-portfolio-lac.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:inbox.DivyanshGupta1@protonmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/divyanshgupta2007/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Divyanshgupta2580"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://leetcode.com/u/DIVYANSHGUPTA2580/"><img src="https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <a href="https://codeforces.com/profile/Divyansh_Gupta2007"><img src="https://img.shields.io/badge/Codeforces-161B22?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
-  <a href="https://x.com/DivyanshGu19605"><img src="https://img.shields.io/badge/X-161B22?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-</p>
-
-<p align="center">
-  <sub>Building useful software, one thoughtful iteration at a time.</sub>
-</p>
+[C++ practice repository](https://github.com/Divyanshgupta2580/DSA-Assignments) · [LeetCode](https://leetcode.com/u/DIVYANSHGUPTA2580/) · [Codeforces](https://codeforces.com/profile/Divyansh_Gupta2007)

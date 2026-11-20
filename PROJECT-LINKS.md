@@ -1,9 +1,10 @@
-# Project link verification
+# Featured project links
 
-Known links:
-- BenefitOS: https://github.com/Divyanshgupta2580/BenifitOS_FINAL
-- TRON: https://github.com/Divyanshgupta2580/Tron
+| Project | Repository | Public demo |
+| :--- | :--- | :--- |
+| Placement Readiness Copilot (Hireable) | [Team repository](https://github.com/rishav-raj-genx/Placement-Readiness-Copilot) | [Hireable](https://placement-readiness-copilot.vercel.app/) |
+| BenefitOS | [Web source (private)](https://github.com/Divyanshgupta2580/BenifitOS_FINAL) · [Mobile source](https://github.com/Divyanshgupta2580/project) | [BenefitOS](https://benifit-os.onrender.com/) |
+| JeeVika | [Repository (private)](https://github.com/Divyanshgupta2580/JEEVIKA) | No public demo verified |
+| RevenueOS | [Repository](https://github.com/Divyanshgupta2580/RevenueOS) | [RevenueOS](https://revenue-os-woad.vercel.app/) |
 
-Links to verify before publishing:
-- RevenueOS currently points to the account's repository listing because the exact repository URL was not confirmed.
-- JanSetu Multiverse currently points to https://github.com/PRYANKA-NEGI-28/JANSETU-MULTIVERSE based on the earlier project reference. Confirm owner/repository spelling.
+The README summaries and tech tags are based on each repository’s README and dependency manifests. The BenefitOS tags describe the current web version. The public mobile source is an Expo app with a separate backend.

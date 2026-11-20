@@ -14,7 +14,8 @@ from zoneinfo import ZoneInfo
 
 README = Path(__file__).resolve().parents[2] / "README.md"
 API_URL = "https://api.wakatime.com/api/v1/users/current/stats"
-RANGES = ("last_7_days", "last_30_days", "last_year")
+WEEKLY_RANGE = "last_7_days"
+RANGE_DAYS = {WEEKLY_RANGE: 7, "last_30_days": 30, "last_year": 365}
 LANGUAGE_LIMIT = 5
 
 
@@ -34,13 +35,20 @@ def fetch_stats(time_range, token):
                     return stats
         except HTTPError as error:
             message = f"WakaTime returned HTTP {error.code} for {time_range}."
+            if time_range != WEEKLY_RANGE and (error.code in (402, 403, 404, 429) or error.code >= 500):
+                print(f"::warning::{message}")
+                return None
             if error.code in (401, 403):
                 message += " Check that WAKATIME_API_KEY contains a WakaTime OAuth token with stats access."
             raise RuntimeError(message) from None
         except (URLError, TimeoutError):
-            raise RuntimeError(f"Could not reach WakaTime for {time_range}.") from None
+            message = f"Could not reach WakaTime for {time_range}."
+            if time_range != WEEKLY_RANGE:
+                print(f"::warning::{message}")
+                return None
+            raise RuntimeError(message) from None
 
-    print(f"::warning::WakaTime is still calculating {time_range}. Keeping the existing section.")
+    print(f"::warning::WakaTime is still calculating {time_range}.")
     return None
 
 
@@ -51,23 +59,36 @@ def format_duration(seconds):
     return f"{minutes}m" if minutes else "<1m"
 
 
-def format_stats(stats):
+def tracked_languages(stats):
     languages = [
         (entry["name"], entry["total_seconds"])
         for entry in stats["languages"]
         if entry["name"] != "Other" and entry["total_seconds"] > 0
     ]
-    languages.sort(key=lambda entry: (-entry[1], entry[0]))
+    return sorted(languages, key=lambda entry: (-entry[1], entry[0]))
+
+
+def format_stats(stats, languages, projection_days=None):
     end = datetime.fromisoformat(stats["end"]).astimezone(ZoneInfo(stats["timezone"]))
-    through = f"through {end:%b %d, %Y}"
+    date = f"{end:%b %d, %Y}"
     if not languages:
-        return f"_No language activity recorded {through}._"
+        return f"_No language activity recorded through {date}._"
 
     total_seconds = sum(seconds for _, seconds in languages)
+    multiplier = 1
+    if projection_days is not None:
+        multiplier = projection_days / RANGE_DAYS[WEEKLY_RANGE]
+        summary = (
+            f"**{format_duration(total_seconds * multiplier)} estimated** · {projection_days}-day projection. "
+            f"Based on the daily average for the tracked week ending {date}."
+        )
+    else:
+        summary = f"**{format_duration(total_seconds)}** tracked · through {date}"
+
     rows = [
-        f"**{format_duration(total_seconds)}** tracked · {through}",
+        summary,
         "",
-        "| Language | Time | Share |",
+        f"| Language | {'Est. time' if projection_days is not None else 'Time'} | Share |",
         "| :--- | ---: | :--- |",
     ]
     for name, seconds in languages[:LANGUAGE_LIMIT]:
@@ -76,7 +97,7 @@ def format_stats(stats):
         share = 100 * seconds / total_seconds
         filled = round(share / 10)
         bar = "█" * filled + "░" * (10 - filled)
-        rows.append(f"| {label} | `{format_duration(seconds)}` | `{bar} {share:.1f}%` |")
+        rows.append(f"| {label} | `{format_duration(seconds * multiplier)}` | `{bar} {share:.1f}%` |")
     return "\n".join(rows)
 
 
@@ -97,15 +118,25 @@ def main():
 
     original = README.read_text(encoding="utf-8")
     before, section, after = split_section(original, "waka")
-    for time_range in RANGES:
+    weekly_stats, weekly_languages = None, []
+    for time_range, days in RANGE_DAYS.items():
         marker = f"waka-{time_range}"
         prefix, _, suffix = split_section(section, marker)
         try:
             stats = fetch_stats(time_range, token)
-            if stats is not None:
-                section = f"{prefix}\n\n{format_stats(stats)}\n\n{suffix}"
+            languages = tracked_languages(stats) if stats is not None else []
+            if time_range == WEEKLY_RANGE:
+                weekly_stats, weekly_languages = stats, languages
+
+            if time_range != WEEKLY_RANGE and not languages and weekly_languages:
+                body = format_stats(weekly_stats, weekly_languages, projection_days=days)
+            elif stats is not None:
+                body = format_stats(stats, languages)
+            else:
+                continue
         except (KeyError, TypeError, ValueError):
             raise RuntimeError(f"WakaTime returned unexpected stats for {time_range}.") from None
+        section = f"{prefix}\n\n{body}\n\n{suffix}"
 
     updated = before + section + after
     if original != updated:
