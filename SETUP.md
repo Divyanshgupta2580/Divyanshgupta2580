@@ -2,7 +2,7 @@
 
 ## Contents
 
-- `README.md` contains the public profile. [PROJECT-LINKS.md](./PROJECT-LINKS.md) records the featured project sources and verified demo links.
+- `README.md` contains the public profile. [PROJECT-LINKS.md](./PROJECT-LINKS.md) records the featured project demo links.
 - `assets/systems-in-motion.jpg` and `assets/engineering-roles.svg` supply the profile artwork and animated role titles.
 - `.github/workflows/snake.yml` refreshes the contribution snake on the `output` branch.
 - `.github/workflows/profile-3d.yml` refreshes the 3D contribution chart at `profile-3d-contrib/profile-night-rainbow.svg`.

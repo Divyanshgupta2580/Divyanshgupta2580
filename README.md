@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:inbox.DivyanshGupta1@protonmail.com">&nbsp;&nbsp;<img height="30" alt="Email me" src="https://img.shields.io/badge/Email-25212C?style=for-the-badge&amp;logo=protonmail&amp;logoColor=F3C5B9">&nbsp;&nbsp;</a>
-  <a href="https://www.linkedin.com/in/divyanshgupta2007/">&nbsp;&nbsp;<img height="30" alt="LinkedIn" src="./assets/linkedin-badge.svg">&nbsp;&nbsp;</a>
-  <a href="https://divyansh-gupta-portfolio-lac.vercel.app/">&nbsp;&nbsp;<img height="30" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-25212C?style=for-the-badge&amp;logo=vercel&amp;logoColor=F3C5B9">&nbsp;&nbsp;</a>
-  <a href="https://drive.google.com/file/d/1XbqOPOtspT1fE-rc5Om4RG5dNWelJBru/view?usp=sharing">&nbsp;&nbsp;<img height="30" alt="Résumé" src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-25212C?style=for-the-badge&amp;logo=googledrive&amp;logoColor=F3C5B9">&nbsp;&nbsp;</a>
-  <a href="https://x.com/DivyanshGu19605">&nbsp;&nbsp;<img height="30" alt="X profile" src="https://img.shields.io/badge/X-25212C?style=for-the-badge&amp;logo=x&amp;logoColor=F3C5B9">&nbsp;&nbsp;</a>
+  <a href="mailto:inbox.DivyanshGupta1@protonmail.com"><img height="30" alt="Email me" src="https://img.shields.io/badge/Email-25212C?style=for-the-badge&amp;logo=protonmail&amp;logoColor=F3C5B9"></a>&emsp;
+  <a href="https://www.linkedin.com/in/divyanshgupta2007/"><img height="30" alt="LinkedIn" src="./assets/linkedin-badge.svg"></a>&emsp;
+  <a href="https://divyansh-gupta-portfolio-lac.vercel.app/"><img height="30" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-25212C?style=for-the-badge&amp;logo=vercel&amp;logoColor=F3C5B9"></a>&emsp;
+  <a href="https://drive.google.com/file/d/1XbqOPOtspT1fE-rc5Om4RG5dNWelJBru/view?usp=sharing"><img height="30" alt="Résumé" src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-25212C?style=for-the-badge&amp;logo=googledrive&amp;logoColor=F3C5B9"></a>&emsp;
+  <a href="https://x.com/DivyanshGu19605"><img height="30" alt="X profile" src="https://img.shields.io/badge/X-25212C?style=for-the-badge&amp;logo=x&amp;logoColor=F3C5B9"></a>
 </p>
 
 ![Translucent software modules connected by copper and violet traces](./assets/systems-in-motion.jpg)
@@ -23,31 +23,27 @@
       <p>Citizens enter profile and income details to find government welfare schemes whose eligibility rules match their situation. A document vault uses OCR to extract information from uploaded paperwork and helps users organize the documents they need to apply.</p>
       <p><strong>Technology used</strong><br><code>React</code> <code>NestJS</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Expo</code></p>
       <p><strong>Live demo</strong> · <a href="https://benifit-os.onrender.com/">Open BenefitOS</a><br>
-      <strong>Source code</strong> · Private<br>
-      <strong>Mobile repo</strong> · —</p>
+      <strong>Source code</strong> · Private</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Divyanshgupta2580/RevenueOS">RevenueOS</a></h3>
+      <h3>RevenueOS</h3>
       <p>RevenueOS scores failed payments and estimates their recovery value. Gemini suggests whether to retry, send a payment link or reminder, or stop. A policy engine checks the recommendation against retry limits and risk rules, then records the decision in an audit ledger.</p>
       <p><strong>Technology used</strong><br><code>Next.js</code> <code>Django</code> <code>MongoDB</code> <code>Gemini API</code></p>
-      <p><strong>Live demo</strong> · <a href="https://revenue-os-woad.vercel.app/">Open RevenueOS</a><br>
-      <strong>Mobile repo</strong> · No separate repo verified</p>
+      <p><strong>Live demo</strong> · <a href="https://revenue-os-woad.vercel.app/">Open RevenueOS</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/rishav-raj-genx/Placement-Readiness-Copilot">Hirable</a></h3>
+      <h3>Hirable</h3>
       <p>Hirable reviews a student’s résumé for applicant tracking system (ATS) compatibility and evaluates their developer profile. Students can practice mock interviews by voice or text, find job openings, and use a Kanban board to track applications and follow-up dates.</p>
       <p><strong>Technology used</strong><br><code>Next.js</code> <code>FastAPI</code> <code>Supabase</code> <code>LiveKit</code></p>
-      <p><strong>Live demo</strong> · <a href="https://placement-readiness-copilot.vercel.app/">Open Hirable</a><br>
-      <strong>Mobile repo</strong> · No separate repo verified</p>
+      <p><strong>Live demo</strong> · <a href="https://placement-readiness-copilot.vercel.app/">Open Hirable</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Divyanshgupta2580/JEEVIKA" title="Private repository">JeeVika</a></h3>
+      <h3>JeeVika</h3>
       <p>This healthcare workflow prototype connects multilingual patient check-in on kiosks and mobile devices with clinician workspaces. Intake information follows the patient through care handoffs, with dedicated views for staff to manage queues and coordinate follow-up.</p>
       <p><strong>Technology used</strong><br><code>React</code> <code>TypeScript</code> <code>Hono</code> <code>Flutter</code> <code>Dart</code></p>
-      <p><strong>Live demo</strong> · No public demo verified<br>
-      <strong>Mobile repo</strong> · <a href="https://github.com/Divyanshgupta2580/JEEVIKA/tree/main/frontend/app">Flutter app (private)</a></p>
+      <p><strong>Live demo</strong> · No public demo verified</p>
     </td>
   </tr>
 </table>
