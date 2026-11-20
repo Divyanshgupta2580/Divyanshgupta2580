@@ -188,17 +188,20 @@ Git · GitHub · Vercel
 
 *Development activity on GitHub and coding insights from WakaTime.*
 
+### GitHub Activity
+
 <table>
 <tr>
-<td width="54%" valign="top">
-
-### GitHub Activity
+<td width="54%" valign="middle">
 
 <p align="center">
   <a href="https://github.com/Divyanshgupta2580">
     <img src="https://ghchart.rshah.org/409ba5/Divyanshgupta2580" alt="GitHub contribution activity graph" width="100%">
   </a>
 </p>
+
+</td>
+<td width="46%" valign="middle">
 
 <p align="center">
   <a href="https://github.com/Divyanshgupta2580">
@@ -207,29 +210,55 @@ Git · GitHub · Vercel
 </p>
 
 </td>
-<td width="46%" valign="top">
-
-### Coding Activity · WakaTime
-
-<a href="https://wakatime.com/">
-  <img src="https://img.shields.io/badge/WakaTime-Coding_Analytics-161B22?style=flat&logo=wakatime&logoColor=white" alt="WakaTime">
-</a>
-
-<!--START_SECTION:waka-->
-```text
-WakaTime activity will appear here after the workflow runs.
-```
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <a href="https://wakatime.com/">
-    View WakaTime ↗
-  </a>
-</p>
-
-</td>
 </tr>
 </table>
+
+### Coding Time by Language
+
+_Top languages across my editors, tracked with [WakaTime](https://wakatime.com/)._
+
+<!--START_SECTION:waka-->
+
+<details open>
+<summary><strong>Weekly</strong> · Last 7 days</summary>
+
+<!--START_SECTION:waka-last_7_days-->
+
+_Example preview · Live totals appear after the first successful refresh._
+
+| Language | Time | Share |
+| :--- | ---: | :--- |
+| Python | `4h 00m` | `█████░░░░░ 50.0%` |
+| TypeScript | `2h 24m` | `███░░░░░░░ 30.0%` |
+| C++ | `1h 36m` | `██░░░░░░░░ 20.0%` |
+
+<!--END_SECTION:waka-last_7_days-->
+
+</details>
+
+<details>
+<summary><strong>Monthly</strong> · Last 30 days</summary>
+
+<!--START_SECTION:waka-last_30_days-->
+
+_Waiting for the first monthly refresh._
+
+<!--END_SECTION:waka-last_30_days-->
+
+</details>
+
+<details>
+<summary><strong>Yearly</strong> · Last year</summary>
+
+<!--START_SECTION:waka-last_year-->
+
+_Waiting for the first yearly refresh._
+
+<!--END_SECTION:waka-last_year-->
+
+</details>
+
+<!--END_SECTION:waka-->
 
 ---
 
