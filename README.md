@@ -100,6 +100,8 @@
 
 ### AI and Delivery
 
+#### AI Models and Assistants
+
 <p>
   <a href="https://ai.google.dev/gemini-api/docs"><img width="48" height="48" alt="Gemini" src="./assets/skills/gemini.svg"></a>&emsp;&ensp;
   <a href="https://chatgpt.com/"><img width="48" height="48" alt="ChatGPT" src="./assets/skills/chatgpt.svg"></a>&emsp;&ensp;
@@ -108,12 +110,16 @@
   <a href="https://api-docs.deepseek.com/"><img width="48" height="48" alt="DeepSeek" src="./assets/skills/deepseek.svg"></a>
 </p>
 
+#### AI Frameworks and Tools
+
 <p>
   <a href="https://docs.langchain.com/oss/python/langchain/overview"><img width="48" height="48" alt="LangChain" src="./assets/skills/langchain.svg"></a>&emsp;&ensp;
   <a href="https://docs.langchain.com/oss/python/langgraph/overview"><img width="48" height="48" alt="LangGraph" src="./assets/skills/langgraph.svg"></a>&emsp;&ensp;
   <a href="https://docs.ollama.com/"><img width="48" height="48" alt="Ollama" src="./assets/skills/ollama.svg"></a>&emsp;&ensp;
   <a href="https://developers.deepgram.com/home"><img width="48" height="48" alt="Deepgram" src="./assets/skills/deepgram.svg"></a>
 </p>
+
+#### Automation and DevOps
 
 <p>
   <a href="https://docs.n8n.io/"><img width="48" height="48" alt="n8n" src="./assets/skills/n8n.svg"></a>&emsp;&ensp;
