@@ -22,14 +22,14 @@
       <h3>BenefitOS</h3>
       <p>Citizens enter profile and income details to find government welfare schemes whose eligibility rules match their situation. A document vault uses OCR to extract information from uploaded paperwork and helps users organize the documents they need to apply.</p>
       <p><strong>Technology used</strong><br><code>React</code> <code>NestJS</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Expo</code></p>
-      <p><strong>Live demo</strong> · <a href="https://benifit-os.onrender.com/">Open BenefitOS</a><br>
+      <p><strong>Live demo</strong> · <a href="https://benifit-os.onrender.com/">BenefitOS</a><br>
       <strong>Source code</strong> · Private</p>
     </td>
     <td width="50%" valign="top">
       <h3>RevenueOS</h3>
       <p>RevenueOS scores failed payments and estimates their recovery value. Gemini suggests whether to retry, send a payment link or reminder, or stop. A policy engine checks the recommendation against retry limits and risk rules, then records the decision in an audit ledger.</p>
       <p><strong>Technology used</strong><br><code>Next.js</code> <code>Django</code> <code>MongoDB</code> <code>Gemini API</code></p>
-      <p><strong>Live demo</strong> · <a href="https://revenue-os-woad.vercel.app/">Open RevenueOS</a></p>
+      <p><strong>Live demo</strong> · <a href="https://revenue-os-woad.vercel.app/">RevenueOS</a></p>
     </td>
   </tr>
   <tr>
@@ -37,7 +37,7 @@
       <h3>Hirable</h3>
       <p>Hirable reviews a student’s résumé for applicant tracking system (ATS) compatibility and evaluates their developer profile. Students can practice mock interviews by voice or text, find job openings, and use a Kanban board to track applications and follow-up dates.</p>
       <p><strong>Technology used</strong><br><code>Next.js</code> <code>FastAPI</code> <code>Supabase</code> <code>LiveKit</code></p>
-      <p><strong>Live demo</strong> · <a href="https://placement-readiness-copilot.vercel.app/">Open Hirable</a></p>
+      <p><strong>Live demo</strong> · <a href="https://placement-readiness-copilot.vercel.app/">Hirable</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>JeeVika</h3>
@@ -59,29 +59,64 @@
 
 ### Languages
 
-![TypeScript, Python, JavaScript, C++, and Dart](https://skillicons.dev/icons?i=ts,python,js,cpp,dart&theme=dark)
+<p>
+  <a href="https://www.typescriptlang.org/docs/"><img width="48" height="48" alt="TypeScript" src="https://skillicons.dev/icons?i=ts&amp;theme=dark"></a>&emsp;
+  <a href="https://docs.python.org/3/"><img width="48" height="48" alt="Python" src="https://skillicons.dev/icons?i=python&amp;theme=dark"></a>&emsp;
+  <a href="https://tc39.es/ecma262/"><img width="48" height="48" alt="JavaScript" src="https://skillicons.dev/icons?i=js&amp;theme=dark"></a>&emsp;
+  <a href="https://isocpp.org/"><img width="48" height="48" alt="C++" src="https://skillicons.dev/icons?i=cpp&amp;theme=dark"></a>&emsp;
+  <a href="https://dart.dev/docs"><img width="48" height="48" alt="Dart" src="https://skillicons.dev/icons?i=dart&amp;theme=dark"></a>
+</p>
 
 ### Web and Mobile
 
-![React, Next.js, Tailwind CSS, HTML, CSS, and Flutter](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,flutter&theme=dark)
+<p>
+  <a href="https://react.dev/"><img width="48" height="48" alt="React" src="https://skillicons.dev/icons?i=react&amp;theme=dark"></a>&emsp;
+  <a href="https://nextjs.org/docs"><img width="48" height="48" alt="Next.js" src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark"></a>&emsp;
+  <a href="https://tailwindcss.com/docs"><img width="48" height="48" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind&amp;theme=dark"></a>&emsp;
+  <a href="https://html.spec.whatwg.org/"><img width="48" height="48" alt="HTML" src="https://skillicons.dev/icons?i=html&amp;theme=dark"></a>&emsp;
+  <a href="https://www.w3.org/Style/CSS/"><img width="48" height="48" alt="CSS" src="https://skillicons.dev/icons?i=css&amp;theme=dark"></a>&emsp;
+  <a href="https://docs.flutter.dev/"><img width="48" height="48" alt="Flutter" src="https://skillicons.dev/icons?i=flutter&amp;theme=dark"></a>
+</p>
 
-### APIs and Data
-
-![Node.js, NestJS, FastAPI, Django, Prisma, PostgreSQL, MongoDB, Redis, and Supabase](https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,django,prisma,postgres,mongodb,redis,supabase&theme=dark&perline=5)
+### APIs and Backend
 
 <p>
-  <img height="36" alt="Hono" src="https://img.shields.io/badge/Hono-25212C?style=for-the-badge&amp;logo=hono&amp;logoColor=F3C5B9">
-  <img height="36" alt="Neo4j" src="https://img.shields.io/badge/Neo4j-25212C?style=for-the-badge&amp;logo=neo4j&amp;logoColor=F3C5B9">
+  <a href="https://nodejs.org/api/"><img width="48" height="48" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark"></a>&emsp;
+  <a href="https://docs.nestjs.com/"><img width="48" height="48" alt="NestJS" src="https://skillicons.dev/icons?i=nestjs&amp;theme=dark"></a>&emsp;
+  <a href="https://fastapi.tiangolo.com/"><img width="48" height="48" alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi&amp;theme=dark"></a>&emsp;
+  <a href="https://docs.djangoproject.com/"><img width="48" height="48" alt="Django" src="https://skillicons.dev/icons?i=django&amp;theme=dark"></a>&emsp;
+  <a href="https://hono.dev/docs"><img height="36" alt="Hono" src="https://img.shields.io/badge/Hono-25212C?style=for-the-badge&amp;logo=hono&amp;logoColor=F3C5B9"></a>
+</p>
+
+### Databases and Data Tools
+
+<p>
+  <a href="https://www.postgresql.org/docs/"><img width="48" height="48" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres&amp;theme=dark"></a>&emsp;
+  <a href="https://www.mongodb.com/docs/"><img width="48" height="48" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb&amp;theme=dark"></a>&emsp;
+  <a href="https://redis.io/docs/latest/"><img width="48" height="48" alt="Redis" src="https://skillicons.dev/icons?i=redis&amp;theme=dark"></a>&emsp;
+  <a href="https://supabase.com/docs"><img width="48" height="48" alt="Supabase" src="https://skillicons.dev/icons?i=supabase&amp;theme=dark"></a>&emsp;
+  <a href="https://www.prisma.io/docs"><img width="48" height="48" alt="Prisma" src="https://skillicons.dev/icons?i=prisma&amp;theme=dark"></a>&emsp;
+  <a href="https://neo4j.com/docs/"><img height="36" alt="Neo4j" src="https://img.shields.io/badge/Neo4j-25212C?style=for-the-badge&amp;logo=neo4j&amp;logoColor=F3C5B9"></a>
 </p>
 
 ### AI and Delivery
 
 <p>
-  <img height="36" alt="Gemini" src="https://img.shields.io/badge/Gemini-25212C?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=F3C5B9">
-  <img height="36" alt="LangGraph" src="https://img.shields.io/badge/LangGraph-25212C?style=for-the-badge&amp;logo=langgraph&amp;logoColor=F3C5B9">
+  <a href="https://ai.google.dev/gemini-api/docs"><img height="36" alt="Gemini" src="https://img.shields.io/badge/Gemini-25212C?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=F3C5B9"></a>&emsp;
+  <a href="https://docs.langchain.com/oss/python/langchain/overview"><img height="36" alt="LangChain" src="https://img.shields.io/badge/LangChain-25212C?style=for-the-badge&amp;logo=langchain&amp;logoColor=F3C5B9"></a>&emsp;
+  <a href="https://docs.langchain.com/oss/python/langgraph/overview"><img height="36" alt="LangGraph" src="https://img.shields.io/badge/LangGraph-25212C?style=for-the-badge&amp;logo=langgraph&amp;logoColor=F3C5B9"></a>&emsp;
+  <a href="https://docs.ollama.com/"><img height="36" alt="Ollama" src="https://img.shields.io/badge/Ollama-25212C?style=for-the-badge&amp;logo=ollama&amp;logoColor=F3C5B9"></a>&emsp;
+  <a href="https://developers.deepgram.com/home"><img height="36" alt="Deepgram" src="https://img.shields.io/badge/Deepgram-25212C?style=for-the-badge&amp;logo=deepgram&amp;logoColor=F3C5B9"></a>
 </p>
 
-![Docker, Git, GitHub Actions, Cloudflare, and Vercel](https://skillicons.dev/icons?i=docker,git,githubactions,cloudflare,vercel&theme=dark)
+<p>
+  <a href="https://docs.n8n.io/"><img height="36" alt="n8n" src="https://img.shields.io/badge/n8n-25212C?style=for-the-badge&amp;logo=n8n&amp;logoColor=F3C5B9"></a>&emsp;
+  <a href="https://docs.docker.com/"><img width="48" height="48" alt="Docker" src="https://skillicons.dev/icons?i=docker&amp;theme=dark"></a>&emsp;
+  <a href="https://git-scm.com/doc"><img width="48" height="48" alt="Git" src="https://skillicons.dev/icons?i=git&amp;theme=dark"></a>&emsp;
+  <a href="https://docs.github.com/en/actions"><img width="48" height="48" alt="GitHub Actions" src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark"></a>&emsp;
+  <a href="https://developers.cloudflare.com/"><img width="48" height="48" alt="Cloudflare" src="https://skillicons.dev/icons?i=cloudflare&amp;theme=dark"></a>&emsp;
+  <a href="https://vercel.com/docs"><img width="48" height="48" alt="Vercel" src="https://skillicons.dev/icons?i=vercel&amp;theme=dark"></a>
+</p>
 
 ## Activity and Coding
 
@@ -132,7 +167,9 @@ _Waiting for yearly totals or a tracked week to estimate from._
 
 #### LeetCode · [DIVYANSHGUPTA2580](https://leetcode.com/u/DIVYANSHGUPTA2580/)
 
-[![LeetCode problems solved, with a breakdown by difficulty](https://leetcard.jacoblin.cool/DIVYANSHGUPTA2580?theme=dark&font=JetBrains%20Mono)](https://leetcode.com/u/DIVYANSHGUPTA2580/)
+<a href="https://leetcode.com/u/DIVYANSHGUPTA2580/">
+  <img width="100%" alt="LeetCode problems solved, with a breakdown by difficulty" src="https://leetcard.jacoblin.cool/DIVYANSHGUPTA2580?theme=dark&amp;font=JetBrains%20Mono&amp;animation=false">
+</a>
 
 #### Codeforces · [Divyansh_Gupta2007](https://codeforces.com/profile/Divyansh_Gupta2007)
 
