@@ -22,8 +22,7 @@
       <h3>BenefitOS</h3>
       <p>Citizens enter profile and income details to find government welfare schemes whose eligibility rules match their situation. A document vault uses OCR to extract information from uploaded paperwork and helps users organize the documents they need to apply.</p>
       <p><strong>Technology used</strong><br><code>React</code> <code>NestJS</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Expo</code></p>
-      <p><strong>Live demo</strong> · <a href="https://benifit-os.onrender.com/">BenefitOS</a><br>
-      <strong>Source code</strong> · Private</p>
+      <p><strong>Live demo</strong> · <a href="https://benifit-os.onrender.com/">BenefitOS</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>RevenueOS</h3>
@@ -60,61 +59,61 @@
 ### Languages
 
 <p>
-  <a href="https://www.typescriptlang.org/docs/"><img width="48" height="48" alt="TypeScript" src="https://skillicons.dev/icons?i=ts&amp;theme=dark"></a>&emsp;
-  <a href="https://docs.python.org/3/"><img width="48" height="48" alt="Python" src="https://skillicons.dev/icons?i=python&amp;theme=dark"></a>&emsp;
-  <a href="https://tc39.es/ecma262/"><img width="48" height="48" alt="JavaScript" src="https://skillicons.dev/icons?i=js&amp;theme=dark"></a>&emsp;
-  <a href="https://isocpp.org/"><img width="48" height="48" alt="C++" src="https://skillicons.dev/icons?i=cpp&amp;theme=dark"></a>&emsp;
+  <a href="https://www.typescriptlang.org/docs/"><img width="48" height="48" alt="TypeScript" src="https://skillicons.dev/icons?i=ts&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://docs.python.org/3/"><img width="48" height="48" alt="Python" src="https://skillicons.dev/icons?i=python&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://tc39.es/ecma262/"><img width="48" height="48" alt="JavaScript" src="https://skillicons.dev/icons?i=js&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://isocpp.org/"><img width="48" height="48" alt="C++" src="https://skillicons.dev/icons?i=cpp&amp;theme=dark"></a>&emsp;&ensp;
   <a href="https://dart.dev/docs"><img width="48" height="48" alt="Dart" src="https://skillicons.dev/icons?i=dart&amp;theme=dark"></a>
 </p>
 
 ### Web and Mobile
 
 <p>
-  <a href="https://react.dev/"><img width="48" height="48" alt="React" src="https://skillicons.dev/icons?i=react&amp;theme=dark"></a>&emsp;
-  <a href="https://nextjs.org/docs"><img width="48" height="48" alt="Next.js" src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark"></a>&emsp;
-  <a href="https://tailwindcss.com/docs"><img width="48" height="48" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind&amp;theme=dark"></a>&emsp;
-  <a href="https://html.spec.whatwg.org/"><img width="48" height="48" alt="HTML" src="https://skillicons.dev/icons?i=html&amp;theme=dark"></a>&emsp;
-  <a href="https://www.w3.org/Style/CSS/"><img width="48" height="48" alt="CSS" src="https://skillicons.dev/icons?i=css&amp;theme=dark"></a>&emsp;
+  <a href="https://react.dev/"><img width="48" height="48" alt="React" src="https://skillicons.dev/icons?i=react&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://nextjs.org/docs"><img width="48" height="48" alt="Next.js" src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://tailwindcss.com/docs"><img width="48" height="48" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://html.spec.whatwg.org/"><img width="48" height="48" alt="HTML" src="https://skillicons.dev/icons?i=html&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://www.w3.org/Style/CSS/"><img width="48" height="48" alt="CSS" src="https://skillicons.dev/icons?i=css&amp;theme=dark"></a>&emsp;&ensp;
   <a href="https://docs.flutter.dev/"><img width="48" height="48" alt="Flutter" src="https://skillicons.dev/icons?i=flutter&amp;theme=dark"></a>
 </p>
 
 ### APIs and Backend
 
 <p>
-  <a href="https://nodejs.org/api/"><img width="48" height="48" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark"></a>&emsp;
-  <a href="https://docs.nestjs.com/"><img width="48" height="48" alt="NestJS" src="https://skillicons.dev/icons?i=nestjs&amp;theme=dark"></a>&emsp;
-  <a href="https://fastapi.tiangolo.com/"><img width="48" height="48" alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi&amp;theme=dark"></a>&emsp;
-  <a href="https://docs.djangoproject.com/"><img width="48" height="48" alt="Django" src="https://skillicons.dev/icons?i=django&amp;theme=dark"></a>&emsp;
-  <a href="https://hono.dev/docs"><img height="36" alt="Hono" src="https://img.shields.io/badge/Hono-25212C?style=for-the-badge&amp;logo=hono&amp;logoColor=F3C5B9"></a>
+  <a href="https://nodejs.org/api/"><img width="48" height="48" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://docs.nestjs.com/"><img width="48" height="48" alt="NestJS" src="https://skillicons.dev/icons?i=nestjs&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://fastapi.tiangolo.com/"><img width="48" height="48" alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://docs.djangoproject.com/"><img width="48" height="48" alt="Django" src="https://skillicons.dev/icons?i=django&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://hono.dev/docs"><img width="48" height="48" alt="Hono" src="./assets/skills/hono.svg"></a>
 </p>
 
 ### Databases and Data Tools
 
 <p>
-  <a href="https://www.postgresql.org/docs/"><img width="48" height="48" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres&amp;theme=dark"></a>&emsp;
-  <a href="https://www.mongodb.com/docs/"><img width="48" height="48" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb&amp;theme=dark"></a>&emsp;
-  <a href="https://redis.io/docs/latest/"><img width="48" height="48" alt="Redis" src="https://skillicons.dev/icons?i=redis&amp;theme=dark"></a>&emsp;
-  <a href="https://supabase.com/docs"><img width="48" height="48" alt="Supabase" src="https://skillicons.dev/icons?i=supabase&amp;theme=dark"></a>&emsp;
-  <a href="https://www.prisma.io/docs"><img width="48" height="48" alt="Prisma" src="https://skillicons.dev/icons?i=prisma&amp;theme=dark"></a>&emsp;
-  <a href="https://neo4j.com/docs/"><img height="36" alt="Neo4j" src="https://img.shields.io/badge/Neo4j-25212C?style=for-the-badge&amp;logo=neo4j&amp;logoColor=F3C5B9"></a>
+  <a href="https://www.postgresql.org/docs/"><img width="48" height="48" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://www.mongodb.com/docs/"><img width="48" height="48" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://redis.io/docs/latest/"><img width="48" height="48" alt="Redis" src="https://skillicons.dev/icons?i=redis&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://supabase.com/docs"><img width="48" height="48" alt="Supabase" src="https://skillicons.dev/icons?i=supabase&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://www.prisma.io/docs"><img width="48" height="48" alt="Prisma" src="https://skillicons.dev/icons?i=prisma&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://neo4j.com/docs/"><img width="48" height="48" alt="Neo4j" src="./assets/skills/neo4j.svg"></a>
 </p>
 
 ### AI and Delivery
 
 <p>
-  <a href="https://ai.google.dev/gemini-api/docs"><img height="36" alt="Gemini" src="https://img.shields.io/badge/Gemini-25212C?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=F3C5B9"></a>&emsp;
-  <a href="https://docs.langchain.com/oss/python/langchain/overview"><img height="36" alt="LangChain" src="https://img.shields.io/badge/LangChain-25212C?style=for-the-badge&amp;logo=langchain&amp;logoColor=F3C5B9"></a>&emsp;
-  <a href="https://docs.langchain.com/oss/python/langgraph/overview"><img height="36" alt="LangGraph" src="https://img.shields.io/badge/LangGraph-25212C?style=for-the-badge&amp;logo=langgraph&amp;logoColor=F3C5B9"></a>&emsp;
-  <a href="https://docs.ollama.com/"><img height="36" alt="Ollama" src="https://img.shields.io/badge/Ollama-25212C?style=for-the-badge&amp;logo=ollama&amp;logoColor=F3C5B9"></a>&emsp;
-  <a href="https://developers.deepgram.com/home"><img height="36" alt="Deepgram" src="https://img.shields.io/badge/Deepgram-25212C?style=for-the-badge&amp;logo=deepgram&amp;logoColor=F3C5B9"></a>
+  <a href="https://ai.google.dev/gemini-api/docs"><img width="48" height="48" alt="Gemini" src="./assets/skills/gemini.svg"></a>&emsp;&ensp;
+  <a href="https://docs.langchain.com/oss/python/langchain/overview"><img width="48" height="48" alt="LangChain" src="./assets/skills/langchain.svg"></a>&emsp;&ensp;
+  <a href="https://docs.langchain.com/oss/python/langgraph/overview"><img width="48" height="48" alt="LangGraph" src="./assets/skills/langgraph.svg"></a>&emsp;&ensp;
+  <a href="https://docs.ollama.com/"><img width="48" height="48" alt="Ollama" src="./assets/skills/ollama.svg"></a>&emsp;&ensp;
+  <a href="https://developers.deepgram.com/home"><img width="48" height="48" alt="Deepgram" src="./assets/skills/deepgram.svg"></a>
 </p>
 
 <p>
-  <a href="https://docs.n8n.io/"><img height="36" alt="n8n" src="https://img.shields.io/badge/n8n-25212C?style=for-the-badge&amp;logo=n8n&amp;logoColor=F3C5B9"></a>&emsp;
-  <a href="https://docs.docker.com/"><img width="48" height="48" alt="Docker" src="https://skillicons.dev/icons?i=docker&amp;theme=dark"></a>&emsp;
-  <a href="https://git-scm.com/doc"><img width="48" height="48" alt="Git" src="https://skillicons.dev/icons?i=git&amp;theme=dark"></a>&emsp;
-  <a href="https://docs.github.com/en/actions"><img width="48" height="48" alt="GitHub Actions" src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark"></a>&emsp;
-  <a href="https://developers.cloudflare.com/"><img width="48" height="48" alt="Cloudflare" src="https://skillicons.dev/icons?i=cloudflare&amp;theme=dark"></a>&emsp;
+  <a href="https://docs.n8n.io/"><img width="48" height="48" alt="n8n" src="./assets/skills/n8n.svg"></a>&emsp;&ensp;
+  <a href="https://docs.docker.com/"><img width="48" height="48" alt="Docker" src="https://skillicons.dev/icons?i=docker&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://git-scm.com/doc"><img width="48" height="48" alt="Git" src="https://skillicons.dev/icons?i=git&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://docs.github.com/en/actions"><img width="48" height="48" alt="GitHub Actions" src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://developers.cloudflare.com/"><img width="48" height="48" alt="Cloudflare" src="https://skillicons.dev/icons?i=cloudflare&amp;theme=dark"></a>&emsp;&ensp;
   <a href="https://vercel.com/docs"><img width="48" height="48" alt="Vercel" src="https://skillicons.dev/icons?i=vercel&amp;theme=dark"></a>
 </p>
 
