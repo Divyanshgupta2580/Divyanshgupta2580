@@ -2,9 +2,13 @@
 
 ![Full-stack developer · Applied AI systems · Backend and API engineering · RAG and AI agents](./assets/engineering-roles.svg)
 
-[inbox.DivyanshGupta1@protonmail.com](mailto:inbox.DivyanshGupta1@protonmail.com)
-
-[LinkedIn](https://www.linkedin.com/in/divyanshgupta2007/) · [Portfolio](https://divyansh-gupta-portfolio-lac.vercel.app/) · [Résumé](https://drive.google.com/file/d/1XbqOPOtspT1fE-rc5Om4RG5dNWelJBru/view?usp=sharing) · [X](https://x.com/DivyanshGu19605)
+<p>
+  <a href="mailto:inbox.DivyanshGupta1@protonmail.com"><img height="36" alt="Email me" src="https://img.shields.io/badge/Email-25212C?style=for-the-badge&amp;logo=protonmail&amp;logoColor=F3C5B9"></a>
+  <a href="https://www.linkedin.com/in/divyanshgupta2007/"><img height="36" alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&amp;theme=dark"></a>
+  <a href="https://divyansh-gupta-portfolio-lac.vercel.app/"><img height="36" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-25212C?style=for-the-badge&amp;logo=vercel&amp;logoColor=F3C5B9"></a>
+  <a href="https://drive.google.com/file/d/1XbqOPOtspT1fE-rc5Om4RG5dNWelJBru/view?usp=sharing"><img height="36" alt="Résumé" src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-25212C?style=for-the-badge&amp;logo=googledrive&amp;logoColor=F3C5B9"></a>
+  <a href="https://x.com/DivyanshGu19605"><img height="36" alt="X profile" src="https://img.shields.io/badge/X-25212C?style=for-the-badge&amp;logo=x&amp;logoColor=F3C5B9"></a>
+</p>
 
 ![Translucent software modules connected by copper and violet traces](./assets/systems-in-motion.jpg)
 
@@ -56,23 +60,35 @@
 
 ### Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-25212C?style=flat-square&logo=typescript&logoColor=F3C5B9) ![Python](https://img.shields.io/badge/Python-25212C?style=flat-square&logo=python&logoColor=F3C5B9) ![JavaScript](https://img.shields.io/badge/JavaScript-25212C?style=flat-square&logo=javascript&logoColor=F3C5B9) ![C++](https://img.shields.io/badge/C%2B%2B-25212C?style=flat-square&logo=cplusplus&logoColor=F3C5B9) ![Dart](https://img.shields.io/badge/Dart-25212C?style=flat-square&logo=dart&logoColor=F3C5B9)
+![TypeScript, Python, JavaScript, C++, and Dart](https://skillicons.dev/icons?i=ts,python,js,cpp,dart&theme=dark)
 
 ### Web and Mobile
 
-![React](https://img.shields.io/badge/React-25212C?style=flat-square&logo=react&logoColor=F3C5B9) ![Next.js](https://img.shields.io/badge/Next.js-25212C?style=flat-square&logo=nextdotjs&logoColor=F3C5B9) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-25212C?style=flat-square&logo=tailwindcss&logoColor=F3C5B9) ![HTML](https://img.shields.io/badge/HTML-25212C?style=flat-square&logo=html5&logoColor=F3C5B9) ![CSS](https://img.shields.io/badge/CSS-25212C?style=flat-square&logo=css&logoColor=F3C5B9) ![Flutter](https://img.shields.io/badge/Flutter-25212C?style=flat-square&logo=flutter&logoColor=F3C5B9)
+![React, Next.js, Tailwind CSS, HTML, CSS, and Flutter](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,flutter&theme=dark)
 
 ### APIs and Data
 
-![Node.js](https://img.shields.io/badge/Node.js-25212C?style=flat-square&logo=nodedotjs&logoColor=F3C5B9) ![NestJS](https://img.shields.io/badge/NestJS-25212C?style=flat-square&logo=nestjs&logoColor=F3C5B9) ![FastAPI](https://img.shields.io/badge/FastAPI-25212C?style=flat-square&logo=fastapi&logoColor=F3C5B9) ![Django](https://img.shields.io/badge/Django-25212C?style=flat-square&logo=django&logoColor=F3C5B9) ![Hono](https://img.shields.io/badge/Hono-25212C?style=flat-square&logo=hono&logoColor=F3C5B9) ![Prisma](https://img.shields.io/badge/Prisma-25212C?style=flat-square&logo=prisma&logoColor=F3C5B9) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-25212C?style=flat-square&logo=postgresql&logoColor=F3C5B9) ![MongoDB](https://img.shields.io/badge/MongoDB-25212C?style=flat-square&logo=mongodb&logoColor=F3C5B9) ![Redis](https://img.shields.io/badge/Redis-25212C?style=flat-square&logo=redis&logoColor=F3C5B9) ![Supabase](https://img.shields.io/badge/Supabase-25212C?style=flat-square&logo=supabase&logoColor=F3C5B9) ![Neo4j](https://img.shields.io/badge/Neo4j-25212C?style=flat-square&logo=neo4j&logoColor=F3C5B9)
+![Node.js, NestJS, FastAPI, Django, Prisma, PostgreSQL, MongoDB, Redis, and Supabase](https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,django,prisma,postgres,mongodb,redis,supabase&theme=dark&perline=5)
+
+<p>
+  <img height="36" alt="Hono" src="https://img.shields.io/badge/Hono-25212C?style=for-the-badge&amp;logo=hono&amp;logoColor=F3C5B9">
+  <img height="36" alt="Neo4j" src="https://img.shields.io/badge/Neo4j-25212C?style=for-the-badge&amp;logo=neo4j&amp;logoColor=F3C5B9">
+</p>
 
 ### AI and Delivery
 
-![Gemini](https://img.shields.io/badge/Gemini-25212C?style=flat-square&logo=googlegemini&logoColor=F3C5B9) ![LangGraph](https://img.shields.io/badge/LangGraph-25212C?style=flat-square&logo=langgraph&logoColor=F3C5B9) ![Docker](https://img.shields.io/badge/Docker-25212C?style=flat-square&logo=docker&logoColor=F3C5B9) ![Git](https://img.shields.io/badge/Git-25212C?style=flat-square&logo=git&logoColor=F3C5B9) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-25212C?style=flat-square&logo=githubactions&logoColor=F3C5B9) ![Cloudflare](https://img.shields.io/badge/Cloudflare-25212C?style=flat-square&logo=cloudflare&logoColor=F3C5B9) ![Vercel](https://img.shields.io/badge/Vercel-25212C?style=flat-square&logo=vercel&logoColor=F3C5B9)
+<p>
+  <img height="36" alt="Gemini" src="https://img.shields.io/badge/Gemini-25212C?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=F3C5B9">
+  <img height="36" alt="LangGraph" src="https://img.shields.io/badge/LangGraph-25212C?style=for-the-badge&amp;logo=langgraph&amp;logoColor=F3C5B9">
+</p>
+
+![Docker, Git, GitHub Actions, Cloudflare, and Vercel](https://skillicons.dev/icons?i=docker,git,githubactions,cloudflare,vercel&theme=dark)
 
 ## Activity and Coding
 
 ### GitHub
+
+![3D GitHub contribution calendar with language and activity breakdowns](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divyanshgupta2580/Divyanshgupta2580/output/github-contribution-grid-snake.svg">
@@ -115,4 +131,10 @@ _Waiting for yearly totals or a tracked week to estimate from._
 
 ### Problem Solving
 
-[C++ practice repository](https://github.com/Divyanshgupta2580/DSA-Assignments) · [LeetCode](https://leetcode.com/u/DIVYANSHGUPTA2580/) · [Codeforces](https://codeforces.com/profile/Divyansh_Gupta2007)
+#### LeetCode · [DIVYANSHGUPTA2580](https://leetcode.com/u/DIVYANSHGUPTA2580/)
+
+[![LeetCode problems solved, with a breakdown by difficulty](https://leetcard.jacoblin.cool/DIVYANSHGUPTA2580?theme=dark&font=JetBrains%20Mono)](https://leetcode.com/u/DIVYANSHGUPTA2580/)
+
+#### Codeforces · [Divyansh_Gupta2007](https://codeforces.com/profile/Divyansh_Gupta2007)
+
+[![Current Codeforces rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DDivyansh_Gupta2007&query=%24.result%5B0%5D.rank&label=Codeforces+rank&style=for-the-badge&logo=codeforces&color=25212C)](https://codeforces.com/profile/Divyansh_Gupta2007)
