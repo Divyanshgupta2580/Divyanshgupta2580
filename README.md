@@ -148,6 +148,9 @@
 Measured time takes priority. If a longer range is unavailable, the labeled estimate uses the latest tracked week’s daily average.
 
 <!--START_SECTION:waka-->
+<table>
+<tr>
+<td width="50%" valign="top">
 
 #### Weekly · 7 days
 
@@ -165,6 +168,9 @@ Measured time takes priority. If a longer range is unavailable, the labeled esti
 
 <!--END_SECTION:waka-last_7_days-->
 
+</td>
+<td width="50%" valign="top">
+
 #### Monthly · 30 days
 
 <!--START_SECTION:waka-last_30_days-->
@@ -180,6 +186,10 @@ Measured time takes priority. If a longer range is unavailable, the labeled esti
 | CSS | `49m` | `█░░░░░░░░░ 6.0%` |
 
 <!--END_SECTION:waka-last_30_days-->
+
+</td>
+</tr>
+</table>
 
 #### Yearly · 12 months
 
