@@ -153,7 +153,15 @@ Measured time takes priority. If a longer range is unavailable, the labeled esti
 
 <!--START_SECTION:waka-last_7_days-->
 
-_Waiting for tracked language totals._
+**7h 55m** tracked · through Nov 20, 2026
+
+| Language | Time | Share |
+| :--- | ---: | :--- |
+| Markdown | `3h 06m` | `████░░░░░░ 39.2%` |
+| TypeScript | `1h 46m` | `██░░░░░░░░ 22.3%` |
+| JavaScript | `1h 28m` | `██░░░░░░░░ 18.7%` |
+| JSON | `29m` | `█░░░░░░░░░ 6.2%` |
+| YAML | `26m` | `█░░░░░░░░░ 5.6%` |
 
 <!--END_SECTION:waka-last_7_days-->
 
@@ -161,7 +169,15 @@ _Waiting for tracked language totals._
 
 <!--START_SECTION:waka-last_30_days-->
 
-_Waiting for monthly totals or a tracked week to estimate from._
+**13h 38m** tracked · through Nov 20, 2026
+
+| Language | Time | Share |
+| :--- | ---: | :--- |
+| JavaScript | `4h 34m` | `███░░░░░░░ 33.5%` |
+| Markdown | `3h 16m` | `██░░░░░░░░ 23.9%` |
+| TypeScript | `1h 50m` | `█░░░░░░░░░ 13.5%` |
+| C++ | `1h 12m` | `█░░░░░░░░░ 8.9%` |
+| CSS | `49m` | `█░░░░░░░░░ 6.0%` |
 
 <!--END_SECTION:waka-last_30_days-->
 
@@ -169,7 +185,15 @@ _Waiting for monthly totals or a tracked week to estimate from._
 
 <!--START_SECTION:waka-last_year-->
 
-_Waiting for yearly totals or a tracked week to estimate from._
+**90h 28m** tracked · through Nov 20, 2026
+
+| Language | Time | Share |
+| :--- | ---: | :--- |
+| TypeScript | `30h 40m` | `███░░░░░░░ 33.9%` |
+| JavaScript | `21h 50m` | `██░░░░░░░░ 24.1%` |
+| Markdown | `13h 01m` | `█░░░░░░░░░ 14.4%` |
+| C++ | `8h 04m` | `█░░░░░░░░░ 8.9%` |
+| JSON | `3h 32m` | `░░░░░░░░░░ 3.9%` |
 
 <!--END_SECTION:waka-last_year-->
 
