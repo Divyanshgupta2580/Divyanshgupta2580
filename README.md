@@ -12,7 +12,7 @@
   <a href="https://x.com/DivyanshGu19605"><img height="30" alt="X profile" src="https://img.shields.io/badge/X-25212C?style=for-the-badge&amp;logo=x&amp;logoColor=F3C5B9"></a>
 </p>
 
-![Translucent software modules connected by copper and violet traces](./assets/systems-in-motion.jpg)
+![Translucent software modules connected by copper and violet traces](./assets/systems-in-motion-animated.svg)
 
 ## Selected Projects
 
@@ -150,7 +150,7 @@ Measured time takes priority. If a longer range is unavailable, the labeled esti
 <!--START_SECTION:waka-->
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 #### Weekly · 7 days
 
@@ -169,7 +169,8 @@ Measured time takes priority. If a longer range is unavailable, the labeled esti
 <!--END_SECTION:waka-last_7_days-->
 
 </td>
-<td width="50%" valign="top">
+<td width="24">&nbsp;</td>
+<td valign="top">
 
 #### Monthly · 30 days
 
