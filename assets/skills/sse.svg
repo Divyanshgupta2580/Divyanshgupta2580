@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">Server-Sent Events</title>
+  <rect width="48" height="48" rx="10" fill="#242938"/>
+  <circle cx="16" cy="19" r="2.5" fill="#7dd3fc"/>
+  <path d="M21 14a7 7 0 0 1 0 10m4-14a12.5 12.5 0 0 1 0 18" fill="none" stroke="#7dd3fc" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="24" y="39" fill="#f5f7ff" font-family="sans-serif" font-size="10" font-weight="700" text-anchor="middle">SSE</text>
+</svg>

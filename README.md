@@ -59,43 +59,61 @@
 ### Languages
 
 <p>
-  <a href="https://www.typescriptlang.org/docs/"><img width="48" height="48" alt="TypeScript" src="https://skillicons.dev/icons?i=ts&amp;theme=dark"></a>&emsp;&ensp;
-  <a href="https://docs.python.org/3/"><img width="48" height="48" alt="Python" src="https://skillicons.dev/icons?i=python&amp;theme=dark"></a>&emsp;&ensp;
-  <a href="https://tc39.es/ecma262/"><img width="48" height="48" alt="JavaScript" src="https://skillicons.dev/icons?i=js&amp;theme=dark"></a>&emsp;&ensp;
   <a href="https://isocpp.org/"><img width="48" height="48" alt="C++" src="https://skillicons.dev/icons?i=cpp&amp;theme=dark"></a>&emsp;&ensp;
-  <a href="https://dart.dev/docs"><img width="48" height="48" alt="Dart" src="https://skillicons.dev/icons?i=dart&amp;theme=dark"></a>
+  <a href="https://docs.python.org/3/"><img width="48" height="48" alt="Python" src="https://skillicons.dev/icons?i=python&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://www.typescriptlang.org/docs/"><img width="48" height="48" alt="TypeScript" src="https://skillicons.dev/icons?i=ts&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://tc39.es/ecma262/"><img width="48" height="48" alt="JavaScript" src="https://skillicons.dev/icons?i=js&amp;theme=dark"></a>
 </p>
 
-### Web and Mobile
+### Frontend
 
 <p>
   <a href="https://react.dev/"><img width="48" height="48" alt="React" src="https://skillicons.dev/icons?i=react&amp;theme=dark"></a>&emsp;&ensp;
   <a href="https://nextjs.org/docs"><img width="48" height="48" alt="Next.js" src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark"></a>&emsp;&ensp;
-  <a href="https://tailwindcss.com/docs"><img width="48" height="48" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind&amp;theme=dark"></a>&emsp;&ensp;
   <a href="https://html.spec.whatwg.org/"><img width="48" height="48" alt="HTML" src="https://skillicons.dev/icons?i=html&amp;theme=dark"></a>&emsp;&ensp;
   <a href="https://www.w3.org/Style/CSS/"><img width="48" height="48" alt="CSS" src="https://skillicons.dev/icons?i=css&amp;theme=dark"></a>&emsp;&ensp;
-  <a href="https://docs.flutter.dev/"><img width="48" height="48" alt="Flutter" src="https://skillicons.dev/icons?i=flutter&amp;theme=dark"></a>
+  <a href="https://vite.dev/guide/"><img width="48" height="48" alt="Vite" src="https://skillicons.dev/icons?i=vite&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://redux.js.org/"><img width="48" height="48" alt="Redux" src="https://skillicons.dev/icons?i=redux&amp;theme=dark"></a>
 </p>
 
-### APIs and Backend
+### Backend
 
 <p>
   <a href="https://nodejs.org/api/"><img width="48" height="48" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark"></a>&emsp;&ensp;
-  <a href="https://docs.nestjs.com/"><img width="48" height="48" alt="NestJS" src="https://skillicons.dev/icons?i=nestjs&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://expressjs.com/"><img width="48" height="48" alt="Express" src="https://skillicons.dev/icons?i=express&amp;theme=dark"></a>&emsp;&ensp;
   <a href="https://fastapi.tiangolo.com/"><img width="48" height="48" alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi&amp;theme=dark"></a>&emsp;&ensp;
-  <a href="https://docs.djangoproject.com/"><img width="48" height="48" alt="Django" src="https://skillicons.dev/icons?i=django&amp;theme=dark"></a>&emsp;&ensp;
-  <a href="https://hono.dev/docs"><img width="48" height="48" alt="Hono" src="./assets/skills/hono.svg"></a>
+  <a href="https://html.spec.whatwg.org/multipage/server-sent-events.html"><img width="48" height="48" alt="Server-Sent Events (SSE)" src="./assets/skills/sse.svg"></a>
 </p>
 
-### Databases and Data Tools
+### Databases & Caching
 
 <p>
   <a href="https://www.postgresql.org/docs/"><img width="48" height="48" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres&amp;theme=dark"></a>&emsp;&ensp;
   <a href="https://www.mongodb.com/docs/"><img width="48" height="48" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb&amp;theme=dark"></a>&emsp;&ensp;
-  <a href="https://redis.io/docs/latest/"><img width="48" height="48" alt="Redis" src="https://skillicons.dev/icons?i=redis&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://firebase.google.com/docs"><img width="48" height="48" alt="Firebase" src="https://skillicons.dev/icons?i=firebase&amp;theme=dark"></a>&emsp;&ensp;
   <a href="https://supabase.com/docs"><img width="48" height="48" alt="Supabase" src="https://skillicons.dev/icons?i=supabase&amp;theme=dark"></a>&emsp;&ensp;
-  <a href="https://www.prisma.io/docs"><img width="48" height="48" alt="Prisma" src="https://skillicons.dev/icons?i=prisma&amp;theme=dark"></a>&emsp;&ensp;
-  <a href="https://neo4j.com/docs/"><img width="48" height="48" alt="Neo4j" src="./assets/skills/neo4j.svg"></a>
+  <a href="https://redis.io/docs/latest/"><img width="48" height="48" alt="Redis" src="https://skillicons.dev/icons?i=redis&amp;theme=dark"></a>
+</p>
+
+### AI & Machine Learning
+
+<p>
+  <a href="https://scikit-learn.org/stable/" title="scikit-learn"><img width="48" height="48" alt="scikit-learn" src="https://skillicons.dev/icons?i=sklearn&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://console.groq.com/docs/overview" title="Groq API"><img width="48" height="48" alt="Groq API" src="https://go-skill-icons.vercel.app/api/icons?i=groq&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://developers.openai.com/api/docs" title="OpenAI API"><img width="48" height="48" alt="OpenAI API" src="./assets/skills/chatgpt.svg"></a>&emsp;&ensp;
+  <a href="https://platform.claude.com/docs/en/home" title="Anthropic API"><img width="48" height="48" alt="Anthropic API" src="https://go-skill-icons.vercel.app/api/icons?i=claude&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://ai.google.dev/gemini-api/docs" title="Gemini API"><img width="48" height="48" alt="Gemini API" src="./assets/skills/gemini.svg"></a>
+</p>
+
+### Tools & Deployment
+
+<p>
+  <a href="https://git-scm.com/doc"><img width="48" height="48" alt="Git" src="https://skillicons.dev/icons?i=git&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://docs.github.com/en"><img width="48" height="48" alt="GitHub" src="https://skillicons.dev/icons?i=github&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://docs.docker.com/"><img width="48" height="48" alt="Docker" src="https://skillicons.dev/icons?i=docker&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://vercel.com/docs"><img width="48" height="48" alt="Vercel" src="https://skillicons.dev/icons?i=vercel&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://docs.railway.com/"><img width="48" height="48" alt="Railway" src="https://go-skill-icons.vercel.app/api/icons?i=railway&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://render.com/docs"><img width="48" height="48" alt="Render" src="https://go-skill-icons.vercel.app/api/icons?i=render&amp;theme=dark"></a>
 </p>
 
 ### AI and Delivery
