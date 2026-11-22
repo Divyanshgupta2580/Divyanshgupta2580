@@ -95,37 +95,18 @@
   <a href="https://redis.io/docs/latest/"><img width="48" height="48" alt="Redis" src="https://skillicons.dev/icons?i=redis&amp;theme=dark"></a>
 </p>
 
-### AI & Machine Learning
-
-<p>
-  <a href="https://scikit-learn.org/stable/" title="scikit-learn"><img width="48" height="48" alt="scikit-learn" src="https://skillicons.dev/icons?i=sklearn&amp;theme=dark"></a>&emsp;&ensp;
-  <a href="https://console.groq.com/docs/overview" title="Groq API"><img width="48" height="48" alt="Groq API" src="https://go-skill-icons.vercel.app/api/icons?i=groq&amp;theme=dark"></a>&emsp;&ensp;
-  <a href="https://developers.openai.com/api/docs" title="OpenAI API"><img width="48" height="48" alt="OpenAI API" src="./assets/skills/chatgpt.svg"></a>&emsp;&ensp;
-  <a href="https://platform.claude.com/docs/en/home" title="Anthropic API"><img width="48" height="48" alt="Anthropic API" src="https://go-skill-icons.vercel.app/api/icons?i=claude&amp;theme=dark"></a>&emsp;&ensp;
-  <a href="https://ai.google.dev/gemini-api/docs" title="Gemini API"><img width="48" height="48" alt="Gemini API" src="./assets/skills/gemini.svg"></a>
-</p>
-
-### Tools & Deployment
-
-<p>
-  <a href="https://git-scm.com/doc"><img width="48" height="48" alt="Git" src="https://skillicons.dev/icons?i=git&amp;theme=dark"></a>&emsp;&ensp;
-  <a href="https://docs.github.com/en"><img width="48" height="48" alt="GitHub" src="https://skillicons.dev/icons?i=github&amp;theme=dark"></a>&emsp;&ensp;
-  <a href="https://docs.docker.com/"><img width="48" height="48" alt="Docker" src="https://skillicons.dev/icons?i=docker&amp;theme=dark"></a>&emsp;&ensp;
-  <a href="https://vercel.com/docs"><img width="48" height="48" alt="Vercel" src="https://skillicons.dev/icons?i=vercel&amp;theme=dark"></a>&emsp;&ensp;
-  <a href="https://docs.railway.com/"><img width="48" height="48" alt="Railway" src="https://go-skill-icons.vercel.app/api/icons?i=railway&amp;theme=dark"></a>&emsp;&ensp;
-  <a href="https://render.com/docs"><img width="48" height="48" alt="Render" src="https://go-skill-icons.vercel.app/api/icons?i=render&amp;theme=dark"></a>
-</p>
-
 ### AI and Delivery
 
 #### AI Models and Assistants
 
 <p>
-  <a href="https://ai.google.dev/gemini-api/docs"><img width="48" height="48" alt="Gemini" src="./assets/skills/gemini.svg"></a>&emsp;&ensp;
-  <a href="https://chatgpt.com/"><img width="48" height="48" alt="ChatGPT" src="./assets/skills/chatgpt.svg"></a>&emsp;&ensp;
+  <a href="https://ai.google.dev/gemini-api/docs" title="Gemini API"><img width="48" height="48" alt="Gemini API" src="./assets/skills/gemini.svg"></a>&emsp;&ensp;
+  <a href="https://developers.openai.com/api/docs" title="ChatGPT and OpenAI API"><img width="48" height="48" alt="ChatGPT and OpenAI API" src="./assets/skills/chatgpt.svg"></a>&emsp;&ensp;
   <a href="https://docs.x.ai/overview"><img width="48" height="48" alt="Grok" src="./assets/skills/grok.svg"></a>&emsp;&ensp;
   <a href="https://platform.kimi.ai/docs/get-your-api-key"><img width="48" height="48" alt="Kimi" src="./assets/skills/kimi.svg"></a>&emsp;&ensp;
-  <a href="https://api-docs.deepseek.com/"><img width="48" height="48" alt="DeepSeek" src="./assets/skills/deepseek.svg"></a>
+  <a href="https://api-docs.deepseek.com/"><img width="48" height="48" alt="DeepSeek" src="./assets/skills/deepseek.svg"></a>&emsp;&ensp;
+  <a href="https://console.groq.com/docs/overview" title="Groq API"><img width="48" height="48" alt="Groq API" src="https://go-skill-icons.vercel.app/api/icons?i=groq&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://platform.claude.com/docs/en/home" title="Anthropic API"><img width="48" height="48" alt="Anthropic API" src="https://go-skill-icons.vercel.app/api/icons?i=claude&amp;theme=dark"></a>
 </p>
 
 #### AI Frameworks and Tools
@@ -134,7 +115,8 @@
   <a href="https://docs.langchain.com/oss/python/langchain/overview"><img width="48" height="48" alt="LangChain" src="./assets/skills/langchain.svg"></a>&emsp;&ensp;
   <a href="https://docs.langchain.com/oss/python/langgraph/overview"><img width="48" height="48" alt="LangGraph" src="./assets/skills/langgraph.svg"></a>&emsp;&ensp;
   <a href="https://docs.ollama.com/"><img width="48" height="48" alt="Ollama" src="./assets/skills/ollama.svg"></a>&emsp;&ensp;
-  <a href="https://developers.deepgram.com/home"><img width="48" height="48" alt="Deepgram" src="./assets/skills/deepgram.svg"></a>
+  <a href="https://developers.deepgram.com/home"><img width="48" height="48" alt="Deepgram" src="./assets/skills/deepgram.svg"></a>&emsp;&ensp;
+  <a href="https://scikit-learn.org/stable/" title="scikit-learn"><img width="48" height="48" alt="scikit-learn" src="https://skillicons.dev/icons?i=sklearn&amp;theme=dark"></a>
 </p>
 
 #### Automation and DevOps
@@ -143,9 +125,12 @@
   <a href="https://docs.n8n.io/"><img width="48" height="48" alt="n8n" src="./assets/skills/n8n.svg"></a>&emsp;&ensp;
   <a href="https://docs.docker.com/"><img width="48" height="48" alt="Docker" src="https://skillicons.dev/icons?i=docker&amp;theme=dark"></a>&emsp;&ensp;
   <a href="https://git-scm.com/doc"><img width="48" height="48" alt="Git" src="https://skillicons.dev/icons?i=git&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://docs.github.com/en"><img width="48" height="48" alt="GitHub" src="https://skillicons.dev/icons?i=github&amp;theme=dark"></a>&emsp;&ensp;
   <a href="https://docs.github.com/en/actions"><img width="48" height="48" alt="GitHub Actions" src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark"></a>&emsp;&ensp;
   <a href="https://developers.cloudflare.com/"><img width="48" height="48" alt="Cloudflare" src="https://skillicons.dev/icons?i=cloudflare&amp;theme=dark"></a>&emsp;&ensp;
-  <a href="https://vercel.com/docs"><img width="48" height="48" alt="Vercel" src="https://skillicons.dev/icons?i=vercel&amp;theme=dark"></a>
+  <a href="https://vercel.com/docs"><img width="48" height="48" alt="Vercel" src="https://skillicons.dev/icons?i=vercel&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://docs.railway.com/"><img width="48" height="48" alt="Railway" src="https://go-skill-icons.vercel.app/api/icons?i=railway&amp;theme=dark"></a>&emsp;&ensp;
+  <a href="https://render.com/docs"><img width="48" height="48" alt="Render" src="https://go-skill-icons.vercel.app/api/icons?i=render&amp;theme=dark"></a>
 </p>
 
 ## Activity and Coding
