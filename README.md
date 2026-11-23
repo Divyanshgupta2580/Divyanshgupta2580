@@ -8,7 +8,7 @@
   <a href="mailto:inbox.DivyanshGupta1@protonmail.com"><img height="30" alt="Email me" src="https://img.shields.io/badge/Email-25212C?style=for-the-badge&amp;logo=protonmail&amp;logoColor=F3C5B9"></a>&emsp;
   <a href="https://www.linkedin.com/in/divyanshgupta2007/"><img height="30" alt="LinkedIn" src="./assets/linkedin-badge.svg"></a>&emsp;
   <a href="https://divyansh-gupta-portfolio-lac.vercel.app/"><img height="30" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-25212C?style=for-the-badge&amp;logo=vercel&amp;logoColor=F3C5B9"></a>&emsp;
-  <a href="https://drive.google.com/file/d/1V95qU7uWujOLHwP5-iVuaxcnXeM2ZSDv/view?usp=sharing"><img height="30" alt="Résumé" src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-25212C?style=for-the-badge&amp;logo=googledrive&amp;logoColor=F3C5B9"></a>&emsp;
+  <a href="https://drive.proton.me/urls/1RJVFRPK5W#pL41T4GeD3l6"><img height="30" alt="Résumé" src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-25212C?style=for-the-badge&amp;logo=googledrive&amp;logoColor=F3C5B9"></a>&emsp;
   <a href="https://x.com/DivyanshGu19605"><img height="30" alt="X profile" src="https://img.shields.io/badge/X-25212C?style=for-the-badge&amp;logo=x&amp;logoColor=F3C5B9"></a>
 </p>
 
