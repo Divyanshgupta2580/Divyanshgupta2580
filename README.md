@@ -159,15 +159,15 @@ Measured time takes priority. If a longer range is unavailable, the labeled esti
 
 <!--START_SECTION:waka-last_7_days-->
 
-**14h 13m** tracked · through Nov 22, 2026
+**14h 43m** tracked · through Nov 23, 2026
 
 | Language | Time | Share |
 | :--- | ---: | :--- |
-| TypeScript | `2h 55m` | `██░░░░░░░░ 20.5%` |
-| JavaScript | `2h 39m` | `██░░░░░░░░ 18.7%` |
-| Markdown | `2h 37m` | `██░░░░░░░░ 18.5%` |
-| CSS | `1h 32m` | `█░░░░░░░░░ 10.8%` |
-| Python | `1h 20m` | `█░░░░░░░░░ 9.5%` |
+| Markdown | `2h 58m` | `██░░░░░░░░ 20.2%` |
+| CSS | `2h 09m` | `█░░░░░░░░░ 14.6%` |
+| TypeScript | `2h 07m` | `█░░░░░░░░░ 14.5%` |
+| Python | `2h 04m` | `█░░░░░░░░░ 14.1%` |
+| JavaScript | `1h 46m` | `█░░░░░░░░░ 12.1%` |
 
 <!--END_SECTION:waka-last_7_days-->
 
@@ -179,15 +179,15 @@ Measured time takes priority. If a longer range is unavailable, the labeled esti
 
 <!--START_SECTION:waka-last_30_days-->
 
-**13h 14m** tracked · through Nov 21, 2026
+**17h 09m** tracked · through Nov 22, 2026
 
 | Language | Time | Share |
 | :--- | ---: | :--- |
-| JavaScript | `4h 34m` | `███░░░░░░░ 34.5%` |
-| Markdown | `3h 42m` | `███░░░░░░░ 28.0%` |
-| TypeScript | `1h 50m` | `█░░░░░░░░░ 13.9%` |
-| CSS | `49m` | `█░░░░░░░░░ 6.2%` |
-| JSON | `35m` | `░░░░░░░░░░ 4.5%` |
+| JavaScript | `4h 30m` | `███░░░░░░░ 26.3%` |
+| Markdown | `3h 43m` | `██░░░░░░░░ 21.7%` |
+| TypeScript | `2h 51m` | `██░░░░░░░░ 16.7%` |
+| CSS | `1h 40m` | `█░░░░░░░░░ 9.8%` |
+| Python | `1h 20m` | `█░░░░░░░░░ 7.9%` |
 
 <!--END_SECTION:waka-last_30_days-->
 
@@ -199,15 +199,15 @@ Measured time takes priority. If a longer range is unavailable, the labeled esti
 
 <!--START_SECTION:waka-last_year-->
 
-**96h 14m** tracked · through Nov 22, 2026
+**99h 33m** tracked · through Nov 23, 2026
 
 | Language | Time | Share |
 | :--- | ---: | :--- |
-| TypeScript | `31h 46m` | `███░░░░░░░ 33.0%` |
-| JavaScript | `22h 12m` | `██░░░░░░░░ 23.1%` |
-| Markdown | `13h 38m` | `█░░░░░░░░░ 14.2%` |
-| C++ | `8h 04m` | `█░░░░░░░░░ 8.4%` |
-| JSON | `3h 32m` | `░░░░░░░░░░ 3.7%` |
+| TypeScript | `32h 48m` | `███░░░░░░░ 33.0%` |
+| JavaScript | `22h 12m` | `██░░░░░░░░ 22.3%` |
+| Markdown | `14h 02m` | `█░░░░░░░░░ 14.1%` |
+| C++ | `8h 04m` | `█░░░░░░░░░ 8.1%` |
+| JSON | `3h 56m` | `░░░░░░░░░░ 4.0%` |
 
 <!--END_SECTION:waka-last_year-->
 
