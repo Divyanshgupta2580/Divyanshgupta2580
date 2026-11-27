@@ -159,15 +159,15 @@ Measured time takes priority. If a longer range is unavailable, the labeled esti
 
 <!--START_SECTION:waka-last_7_days-->
 
-**20h 36m** tracked · through Nov 25, 2026
+**19h 29m** tracked · through Nov 26, 2026
 
 | Language | Time | Share |
 | :--- | ---: | :--- |
-| TypeScript | `5h 39m` | `███░░░░░░░ 27.5%` |
-| Markdown | `3h 24m` | `██░░░░░░░░ 16.6%` |
-| CSS | `2h 33m` | `█░░░░░░░░░ 12.4%` |
-| Python | `2h 26m` | `█░░░░░░░░░ 11.8%` |
-| JavaScript | `1h 47m` | `█░░░░░░░░░ 8.7%` |
+| TypeScript | `5h 39m` | `███░░░░░░░ 29.0%` |
+| Markdown | `3h 24m` | `██░░░░░░░░ 17.5%` |
+| Python | `2h 26m` | `█░░░░░░░░░ 12.5%` |
+| CSS | `2h 17m` | `█░░░░░░░░░ 11.7%` |
+| JavaScript | `1h 37m` | `█░░░░░░░░░ 8.3%` |
 
 <!--END_SECTION:waka-last_7_days-->
 
@@ -179,15 +179,15 @@ Measured time takes priority. If a longer range is unavailable, the labeled esti
 
 <!--START_SECTION:waka-last_30_days-->
 
-**21h 15m** tracked · through Nov 24, 2026
+**23h 11m** tracked · through Nov 25, 2026
 
 | Language | Time | Share |
 | :--- | ---: | :--- |
-| TypeScript | `7h 14m` | `███░░░░░░░ 34.1%` |
-| Markdown | `4h 33m` | `██░░░░░░░░ 21.5%` |
-| Python | `2h 04m` | `█░░░░░░░░░ 9.7%` |
-| CSS | `1h 53m` | `█░░░░░░░░░ 8.9%` |
-| JavaScript | `1h 51m` | `█░░░░░░░░░ 8.7%` |
+| TypeScript | `7h 25m` | `███░░░░░░░ 32.0%` |
+| Markdown | `4h 33m` | `██░░░░░░░░ 19.7%` |
+| Python | `2h 26m` | `█░░░░░░░░░ 10.5%` |
+| CSS | `2h 18m` | `█░░░░░░░░░ 9.9%` |
+| JavaScript | `1h 51m` | `█░░░░░░░░░ 8.0%` |
 
 <!--END_SECTION:waka-last_30_days-->
 
@@ -199,7 +199,7 @@ Measured time takes priority. If a longer range is unavailable, the labeled esti
 
 <!--START_SECTION:waka-last_year-->
 
-**105h 26m** tracked · through Nov 25, 2026
+**105h 26m** tracked · through Nov 26, 2026
 
 | Language | Time | Share |
 | :--- | ---: | :--- |
