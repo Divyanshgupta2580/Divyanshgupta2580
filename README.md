@@ -159,15 +159,15 @@ Measured time takes priority. If a longer range is unavailable, the labeled esti
 
 <!--START_SECTION:waka-last_7_days-->
 
-**19h 29m** tracked · through Nov 26, 2026
+**15h 04m** tracked · through Nov 27, 2026
 
 | Language | Time | Share |
 | :--- | ---: | :--- |
-| TypeScript | `5h 39m` | `███░░░░░░░ 29.0%` |
-| Markdown | `3h 24m` | `██░░░░░░░░ 17.5%` |
-| Python | `2h 26m` | `█░░░░░░░░░ 12.5%` |
-| CSS | `2h 17m` | `█░░░░░░░░░ 11.7%` |
-| JavaScript | `1h 37m` | `█░░░░░░░░░ 8.3%` |
+| TypeScript | `5h 39m` | `████░░░░░░ 37.5%` |
+| Python | `2h 16m` | `██░░░░░░░░ 15.1%` |
+| CSS | `1h 55m` | `█░░░░░░░░░ 12.8%` |
+| Markdown | `1h 27m` | `█░░░░░░░░░ 9.7%` |
+| TeX | `1h 07m` | `█░░░░░░░░░ 7.5%` |
 
 <!--END_SECTION:waka-last_7_days-->
 
@@ -179,7 +179,7 @@ Measured time takes priority. If a longer range is unavailable, the labeled esti
 
 <!--START_SECTION:waka-last_30_days-->
 
-**23h 11m** tracked · through Nov 25, 2026
+**23h 11m** tracked · through Nov 26, 2026
 
 | Language | Time | Share |
 | :--- | ---: | :--- |
@@ -199,14 +199,14 @@ Measured time takes priority. If a longer range is unavailable, the labeled esti
 
 <!--START_SECTION:waka-last_year-->
 
-**105h 26m** tracked · through Nov 26, 2026
+**105h 33m** tracked · through Nov 27, 2026
 
 | Language | Time | Share |
 | :--- | ---: | :--- |
-| TypeScript | `36h 20m` | `███░░░░░░░ 34.5%` |
-| JavaScript | `22h 12m` | `██░░░░░░░░ 21.1%` |
+| TypeScript | `36h 20m` | `███░░░░░░░ 34.4%` |
+| JavaScript | `22h 12m` | `██░░░░░░░░ 21.0%` |
 | Markdown | `14h 29m` | `█░░░░░░░░░ 13.7%` |
-| C++ | `9h 02m` | `█░░░░░░░░░ 8.6%` |
+| C++ | `9h 09m` | `█░░░░░░░░░ 8.7%` |
 | CSS | `4h 11m` | `░░░░░░░░░░ 4.0%` |
 
 <!--END_SECTION:waka-last_year-->
